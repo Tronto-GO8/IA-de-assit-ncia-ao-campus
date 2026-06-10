@@ -1,0 +1,2 @@
+// comando para iniciar o ambiente virtual:  venv\Scripts\activate 
+// comando par usar a IA: chatbot.py
