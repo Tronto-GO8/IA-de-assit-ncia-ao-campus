@@ -1,11 +1,20 @@
 import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 
+load_dotenv()
+
+api_key = os.getenv("GEMINI_API_KEY")
+
+genai.configure(api_key=api_key)
+
+print(api_key)
+"""
 # ==========================================
 # CONFIGURAÇÃO
 # ==========================================
 
-genai.configure(api_key="AIzaSyBu7o5GaTVa0EwedVOQDjish5SumZ1QEr0")
+genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 
@@ -92,7 +101,7 @@ while True:
     for doc in docs_relevantes:
         print("-", doc)
 
-    prompt = f"""
+    prompt = f""
 Você é um assistente do Instituto Federal.
 
 REGRAS:
@@ -108,7 +117,7 @@ DOCUMENTOS:
 PERGUNTA:
 
 {pergunta}
-"""
+""
 
     try:
 
@@ -122,3 +131,5 @@ PERGUNTA:
 
         print("\nErro:")
         print(erro)
+
+        """
