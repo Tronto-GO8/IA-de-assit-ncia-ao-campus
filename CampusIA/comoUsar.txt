@@ -1,2 +1,17 @@
 // comando para iniciar o ambiente virtual:  venv\Scripts\activate 
-// comando par usar a IA: chatbot.py
+// comando par usar a IA: python chatbot.py
+
+
+
+# ==========================================
+# EMBENDDING
+# ==========================================
+
+// embendding usada : multilingual-e5-base
+
+// comando pra uso: pip install sentence-transformers
+pip install torch
+
+
+
+/// tudo funcionando. Agora é só adicionar o banco vetorial (conversar com o sor se é nescessário). Salvar a conversar para que ela possa continuar corretamente e mais coisas que tão no GPT
