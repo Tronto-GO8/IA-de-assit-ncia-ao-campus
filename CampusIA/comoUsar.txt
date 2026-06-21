@@ -1,5 +1,11 @@
-// comando para iniciar o ambiente virtual:  venv\Scripts\activate 
-// comando par usar a IA: python chatbot.py
+# ==========================================
+# COMO RODAR
+# ==========================================
+
+// baixar Python 3.12.x. Comando " winget install Python.Python.3.13 " 
+// comando python " python -m venv venv " para criar o ambiente virtual.
+// comando para " venv\Scripts\activate " o ambiente virtual.
+// comando par usar a IA " python chatbot.py ".
 
 
 
