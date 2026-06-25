@@ -1,12 +1,35 @@
 import os
-import json
 import re
+
+import chromadb
 
 from sentence_transformers import SentenceTransformer
 
+# ======================================================
+# BANCO VETORIAL
+# ======================================================
 
-# limpa o lixo que os espaços inuteis que vem dos PDFs 
+cliente = chromadb.PersistentClient(
+    path="banco_vetorial"
+)
 
+colecao = cliente.get_or_create_collection(
+    name="campusia"
+)
+
+# Limpa coleção antiga para evitar duplicações
+try:
+    cliente.delete_collection("campusia")
+except:
+    pass
+
+colecao = cliente.get_or_create_collection(
+    name="campusia"
+)
+
+# ======================================================
+# LIMPEZA DOS TEXTOS
+# ======================================================
 
 def limpar_texto(texto):
 
@@ -35,16 +58,18 @@ def limpar_texto(texto):
 
     texto = "\n".join(linhas_limpas)
 
-    # Remove espaços duplicados mas preserva quebras de linha
-    texto = re.sub(r"[ \t]+", " ", texto)
+    texto = re.sub(
+        r"[ \t]+",
+        " ",
+        texto
+    )
 
     return texto.strip()
 
 
-
-
-# criar chucks por paragráfos para os documentos mais organizados por sessoes
-
+# ======================================================
+# CHUNKING POR SEÇÃO
+# ======================================================
 
 def criar_chunks_por_secao(texto):
 
@@ -72,8 +97,9 @@ def criar_chunks_por_secao(texto):
     return chunks
 
 
-# criar chucks por quantidade de texto (500) para os documentos menos organizados
-
+# ======================================================
+# CHUNKING POR PARÁGRAFOS
+# ======================================================
 
 def criar_chunks_por_paragrafo(texto):
 
@@ -113,7 +139,9 @@ def criar_chunks_por_paragrafo(texto):
     return chunks
 
 
-# base de escolha de formato de chunk
+# ======================================================
+# ESCOLHA AUTOMÁTICA DO TIPO DE CHUNK
+# ======================================================
 
 def criar_chunks(texto):
 
@@ -135,13 +163,21 @@ def criar_chunks(texto):
     return criar_chunks_por_paragrafo(texto)
 
 
+# ======================================================
+# CARREGAR MODELO
+# ======================================================
+
 print("Carregando modelo...")
 
 model = SentenceTransformer(
     "intfloat/multilingual-e5-base"
 )
 
-base_conhecimento = []
+total_chunks = 0
+
+# ======================================================
+# PROCESSAR DOCUMENTOS
+# ======================================================
 
 for arquivo in os.listdir("documentos_em_txt"):
 
@@ -184,62 +220,49 @@ Conteúdo:
 
         embedding = model.encode(
             texto_para_embedding
+        ).tolist()
+
+        colecao.add(
+
+            ids=[
+                f"{arquivo}_{i}"
+            ],
+
+            embeddings=[
+                embedding
+            ],
+
+            documents=[
+                chunk["texto"]
+            ],
+
+            metadatas=[{
+                "arquivo": arquivo,
+                "titulo": chunk["titulo"],
+                "chunk_id": i
+            }]
         )
 
-        base_conhecimento.append({
+        total_chunks += 1
 
-            "arquivo": arquivo,
+# ======================================================
+# RESUMO FINAL
+# ======================================================
 
-            "chunk_id": i,
-
-            "titulo": chunk["titulo"],
-
-            "chunk": chunk["texto"],
-
-            "embedding": embedding.tolist()
-
-        })
+print("\n" + "=" * 60)
 
 print(
-    f"\nTotal de chunks: {len(base_conhecimento)}"
+    f"Total de chunks armazenados: {total_chunks}"
 )
 
-with open(
-    "base_conhecimento.json",
-    "w",
-    encoding="utf-8"
-) as f:
+print(
+    f"Quantidade no banco: {colecao.count()}"
+)
 
-    json.dump(
-        base_conhecimento,
-        f,
-        ensure_ascii=False
-    )
+print("\nBanco vetorial criado com sucesso!")
 
-print("\nBase salva!")
+print(
+    "\nArquivos armazenados em: ./banco_vetorial"
+)
 
-print("\nPrimeiros chunks gerados:\n")
-
-for item in base_conhecimento[:3]:
-
-    print("=" * 80)
-
-    print(
-        f"Arquivo: {item['arquivo']}"
-    )
-
-    print(
-        f"Chunk ID: {item['chunk_id']}"
-    )
-
-    print(
-        f"Título: {item['titulo']}"
-    )
-
-    print()
-
-    print(
-        item["chunk"][:500]
-    )
-
-    print()
+print("=" * 60)

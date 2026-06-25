@@ -1,13 +1,11 @@
-import json
+import chromadb
 
 from sentence_transformers import (
     SentenceTransformer,
     CrossEncoder
 )
 
-from sklearn.metrics.pairwise import cosine_similarity
-
-print("Carregando embeddings...")
+print("Carregando modelo de embeddings...")
 
 modelo_embedding = SentenceTransformer(
     "intfloat/multilingual-e5-base"
@@ -19,13 +17,15 @@ reranker = CrossEncoder(
     "cross-encoder/ms-marco-MiniLM-L-6-v2"
 )
 
-with open(
-    "base_conhecimento.json",
-    "r",
-    encoding="utf-8"
-) as f:
+print("Conectando ao banco vetorial...")
 
-    BASE = json.load(f)
+cliente = chromadb.PersistentClient(
+    path="banco_vetorial"
+)
+
+colecao = cliente.get_collection(
+    "campusia"
+)
 
 
 def buscar_contexto(
@@ -34,34 +34,61 @@ def buscar_contexto(
     top_final=5
 ):
 
+    # Embedding da pergunta
+
     emb_pergunta = modelo_embedding.encode(
         pergunta
+    ).tolist()
+
+    # Busca inicial no banco vetorial
+
+    resultado = colecao.query(
+
+        query_embeddings=[
+            emb_pergunta
+        ],
+
+        n_results=top_k
+
     )
 
-    resultados = []
+    candidatos = []
 
-    for item in BASE:
+    documentos = resultado["documents"][0]
+    metadados = resultado["metadatas"][0]
+    distancias = resultado["distances"][0]
 
-        score = cosine_similarity(
-            [emb_pergunta],
-            [item["embedding"]]
-        )[0][0]
+    for documento, metadata, distancia in zip(
+        documentos,
+        metadados,
+        distancias
+    ):
 
-        resultados.append({
-            **item,
-            "score": float(score)
+        candidatos.append({
+
+            "arquivo": metadata["arquivo"],
+
+            "titulo": metadata["titulo"],
+
+            "chunk_id": metadata["chunk_id"],
+
+            "chunk": documento,
+
+            "score": float(distancia)
+
         })
 
-    resultados.sort(
-        key=lambda x: x["score"],
-        reverse=True
-    )
-
-    candidatos = resultados[:top_k]
+    # Reranking
 
     pares = [
-        (pergunta, item["chunk"])
+
+        (
+            pergunta,
+            item["chunk"]
+        )
+
         for item in candidatos
+
     ]
 
     scores_rerank = reranker.predict(
@@ -72,6 +99,7 @@ def buscar_contexto(
         candidatos,
         scores_rerank
     ):
+
         item["rerank"] = float(score)
 
     candidatos.sort(
