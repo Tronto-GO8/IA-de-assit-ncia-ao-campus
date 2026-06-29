@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Assistente Virtual IFRS</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="painel">
+
+        <header class="cabecalho">
+
+            <div class="logo-ifrs">
+
+                <img src="imagem/Logo.jpg" alt="Logo IFRS">
+
+            </div>
+
+            <div class="linha-separadora"></div>
+
+        </header>
+
+        <main class="conversa" id="conversa">
+
+            <section class="mensagem-inicial" id="mensagemInicial">
+
+                <h2>Olá! 👋</h2>
+
+                <p>
+                    Sou o assistente virtual do IFRS Campus Restinga.
+                </p>
+
+                <p>
+                    Posso ajudar com:
+                </p>
+
+                <ul>
+
+                    <li>Cursos</li>
+
+                    <li>Matrículas</li>
+
+                    <li>Editais</li>
+
+                    <li>Horários</li>
+
+                    <li>Eventos</li>
+
+                    <li>Contatos</li>
+
+                </ul>
+
+                <p>
+                    Como posso ajudar?
+                </p>
+
+            </section>
+
+            <section
+                class="lista-mensagens"
+                id="listaMensagens">
+
+            </section>
+
+            <div
+                class="digitando"
+                id="digitando">
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+            </div>
+
+        </main>
+
+        <footer class="entrada">
+
+            <input
+
+                id="inputPergunta"
+
+                type="text"
+
+                placeholder="Digite sua pergunta..."
+
+                autocomplete="off"
+
+            >
+
+            <button
+
+                id="botaoEnviar"
+
+                title="Enviar"
+
+            >
+
+                ➤
+
+            </button>
+
+        </footer>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
