@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai
 
 from busca import buscar_contexto
 
@@ -12,10 +12,8 @@ load_dotenv()
 
 api_key = os.getenv("GEMINI_API_KEY")
 
-genai.configure(api_key=api_key)
-
-model = genai.GenerativeModel(
-    "gemini-2.5-flash"
+client = genai.Client(
+    api_key=api_key
 )
 
 # ==========================================
@@ -64,12 +62,12 @@ Você é um assistente do IFRS Campus Restinga.
 
 REGRAS:
 
-- Responda APENAS com base no contexto fornecido.
+- Responda APENAS com base no contexto fornecido e so o que foi perguntado.
 - Nunca invente informações.
 - Se a informação não estiver presente, diga:
-  "Não encontrei essa informação nos documentos."
-- Sempre que possível cite o documento utilizado.
+- "Não encontrei essa informação nos documentos."
 - Seja objetivo e claro.
+- Sempre que possível cite o documento utilizado.
 
 HISTÓRICO DA CONVERSA:
 
@@ -86,8 +84,9 @@ PERGUNTA ATUAL:
 
     try:
 
-        resposta = model.generate_content(
-            prompt
+        resposta = client.models.generate_content(
+            model="gemini-3.5-flash",
+            contents=prompt
         )
      
         return resposta.text

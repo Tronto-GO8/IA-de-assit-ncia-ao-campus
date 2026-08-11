@@ -4,9 +4,9 @@ const conversa = document.getElementById("conversa");
 const listaMensagens = document.getElementById("listaMensagens");
 const mensagemInicial = document.getElementById("mensagemInicial");
 const digitando = document.getElementById("digitando");
-
 const inputPergunta = document.getElementById("inputPergunta");
 const botaoEnviar = document.getElementById("botaoEnviar");
+const sessaoId = crypto.randomUUID();
 
 // ESCONDE O "DIGITANDO"
 
@@ -25,6 +25,41 @@ inputPergunta.addEventListener("keydown", function (event) {
     }
 
 });
+
+// BOTÕES DE SUGESTÃO
+
+const categorias =
+document.querySelectorAll(".sugestao-btn");
+
+categorias.forEach(botao=>{
+
+    botao.addEventListener("click",()=>{
+
+        botao.classList.toggle("ativo");
+
+        const submenu = botao.nextElementSibling;
+
+        submenu.classList.toggle("ativo");
+
+    });
+
+});
+const perguntas = document.querySelectorAll(".pergunta");
+
+perguntas.forEach(pergunta => {
+
+    pergunta.addEventListener("click", () => {
+
+        inputPergunta.value = pergunta.textContent.trim();
+
+        inputPergunta.focus();
+
+        botaoEnviar.click();
+
+    });
+
+});
+
 
 // ENVIAR PERGUNTA
 
@@ -76,7 +111,7 @@ async function enviarPergunta() {
 
         const dados = await resposta.json();
 
-        adicionarMensagem(dados.resposta, "IA");
+        adicionarMensagem(dados.resposta, "bot");
 
          historico.push({
             autor: "IA",
@@ -93,14 +128,31 @@ async function enviarPergunta() {
         digitando.style.display = "none";
 
         adicionarMensagem(
+           
             "Erro ao conectar com o servidor.",
             "sitema"
+            
         );
 
         console.error(erro);
     }
  }
  
+// ENVIA TODA A CONVERSA PARA O BANCO DE DADOS
+async function compartilharConversa() { 
+    await fetch("http://127.0.0.1:8000/feedback", { 
+        method: "POST", 
+        headers: { 
+            "Content-Type": "application/json" 
+        }, 
+        body: JSON.stringify({ 
+            mensagens: historico, 
+            consentimento: true 
+        }) 
+    }); 
+    alert("Obrigado por ajudar a melhorar o CampusIA!"); 
+}
+
 // ADICIONA MENSAGENS
 
 function adicionarMensagem(texto, tipo) {
@@ -124,3 +176,34 @@ function rolarConversa() {
     conversa.scrollTop = conversa.scrollHeight;
 
 }
+
+
+// enviar conversa para o backend para ser salva no banco de dados
+
+async function compartilharConversa() { 
+    
+    const resposta = await fetch( 
+        "http://127.0.0.1:8000/feedback", 
+        { 
+            method: "POST", 
+
+            headers: { 
+                "Content-Type": "application/json" 
+            }, body: 
+            
+            JSON.stringify({ 
+                sessao_id: sessaoId, 
+                mensagens: historico, 
+                consentimento: true, 
+                modelo: "gemini-3.5-flash" 
+            })
+        } 
+    ); 
+            
+    const dados = await resposta.json(); 
+    
+    if(dados.salvo){
+         alert("Conversa compartilhada com sucesso!"); 
+    } 
+}
+
