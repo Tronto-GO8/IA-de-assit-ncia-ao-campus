@@ -89,7 +89,7 @@ PERGUNTA ATUAL:
             contents=prompt
         )
      
-        return resposta.text
+        return.text
     
 
     except Exception as erro:

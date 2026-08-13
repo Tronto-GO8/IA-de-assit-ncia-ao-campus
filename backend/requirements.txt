@@ -37,4 +37,6 @@ uvicorn==0.36.0
 fastapi==0.117.1
 
 # banco de dados
+psycopg[binary]
 
+sqlalchemy

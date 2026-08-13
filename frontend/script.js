@@ -8,6 +8,15 @@ const inputPergunta = document.getElementById("inputPergunta");
 const botaoEnviar = document.getElementById("botaoEnviar");
 const sessaoId = crypto.randomUUID();
 
+
+
+
+//
+
+let permitirSalvar = localStorage.getItem("permitir_salvar") === "true";
+
+let historico = [];
+
 // ESCONDE O "DIGITANDO"
 
 digitando.style.display = "none";
@@ -62,8 +71,6 @@ perguntas.forEach(pergunta => {
 
 
 // ENVIAR PERGUNTA
-
-let historico = [];
 
 async function enviarPergunta() {
 
@@ -138,21 +145,6 @@ async function enviarPergunta() {
     }
  }
  
-// ENVIA TODA A CONVERSA PARA O BANCO DE DADOS
-async function compartilharConversa() { 
-    await fetch("http://127.0.0.1:8000/feedback", { 
-        method: "POST", 
-        headers: { 
-            "Content-Type": "application/json" 
-        }, 
-        body: JSON.stringify({ 
-            mensagens: historico, 
-            consentimento: true 
-        }) 
-    }); 
-    alert("Obrigado por ajudar a melhorar o CampusIA!"); 
-}
-
 // ADICIONA MENSAGENS
 
 function adicionarMensagem(texto, tipo) {
@@ -178,32 +170,60 @@ function rolarConversa() {
 }
 
 
-// enviar conversa para o backend para ser salva no banco de dados
 
-async function compartilharConversa() { 
-    
-    const resposta = await fetch( 
-        "http://127.0.0.1:8000/feedback", 
-        { 
-            method: "POST", 
+// botao de salvamento (temporário)
 
-            headers: { 
-                "Content-Type": "application/json" 
-            }, body: 
-            
-            JSON.stringify({ 
-                sessao_id: sessaoId, 
-                mensagens: historico, 
-                consentimento: true, 
-                modelo: "gemini-3.5-flash" 
-            })
-        } 
-    ); 
-            
-    const dados = await resposta.json(); 
-    
-    if(dados.salvo){
-         alert("Conversa compartilhada com sucesso!"); 
-    } 
+const botaoPermissao = document.getElementById("toggleSalvar");
+
+atualizarBotao();
+
+botaoPermissao.addEventListener("click", () => {
+
+    permitirSalvar = !permitirSalvar;
+
+    localStorage.setItem(
+        "permitir_salvar",
+        permitirSalvar
+    );
+
+    atualizarBotao();
+});
+
+function atualizarBotao() {
+
+    botaoPermissao.textContent = permitirSalvar
+        ? "Salvar conversas: ATIVADO"
+        : "Salvar conversas: DESATIVADO";
 }
 
+
+
+// enviar conversa para o backend quando a página for fechada para os dados serem salva no banco de dados
+
+window.addEventListener("beforeunload", () => {
+
+    if (!permitirSalvar) return;
+
+    if (historico.length === 0) return;
+
+    const sessaoId =
+        localStorage.getItem("sessao_id")
+        || crypto.randomUUID();
+
+    localStorage.setItem("sessao_id", sessaoId);
+
+    const payload = {
+        sessao_id: sessaoId,
+        mensagens: historico,
+        consentimento: true,
+        modelo: "gemini-3.5-flash"
+    };
+
+    navigator.sendBeacon(
+        "http://127.0.0.1:8000/feedback",
+        new Blob(
+            [JSON.stringify(payload)],
+            { type: "application/json" }
+        )
+    );
+});
