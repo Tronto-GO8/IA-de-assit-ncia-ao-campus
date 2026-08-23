@@ -1,15 +1,21 @@
-from sqlalchemy import Column, Integer, String, Boolean, DateTime
+from sqlalchemy import Column, Integer, String, Boolean, DateTime, Text
 from datetime import datetime
 
 from database import Base
 
+class Conversa(Base):
+    __tablename__ = "conversas"
 
-class ConversaFeedback(Base):
-    __tablename__ = "conversas_feedback"
+    id = Column(Integer, primary_key=True)
+    sessao_id = Column(String, unique=True, index=True)
+    criada_em = Column(DateTime, default=datetime.utcnow)
 
-    id = Column(Integer, primary_key=True, index=True)
+
+class Mensagem(Base):
+    __tablename__ = "mensagens"
+
+    id = Column(Integer, primary_key=True)
     sessao_id = Column(String, index=True)
-    mensagens = Column(String)
-    consentimento = Column(Boolean, default=False)
-    modelo = Column(String, nullable=True)
+    autor = Column(String)
+    texto = Column(Text)
     criada_em = Column(DateTime, default=datetime.utcnow)

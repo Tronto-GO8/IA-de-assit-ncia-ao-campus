@@ -429,3 +429,11 @@ body{
     transform:scale(.95);
 
 }
+
+.aviso {
+    color: #c62828;
+    font-size: 11px;
+    margin: 5px 0;
+    text-align: center;
+    opacity: 0.85;
+}

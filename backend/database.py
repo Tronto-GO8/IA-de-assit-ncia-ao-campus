@@ -1,40 +1,25 @@
-import os
-
-from dotenv import load_dotenv 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-load_dotenv() 
+DATABASE_URL = "sqlite:///./campusia.db"
 
-DATABASE_URL = os.getenv("DATABASE_URL") 
-
-
-if not DATABASE_URL: 
-    DATABASE_URL = "sqlite:///feedback.db" 
-
-connect_args = {}
-
-if DATABASE_URL.startswith("sqlite"): 
-    connect_args = {"check_same_thread": False} 
-    
-engine = create_engine( 
-    DATABASE_URL.replace( 
-        "postgresql://", 
-        "postgresql+psycopg://" 
-    ) 
+engine = create_engine(
+    DATABASE_URL,
+    connect_args={"check_same_thread": False}
 )
 
 SessionLocal = sessionmaker(
-     autocommit=False,
-     autoflush=False, 
-     bind=engine 
-) 
-     
+    autocommit=False,
+    autoflush=False,
+    bind=engine
+)
+
 Base = declarative_base()
 
-def get_db(): 
-    db = SessionLocal() 
-    try: 
-        yield db 
-    finally: 
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
         db.close()

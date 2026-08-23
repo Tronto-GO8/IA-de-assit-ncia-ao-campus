@@ -6,16 +6,20 @@ const mensagemInicial = document.getElementById("mensagemInicial");
 const digitando = document.getElementById("digitando");
 const inputPergunta = document.getElementById("inputPergunta");
 const botaoEnviar = document.getElementById("botaoEnviar");
-const sessaoId = crypto.randomUUID();
 
-
-
-
-//
-
-let permitirSalvar = localStorage.getItem("permitir_salvar") === "true";
+// variaveis
 
 let historico = [];
+
+// resgata ou cria o id da sessao
+
+let sessaoId = localStorage.getItem("sessao_id");
+
+if (!sessaoId) {
+    sessaoId = crypto.randomUUID();
+    localStorage.setItem("sessao_id", sessaoId);
+}
+
 
 // ESCONDE O "DIGITANDO"
 
@@ -37,12 +41,11 @@ inputPergunta.addEventListener("keydown", function (event) {
 
 // BOTÕES DE SUGESTÃO
 
-const categorias =
-document.querySelectorAll(".sugestao-btn");
+const categorias = document.querySelectorAll(".sugestao-btn");
 
-categorias.forEach(botao=>{
+categorias.forEach(botao => {
 
-    botao.addEventListener("click",()=>{
+    botao.addEventListener("click", () => {
 
         botao.classList.toggle("ativo");
 
@@ -79,14 +82,13 @@ async function enviarPergunta() {
     if (pergunta === "") return;
 
     if (mensagemInicial) {
-
         mensagemInicial.style.display = "none";
-
     }
 
+    // Mostra a pergunta na tela
     adicionarMensagem(pergunta, "usuario");
 
-    // Salva no histórico
+    // Adiciona ao histórico
     historico.push({
         autor: "usuario",
         texto: pergunta
@@ -94,57 +96,70 @@ async function enviarPergunta() {
 
     inputPergunta.value = "";
 
-    digitando.style.display = "block";
+    digitando.style.display = "flex";
 
     rolarConversa();
 
-
-    // envio para o backend
     try {
+
         const resposta = await fetch(
             "http://127.0.0.1:8000/chat",
             {
                 method: "POST",
+
                 headers: {
-                    "Content-type": "application/json"
+                    "Content-Type": "application/json"
                 },
+
                 body: JSON.stringify({
                     pergunta: pergunta,
-                    historico: historico
+                    historico: historico,
+                    sessao_id: sessaoId
                 })
             }
         );
 
+        if (!resposta.ok) {
+            throw new Error(
+                `Erro HTTP: ${resposta.status}`
+            );
+        }
 
         const dados = await resposta.json();
 
-        adicionarMensagem(dados.resposta, "bot");
+        digitando.style.display = "none";
 
-         historico.push({
-            autor: "IA",
+        // Mostra resposta da IA
+        adicionarMensagem(
+            dados.resposta,
+            "bot"
+        );
+
+        // Adiciona resposta ao histórico
+        historico.push({
+            autor: "bot",
             texto: dados.resposta
         });
 
-         if(historico.length > 20){
+        // Mantém somente as últimas 20 mensagens
+        if (historico.length > 20) {
             historico = historico.slice(-20);
         }
 
         rolarConversa();
-    }catch(erro){
+
+    } catch (erro) {
 
         digitando.style.display = "none";
 
         adicionarMensagem(
-           
             "Erro ao conectar com o servidor.",
-            "sitema"
-            
+            "sistema"
         );
 
         console.error(erro);
     }
- }
- 
+}
 // ADICIONA MENSAGENS
 
 function adicionarMensagem(texto, tipo) {
@@ -168,62 +183,3 @@ function rolarConversa() {
     conversa.scrollTop = conversa.scrollHeight;
 
 }
-
-
-
-// botao de salvamento (temporário)
-
-const botaoPermissao = document.getElementById("toggleSalvar");
-
-atualizarBotao();
-
-botaoPermissao.addEventListener("click", () => {
-
-    permitirSalvar = !permitirSalvar;
-
-    localStorage.setItem(
-        "permitir_salvar",
-        permitirSalvar
-    );
-
-    atualizarBotao();
-});
-
-function atualizarBotao() {
-
-    botaoPermissao.textContent = permitirSalvar
-        ? "Salvar conversas: ATIVADO"
-        : "Salvar conversas: DESATIVADO";
-}
-
-
-
-// enviar conversa para o backend quando a página for fechada para os dados serem salva no banco de dados
-
-window.addEventListener("beforeunload", () => {
-
-    if (!permitirSalvar) return;
-
-    if (historico.length === 0) return;
-
-    const sessaoId =
-        localStorage.getItem("sessao_id")
-        || crypto.randomUUID();
-
-    localStorage.setItem("sessao_id", sessaoId);
-
-    const payload = {
-        sessao_id: sessaoId,
-        mensagens: historico,
-        consentimento: true,
-        modelo: "gemini-3.5-flash"
-    };
-
-    navigator.sendBeacon(
-        "http://127.0.0.1:8000/feedback",
-        new Blob(
-            [JSON.stringify(payload)],
-            { type: "application/json" }
-        )
-    );
-});
