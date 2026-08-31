@@ -13,11 +13,11 @@ let historico = [];
 
 // resgata ou cria o id da sessao
 
-let sessaoId = localStorage.getItem("sessao_id");
+let sessaoId = sessionStorage.getItem("sessao_id");
 
 if (!sessaoId) {
     sessaoId = crypto.randomUUID();
-    localStorage.setItem("sessao_id", sessaoId);
+    sessionStorage.setItem("sessao_id", sessaoId);
 }
 
 
@@ -103,7 +103,7 @@ async function enviarPergunta() {
     try {
 
         const resposta = await fetch(
-            "http://127.0.0.1:8000/chat",
+            "/chat",
             {
                 method: "POST",
 

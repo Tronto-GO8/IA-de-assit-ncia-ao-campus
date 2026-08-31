@@ -95,10 +95,12 @@ PERGUNTA ATUAL:
             model="gemini-3.5-flash",
             contents=prompt
         )
-     
-        return resposta.text
     
-
+        retorno = resposta.text
+  
     except Exception as erro:
-
-        return f"Erro: {erro}"
+        retorno = f"Erro: {erro}" 
+       
+    finally:
+        return retorno, prompt
+  

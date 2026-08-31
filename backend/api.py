@@ -3,9 +3,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
 from database import get_db, engine
-from models import Conversa, Mensagem as MensagemDB, Base
+from models import Log, Base
 from chatbot import responder
-
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
+from models import Log
+import os
 
 app = FastAPI()
 
@@ -44,48 +47,29 @@ def chat(
     dados: Pergunta,
     db: Session = Depends(get_db)
 ):
-
-    # Verifica se a conversa já existe
-    conversa = db.query(Conversa).filter(
-        Conversa.sessao_id == dados.sessao_id
-    ).first()
-
-    # Se não existe, cria
-    if conversa is None:
-        conversa = Conversa(
-            sessao_id=dados.sessao_id
-        )
-
-        db.add(conversa)
-        db.commit()
-
     # Gera a resposta UMA vez
-    resposta = responder(
+    resposta, prompt = responder(
         dados.pergunta,
         dados.historico
     )
+    # Grava log da conversa
+    if os.getenv("GRAVAR_CONVERSA") == "sim":
+        log = Log(
+            sessao_id=dados.sessao_id,
+            prompt=prompt,
+            pergunta=dados.pergunta,
+            resposta=resposta
+        )
 
-    # Salva mensagem do usuário
-    mensagem_usuario = MensagemDB(
-        sessao_id=dados.sessao_id,
-        autor="usuario",
-        texto=dados.pergunta
-    )
-
-    db.add(mensagem_usuario)
-
-    # Salva resposta da IA
-    mensagem_ia = MensagemDB(
-        sessao_id=dados.sessao_id,
-        autor="bot",
-        texto=resposta
-    )
-
-    db.add(mensagem_ia)
-
-    # Salva tudo
-    db.commit()
-
+        db.add(log)
+        db.commit()
+        db.close()
     return {
         "resposta": resposta
     }
+
+
+# Monta frontend estático (index.html + assets) na raiz
+frontend_dir = Path(__file__).resolve().parent.parent / "frontend"
+if frontend_dir.exists():
+    app.mount("/", StaticFiles(directory=str(frontend_dir), html=True), name="frontend")

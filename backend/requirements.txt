@@ -1,42 +1,31 @@
-# IA / Embeddings
+# Dependências mínimas usadas pelo projeto
 
+# Modelos e embeddings
 sentence-transformers>=5.1.0
-transformers>=4.55.0
-torch>=2.8.0
-huggingface-hub>=0.34.0
-safetensors>=0.6.0
-sentencepiece>=0.2.0
 
-# Busca semântica
+# Banco vetorial
+chromadb>=1.0.0
 
-scikit-learn>=1.7.0
-numpy>=2.3.0
-scipy>=1.16.0
+# API e servidor
+fastapi==0.117.1
+uvicorn==0.36.0  # opcional: para rodar o servidor com `uvicorn api:app`
 
-# Utilidades
+# Banco de dados e ORM
+sqlalchemy
 
+# Utilitários
 python-dotenv>=1.1.0
-tqdm>=4.67.0
 
-# Gemini
-
+# Integração Gemini (Google)
 google-genai==1.31.0
 
 # Leitura de PDFs
-
 PyMuPDF>=1.26.0
 
-# banco vetorial
-
-chromadb>=1.0.0
-
-# conecao http
-
-uvicorn==0.36.0
-
-fastapi==0.117.1
-
-# banco de dados
-psycopg[binary]
-
-sqlalchemy
+# Observações:
+# - `numpy`, `scipy`, `huggingface-hub` e `tqdm` são normalmente
+#   instalados como dependências de `sentence-transformers` e não
+#   precisam ser listados explicitamente aqui, a menos que você
+#   precise forçar versões específicas.
+# - `psycopg[binary]` foi removido porque o projeto usa SQLite por
+#   padrão; adicione apenas se migrar para PostgreSQL.
