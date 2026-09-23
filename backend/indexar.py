@@ -209,17 +209,16 @@ for arquivo in os.listdir("documentos_em_txt"):
 
     for i, chunk in enumerate(chunks):
 
-        texto_para_embedding = f"""
-Documento: {arquivo}
-
-Título: {chunk['titulo']}
-
-Conteúdo:
-{chunk['texto']}
-"""
+        texto_para_embedding = (
+            f"passage: "
+            f"Documento: {arquivo}\n"
+            f"Título: {chunk['titulo']}\n"
+            f"Conteúdo: {chunk['texto']}"
+        )
 
         embedding = model.encode(
-            texto_para_embedding
+            texto_para_embedding,
+            normalize_embeddings=True
         ).tolist()
 
         colecao.add(
@@ -265,4 +264,4 @@ print(
     "\nArquivos armazenados em: ./banco_vetorial"
 )
 
-print("=" * 60)
+print("=" * 61)

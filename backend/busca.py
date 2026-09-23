@@ -1,3 +1,5 @@
+import os
+
 import chromadb
 
 from sentence_transformers import (
@@ -20,7 +22,7 @@ reranker = CrossEncoder(
 print("Conectando ao banco vetorial...")
 
 cliente = chromadb.PersistentClient(
-    path="banco_vetorial"
+    path=os.getenv("CHROMA_PATH", "banco_vetorial")
 )
 
 colecao = cliente.get_collection(
@@ -36,8 +38,11 @@ def buscar_contexto(
 
     # Embedding da pergunta
 
+    texto_consulta = f"query: {pergunta}"
+
     emb_pergunta = modelo_embedding.encode(
-        pergunta
+        texto_consulta,
+        normalize_embeddings=True
     ).tolist()
 
     # Busca inicial no banco vetorial
