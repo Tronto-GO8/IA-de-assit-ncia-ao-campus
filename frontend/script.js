@@ -1,4 +1,6 @@
+// ==========================================
 // CAPTURA DOS ELEMENTOS
+// ==========================================
 
 const conversa = document.getElementById("conversa");
 const listaMensagens = document.getElementById("listaMensagens");
@@ -7,179 +9,500 @@ const digitando = document.getElementById("digitando");
 const inputPergunta = document.getElementById("inputPergunta");
 const botaoEnviar = document.getElementById("botaoEnviar");
 
-// variaveis
+
+// ==========================================
+// VARIÁVEIS
+// ==========================================
 
 let historico = [];
 
-// resgata ou cria o id da sessao
+
+// ==========================================
+// SESSÃO
+// ==========================================
 
 let sessaoId = sessionStorage.getItem("sessao_id");
 
 if (!sessaoId) {
+
     sessaoId = crypto.randomUUID();
-    sessionStorage.setItem("sessao_id", sessaoId);
+
+    sessionStorage.setItem(
+        "sessao_id",
+        sessaoId
+    );
 }
 
 
-// ESCONDE O "DIGITANDO"
+// ==========================================
+// DIGITANDO
+// ==========================================
 
 digitando.style.display = "none";
 
+
+// ==========================================
 // EVENTOS
+// ==========================================
 
-botaoEnviar.addEventListener("click", enviarPergunta);
+botaoEnviar.addEventListener(
+    "click",
+    enviarPergunta
+);
 
-inputPergunta.addEventListener("keydown", function (event) {
+inputPergunta.addEventListener(
+    "keydown",
+    function (event) {
 
-    if (event.key === "Enter") {
+        if (event.key === "Enter") {
 
-        enviarPergunta();
+            event.preventDefault();
+
+            enviarPergunta();
+
+        }
 
     }
+);
 
-});
 
+// ==========================================
 // BOTÕES DE SUGESTÃO
+// ==========================================
 
-const categorias = document.querySelectorAll(".sugestao-btn");
+const categorias = document.querySelectorAll(
+    ".sugestao-btn"
+);
 
 categorias.forEach(botao => {
 
-    botao.addEventListener("click", () => {
+    botao.addEventListener(
+        "click",
+        () => {
 
-        botao.classList.toggle("ativo");
+            botao.classList.toggle("ativo");
 
-        const submenu = botao.nextElementSibling;
+            const submenu =
+                botao.nextElementSibling;
 
-        submenu.classList.toggle("ativo");
+            if (submenu) {
 
-    });
+                submenu.classList.toggle(
+                    "ativo"
+                );
+
+            }
+
+        }
+    );
 
 });
-const perguntas = document.querySelectorAll(".pergunta");
+
+
+const perguntas = document.querySelectorAll(
+    ".pergunta"
+);
 
 perguntas.forEach(pergunta => {
 
-    pergunta.addEventListener("click", () => {
+    pergunta.addEventListener(
+        "click",
+        () => {
 
-        inputPergunta.value = pergunta.textContent.trim();
+            inputPergunta.value =
+                pergunta.textContent.trim();
 
-        inputPergunta.focus();
+            inputPergunta.focus();
 
-        botaoEnviar.click();
+            botaoEnviar.click();
 
-    });
+        }
+    );
 
 });
 
 
+// ==========================================
 // ENVIAR PERGUNTA
+// ==========================================
 
 async function enviarPergunta() {
 
-    const pergunta = inputPergunta.value.trim();
+    const pergunta =
+        inputPergunta.value.trim();
 
-    if (pergunta === "") return;
-
-    if (mensagemInicial) {
-        mensagemInicial.style.display = "none";
+    if (pergunta === "") {
+        return;
     }
 
-    // Mostra a pergunta na tela
-    adicionarMensagem(pergunta, "usuario");
 
-    // Adiciona ao histórico
+    if (mensagemInicial) {
+
+        mensagemInicial.style.display =
+            "none";
+
+    }
+
+
+    // ==========================================
+    // MOSTRA PERGUNTA
+    // ==========================================
+
+    adicionarMensagem(
+        pergunta,
+        "usuario"
+    );
+
+
+    // ==========================================
+    // HISTÓRICO
+    // ==========================================
+
     historico.push({
+
         autor: "usuario",
+
         texto: pergunta
+
     });
 
+
     inputPergunta.value = "";
+
+
+    // ==========================================
+    // MOSTRA DIGITANDO
+    // ==========================================
 
     digitando.style.display = "flex";
 
     rolarConversa();
 
+
     try {
+
+        console.log(
+            "Enviando pergunta..."
+        );
+
 
         const resposta = await fetch(
             "/chat",
             {
+
                 method: "POST",
 
                 headers: {
-                    "Content-Type": "application/json"
+
+                    "Content-Type":
+                        "application/json"
+
                 },
 
                 body: JSON.stringify({
+
                     pergunta: pergunta,
+
                     historico: historico,
+
                     sessao_id: sessaoId
+
                 })
+
             }
         );
 
+
+        console.log(
+            "Status:",
+            resposta.status
+        );
+
+
         if (!resposta.ok) {
+
             throw new Error(
                 `Erro HTTP: ${resposta.status}`
             );
+
         }
 
-        const dados = await resposta.json();
 
-        digitando.style.display = "none";
+        const dados =
+            await resposta.json();
 
-        // Mostra resposta da IA
-        adicionarMensagem(
-            dados.resposta,
-            "bot"
+
+        console.log(
+            "Dados recebidos:",
+            dados
         );
 
-        // Adiciona resposta ao histórico
+
+        // ==========================================
+        // RESPOSTA
+        // ==========================================
+
+        adicionarMensagem(
+            dados.resposta,
+            "bot",
+            dados.fontes || []
+        );
+
+
+        // ==========================================
+        // HISTÓRICO
+        // ==========================================
+
         historico.push({
+
             autor: "bot",
+
             texto: dados.resposta
+
         });
 
-        // Mantém somente as últimas 20 mensagens
+
         if (historico.length > 20) {
-            historico = historico.slice(-20);
+
+            historico =
+                historico.slice(-20);
+
         }
+
 
         rolarConversa();
 
+
     } catch (erro) {
 
-        digitando.style.display = "none";
+        console.error(
+            "ERRO:",
+            erro
+        );
+
 
         adicionarMensagem(
-            "Erro ao conectar com o servidor.",
+            `Erro ao conectar com o servidor: ${erro.message}`,
             "sistema"
         );
 
-        console.error(erro);
+
+    } finally {
+
+        // ==========================================
+        // SEMPRE ESCONDE O DIGITANDO
+        // ==========================================
+
+        digitando.style.display = "none";
+
     }
-}
-// ADICIONA MENSAGENS
-
-function adicionarMensagem(texto, tipo) {
-
-    const mensagem = document.createElement("div");
-
-    mensagem.classList.add("mensagem");
-
-    mensagem.classList.add(tipo);
-
-    mensagem.innerText = texto;
-
-    listaMensagens.appendChild(mensagem);
 
 }
 
+
+// ==========================================
+// ADICIONAR MENSAGEM
+// ==========================================
+
+function adicionarMensagem(
+    texto,
+    tipo,
+    fontes = []
+) {
+
+    const mensagem =
+        document.createElement("div");
+
+
+    mensagem.classList.add(
+        "mensagem"
+    );
+
+    mensagem.classList.add(
+        tipo
+    );
+
+
+    // ==========================================
+    // TEXTO
+    // ==========================================
+
+    const textoMensagem =
+        document.createElement("div");
+
+
+    textoMensagem.classList.add(
+        "texto-mensagem"
+    );
+
+
+    textoMensagem.innerText =
+        texto;
+
+
+    mensagem.appendChild(
+        textoMensagem
+    );
+
+
+    // ==========================================
+    // FONTES
+    // ==========================================
+
+    if (
+        tipo === "bot" &&
+        Array.isArray(fontes) &&
+        fontes.length > 0
+    ) {
+
+        const botaoFontes =
+            document.createElement(
+                "button"
+            );
+
+
+        botaoFontes.classList.add(
+            "botao-fontes"
+        );
+
+
+        botaoFontes.type = "button";
+
+
+        botaoFontes.innerText =
+            `📚 Fontes (${fontes.length})`;
+
+
+        // ==========================================
+        // LISTA
+        // ==========================================
+
+        const listaFontes =
+            document.createElement(
+                "div"
+            );
+
+
+        listaFontes.classList.add(
+            "lista-fontes"
+        );
+
+
+        fontes.forEach(
+            (fonte, index) => {
+
+                const fonteDiv =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                fonteDiv.classList.add(
+                    "fonte"
+                );
+
+
+                const titulo =
+                    fonte.titulo ||
+                    fonte.arquivo ||
+                    "Documento";
+
+
+                const arquivo =
+                    fonte.arquivo || "";
+
+
+                fonteDiv.innerHTML = `
+                    <strong>
+                        📄 ${index + 1}. ${titulo}
+                    </strong>
+                    <br>
+                `;
+
+
+                if (arquivo) {
+
+                    const link =
+                        document.createElement(
+                            "a"
+                        );
+
+
+                    link.href =
+                        `/documentos/${encodeURIComponent(
+                            arquivo
+                        )}`;
+
+
+                    link.target =
+                        "_blank";
+
+
+                    link.rel =
+                        "noopener noreferrer";
+
+
+                    link.innerText =
+                        "Abrir documento ↗";
+
+
+                    fonteDiv.appendChild(
+                        link
+                    );
+
+                }
+
+
+                listaFontes.appendChild(
+                    fonteDiv
+                );
+
+            }
+        );
+
+
+        // ==========================================
+        // ABRIR / FECHAR
+        // ==========================================
+
+        botaoFontes.addEventListener(
+            "click",
+            () => {
+
+                listaFontes.classList.toggle(
+                    "ativo"
+                );
+
+            }
+        );
+
+
+        mensagem.appendChild(
+            botaoFontes
+        );
+
+
+        mensagem.appendChild(
+            listaFontes
+        );
+
+    }
+
+
+    listaMensagens.appendChild(
+        mensagem
+    );
+
+}
+
+
+// ==========================================
 // ROLAR CONVERSA
+// ==========================================
 
 function rolarConversa() {
 
-    conversa.scrollTop = conversa.scrollHeight;
+    conversa.scrollTop =
+        conversa.scrollHeight;
 
 }

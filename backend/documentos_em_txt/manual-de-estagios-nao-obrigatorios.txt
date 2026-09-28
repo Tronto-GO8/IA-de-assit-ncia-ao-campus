@@ -5,41 +5,24 @@ Campus Restinga
 Manual de Estágio Não Obrigatório
 1ª Edição
 Porto Alegre
-2022
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
 Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul
 Campus Restinga
-SUMÁRIO
 INFORMAÇÕES GERAIS
-3
 RESPONSABILIDADES DO ESTUDANTE
-4
 ESTÁGIO NÃO OBRIGATÓRIO
-5
 Novo estágio sem agente integrador
-5
 Novo estágio com agente integrador
-6
 Prorrogação do tempo de estágio sem agente integrador
-7
 Prorrogação do tempo de estágio com agente integrador
-8
 Relatório final de atividades sem agente integrador
-9
 Relatório final de atividades com agente integrador
-10
 DADOS DO CAMPUS
-11
 CONTATO
-12
 FORMULÁRIOS E TERMOS
-13
 NORMAS E LEGISLAÇÃO
-14
-SUMÁRIO
-2
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -94,8 +77,6 @@ O estágio somente pode ter início após toda a documentação estar assinada p
 as partes.
 Os documentos podem ser assinados digitalmente. Caso não possua assinatura digital,
 utilize o assinador do Gov.br.
-SUMÁRIO
-3
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -140,8 +121,6 @@ internas da empresa/instituição concedente ou das constantes do Termo de
 Compromisso de Estágio; e
 ●Procurar seu(sua) orientador(a) ou supervisor(a) de estágio, sempre que
 necessário.
-SUMÁRIO
-4
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -174,8 +153,6 @@ V. Assinatura: Direção-geral assina o TCE e Orientador(a) o Plano de Atividade
 VI. Arquivo: Setor de estágios envia documentação assinada ao(à) estudante e arquiva.
 VII. Atualização: O Setor de Estágios atualiza as informações na planilha de estágios não
 obrigatórios.
-SUMÁRIO
-5
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -211,8 +188,6 @@ VI. Arquivo: Setor de estágios envia documentação assinada ao(à) estudante o
 integrador e arquiva.
 VII. Atualização: O Setor de Estágios atualiza as informações na planilha de estágios não
 obrigatórios.
-SUMÁRIO
-6
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -249,8 +224,6 @@ Observações
 O seguro em nome do estudante deve compreender o novo período do estágio.
 Caso sejam necessárias outras alterações no Termo de Compromisso, entrar em
 contato com o Setor de Estágios.
-SUMÁRIO
-7
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -287,8 +260,6 @@ obrigatórios.
 Observações
 Caso sejam necessárias outras alterações no Termo de Compromisso, entrar em
 contato com o Setor de Estágios.
-SUMÁRIO
-8
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -311,8 +282,6 @@ atualiza planilha de estágios.
 Observações
 Caso o contrato tenha sido encerrado antes do previsto, entre em contato com o Setor
 de Estágios.
-SUMÁRIO
-9
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -334,8 +303,6 @@ arquiva documentação e atualiza planilha de estágios.
 Observações
 Caso o contrato tenha sido encerrado antes do previsto, entre em contato com o Setor
 de Estágios e coordenação de curso.
-SUMÁRIO
-10
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -349,8 +316,6 @@ Telefone:(51) 3247-8400
 E-mail: estagios@restinga.ifrs.edu.br
 Representante Legal: Rudinei Müller
 Cargo: Diretor-geral
-SUMÁRIO
-11
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -383,8 +348,6 @@ Gestão Desportiva e de Lazer
 coord.gdl@restinga.ifrs.edu.br
 Processos Gerenciais
 coord.pg@restinga.ifrs.edu.br
-SUMÁRIO
-12
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -397,8 +360,6 @@ Termo aditivo estágio não obrigatório
 Termo de Rescisão Estágio
 Termo de realização de estágio
 Relatório de Estágio Não Obrigatório
-SUMÁRIO
-13
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -429,8 +390,6 @@ Nacionais para a Formação Inicial de Professores para a Educação Básica e i
 Nacional Comum para a Formação Inicial de Professores da Educação Básica (BNC-Formação)
 Resolução CNE/CP nº 1, de 5 de janeiro de 2021 – Define as Diretrizes Curriculares Nacionais
 Gerais para a Educação Profissional e Tecnológica
-SUMÁRIO
-14
 
 MINISTÉRIO DA EDUCAÇÃO
 Secretaria de Educação Profissional e Tecnológica
@@ -446,6 +405,3 @@ Coordenador de Extensão
 Mikael Marques de Medeiros
 Diretor-geral
 Rudinei Müller
-SUMÁRIO
-15
-

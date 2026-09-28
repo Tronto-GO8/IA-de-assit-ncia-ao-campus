@@ -1,23 +1,32 @@
+from pathlib import Path
+import os
+
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel, Field
 from sqlalchemy.orm import Session
+
 from database import get_db, engine
 from models import Log, Base
 from chatbot import responder
-from fastapi.staticfiles import StaticFiles
-from pathlib import Path
-from models import Log
-import os
+
 
 app = FastAPI()
 
 
-# Cria as tabelas
+# ==========================================
+# BANCO DE DADOS
+# ==========================================
+
+# Cria as tabelas, caso ainda não existam
 Base.metadata.create_all(bind=engine)
 
 
-# Permite acesso do frontend
+# ==========================================
+# CORS
+# ==========================================
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -27,7 +36,25 @@ app.add_middleware(
 )
 
 
-# ---------- Schemas ----------
+# ==========================================
+# DOCUMENTOS
+# ==========================================
+
+documentos_dir = (
+    Path(__file__).resolve().parent / "documentos"
+)
+
+if documentos_dir.exists():
+    app.mount(
+        "/documentos",
+        StaticFiles(directory=str(documentos_dir)),
+        name="documentos"
+    )
+
+
+# ==========================================
+# SCHEMAS
+# ==========================================
 
 class Mensagem(BaseModel):
     autor: str
@@ -36,40 +63,86 @@ class Mensagem(BaseModel):
 
 class Pergunta(BaseModel):
     pergunta: str
-    historico: list[Mensagem] = []
+    historico: list[Mensagem] = Field(
+        default_factory=list
+    )
     sessao_id: str
 
 
-# ---------- Chat ----------
+# ==========================================
+# CHAT
+# ==========================================
 
 @app.post("/chat")
 def chat(
     dados: Pergunta,
     db: Session = Depends(get_db)
 ):
-    # Gera a resposta UMA vez
-    resposta, prompt = responder(
+    # Verifica se a gravação está habilitada
+    gravar_conversa = (
+        os.getenv("GRAVAR_CONVERSA", "").strip().lower()
+        == "sim"
+    )
+
+    print(
+        "GRAVAR_CONVERSA =",
+        os.getenv("GRAVAR_CONVERSA")
+    )
+
+    # Gera a resposta uma única vez
+    resposta, fontes, prompt = responder(
         dados.pergunta,
         dados.historico
     )
-    # Grava log da conversa
-    if os.getenv("GRAVAR_CONVERSA") == "sim":
-        log = Log(
-            sessao_id=dados.sessao_id,
-            prompt=prompt,
-            pergunta=dados.pergunta,
-            resposta=resposta
-        )
 
-        db.add(log)
-        db.commit()
-        db.close()
+    # Grava o registro da interação
+    if gravar_conversa:
+
+        try:
+            log = Log(
+                sessao_id=dados.sessao_id,
+                prompt=prompt,
+                pergunta=dados.pergunta,
+                resposta=resposta
+            )
+
+            db.add(log)
+            db.commit()
+
+            print(
+                "Conversa gravada com sucesso. "
+                f"Sessão: {dados.sessao_id}"
+            )
+
+        except Exception as erro:
+            db.rollback()
+
+            print(
+                "Erro ao gravar conversa:",
+                erro
+            )
+
+    # Retorna a resposta e as fontes ao frontend
     return {
-        "resposta": resposta
+        "resposta": resposta,
+        "fontes": fontes
     }
 
 
-# Monta frontend estático (index.html + assets) na raiz
-frontend_dir = Path(__file__).resolve().parent.parent / "frontend"
+# ==========================================
+# FRONTEND
+# ==========================================
+
+frontend_dir = (
+    Path(__file__).resolve().parent.parent / "frontend"
+)
+
 if frontend_dir.exists():
-    app.mount("/", StaticFiles(directory=str(frontend_dir), html=True), name="frontend")
+    app.mount(
+        "/",
+        StaticFiles(
+            directory=str(frontend_dir),
+            html=True
+        ),
+        name="frontend"
+    )

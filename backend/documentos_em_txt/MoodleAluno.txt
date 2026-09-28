@@ -1,0 +1,567 @@
+Moodle para Alunos
+
+JÚLIA MARQUES CARVALHO DA SILVA
+MARIA ISABEL ACCORSI
+
+Este material faz parte dos projetos desenvolvidos pelo Laboratório de Desenvolvimento e
+Aprendizagem de Software (LADS) do Instituto Federal de Educação, Ciência e Tecnologia
+do Rio Grande do Sul – Campus Bento Gonçalves. O material e texto foi organizado e
+supervisionado pela Coordenadora dos projetos Profª Drª Júlia Marques Carvalho da Silva,
+e revisado pela ME. Maria Isabel Accorsi.
+
+Agradecimentos:
+- EDITAL PROPPI Nº 014/2015 - Fomento Interno 2016/2017- Campus Bento Gonçalves
+
+APRESENTAÇÃO
+
+Este guia apresenta ao aluno o Ambiente Virtual de Ensino e Aprendizagem (AVEA)
+Moodle. Diferentemente dos tradicionais manuais e livros, exploramos aqui a linguagem e
+os questionamentos dos discentes durantes suas primeiras explorações no AVEA Moodle.
+Nossa primeira experiência com o AVEA Moodle deve ser comparada ao nosso
+primeiro dia na escola ou universidade, tudo é novo e um pouco assustador. Ao mesmo
+tempo, estamos cheios de dúvidas e insegurança. Porém, sabemos que a medida que
+vamos frequentando aquele lugar novo, vamos reconhecendo-o e ganhando confiança. E é
+esta mesma sensação que você deve encontrar em um ambiente virtual. Os primeiros
+acessos nos fazem sentir um pouco perdidos (talvez até querendo fugir e desistir), mas à
+medida que vamos conhecendo, vamos nos encantando pelas possibilidades.
+Aliado a isto, temos que ter a consciência de que o ambiente virtual será uma
+experiência diferente da presencial. Tal como no curso normal, cabe a nós irmos até o
+local da aula, com uma certa frequência, tendo horários para dedicarmos aos estudos e as
+atividades. No virtual, é necessário ter esta mesma consciência. De que cabe a nós irmos
+até o AVEA e estabelecermos nossa rotina de estudos. Isto pode parecer desafiador e
+encantador, mas é importante que tenhamos nossos horários e compromissos. Mais que
+isso, a flexibilidade de tempo e lugar, trará desafios a enfrentar. Por isso, organize-se,
+explique aos colegas e família que mesmo estando perto deles, na verdade, você está em
+na sua instituição de ensino. Descubra novas possibilidades de adquirir conhecimento.
+Um ponto a destacar é que neste texto buscamos não enfatizar uma interface ou
+versão única do Moodle. Isto porque o Moodle é extremamente modular e configurável.
+Ou seja, em cada campus ou instituição você poderá lidar com especificidades únicas.
+Portanto, não tenha medo: experimente! Conheça o que você pode fazer no Moodle que
+você tem à disposição. Pergunte! Colegas e sites da internet nos ajudam bastante nas
+dúvidas.
+Atenção: o guia traz as dicas iniciais para você utilizar o Moodle. Esperamos que a
+partir dessas informações, você siga confiante para qualquer atividade diferente que
+possa ser proposta.
+Boa leitura!
+Endereço do Moodle: _________________________
+Meu e-mail: ______________________________
+Meu login: _______________________________
+Lembrete da minha senha: _____________________
+
+MOODLE: TODOS IGUAIS, TELAS DIFERENTES
+
+Vinicius Hartmann Ferreira
+COMO ACESSAR O MOODLE
+
+Júlia Boff Fabbris, Júlia Marques Carvalho da Silva
+PREENCHENDO O MEU PERFIL
+
+Cecilia Estela Giuffra Palomino
+RECONHECENDO AS DISCIPLINAS E CURSOS
+
+Júlia Marques Carvalho da Silva
+COMO ACESSAR OS CONTEÚDOS PARA LEITURA?
+
+Júlia Marques Carvalho da Silva
+COMO FAZER AS ATIVIDADES?
+
+Júlia Marques Carvalho da Silva
+COMO PARTICIPAR DOS FÓRUNS?
+
+Cristina Bohn Citolin, Júlia Marques Carvalho da Silva
+
+MOODLE: TODOS IGUAIS, TELAS DIFERENTES
+Vinicius Hartmann Ferreira
+O que é o Moodle?
+O Moodle (Modular Object-Oriented Dynamic Learning Environment) é um Ambiente
+Virtual de Ensino e Aprendizagem (AVEA). Ou seja, ele permite aos professores
+disponibilizar materiais e atividades que os alunos acessarão e realizarão. Tecnicamente,
+o Moodle destaca-se por apresentar código-aberto, permitindo a alteração e
+customização de sua interface e funcionalidades. Ainda, ele é totalmente gratuito,
+bastando instalar em um servidor web com PHP e MySQL. O site oficial do Moodle é
+https://moodle.org/.
+Quantos AVEAs usando Moodle existem?
+Considerando o exposto acima, o número exato de AVEAs Moodle não é possível de
+estimar. Tendo em vista que qualquer instituição ou indivíduo interessado em ofertar
+cursos totalmente online ou mesmo presenciais com suporte online pode se utilizar da
+plataforma Moodle de forma gratuita, hoje grande parte das instituições de ensino
+privadas ou públicas, de ensino básico ou superior, utilizam o Moodle como seu AVEA.
+Além disso, o Moodle permite que novos recursos (desenvolvidos pela
+comunidade) possam ser incorporados a um AVEA instalado. Dentre as possibilidades de
+recursos adicionais estão atividades e temas diferentes. As atividades acrescentam novas
+possibilidades de Moodle entre os usuários e os temas permitem que o AVEA construído
+com a plataforma MOODLE possa ter a aparência desejada, com cores e características
+visuais da instituição que o utiliza (https://download.moodle.org/).
+Embora o tema do AVEA que utiliza
+Moodle
+possa
+ser
+alterado
+em
+qualquer
+momento, isso não implicará em alterações na
+sua forma de uso, a dinâmica permanecerá a
+mesma. Conforme pode ser visto nas figuras, os
+AVEAs em questão são de campus diferentes do
+IFRS e possuem temas diferentes. Todavia, ao
+acessar o AVEA o usuário localizará facilmente os
+recursos em comum entre os AVEAs.
+
+COMO ACESSAR O MOODLE
+Júlia Boff Fabbris
+Para acessar o Moodle, utilize seu navegador, ou seja, o programa para acessar a
+internet. Veja alguns exemplos:
+
+Chrome
+Mozilla Firefox
+Internet Explorer
+
+Acesse o endereço de seu Moodle (lembre-se que você anotou o endereço no início
+desse material. Você será direcionado para uma página do Moodle. Clique na palavra
+Acesso que está na mensagem “Você ainda não se identificou (Acesso)” situada no canto
+superior direito da tela.
+
+Na sequência, aparecerão duas opções:
+
+Acesso: utilize seu login e senha para acessar sua conta no Moodle.
+Atenção, se você já utilizou o Moodle em outro campus ou instituição, seu
+login e senha não serão válidos neste Moodle. Cada conta de usuário é
+única no Moodle.
+
+Esta é a sua primeira vez aqui?: se você nunca usou o Moodle no campus ou
+reitoria, é necessário criar uma conta, para isso clique em Cadastramento
+de Usuários. Atenção, caso esta opção não esteja ativada em seu campus, é
+provável que sua conta seja criada automaticamente; informe-se com o seu
+coordenador de curso, Núcleo de Educação a Distância ou Departamento de
+Tecnologia da Informação. Para criar contas novas, vamos ver o passo a
+passo a seguir.
+
+Esta é a sua primeira vez aqui?
+Ao clicar em Cadastramento de usuário, você será encaminhado para o formulário
+de Cadastramento, onde deverá preencher os seguintes campos:
+
+Nome de usuário: será seu identificador para os próximos acessos, lembre-
+se de anotá-lo no início deste material;
+
+Senha: siga as instruções para criação da senha. Uma senha segura deve ter
+pelo menos, 1 número, 1 letra maiúscula, 1 letra minúscula;
+
+Endereço de email: informe o seu endereço de email e confirme-o
+informando novamente;
+
+Nome: informe seu nome corretamente, evite apelidos e use letra
+maiúscula apenas para a inicial;
+
+Sobrenome: informe seu sobrenome completo, sem abreviações;
+
+Cidade / Município: diga qual é a sua cidade de residência ou nascimento;
+
+País: diga qual é o seu país de residência ou nascimento
+Após fazer o preenchimento confira seus dados e clique em “Cadastrar este novo
+usuário”. Será enviado um e-mail de confirmação de cadastro para o endereço de e-mail
+que você preencheu no formulário, este e-mail contém instruções que você deve seguir
+para concluir o seu cadastro.
+
+Confirmando o Cadastro
+Para concluir seu cadastramento no Moodle você precisa acessar sua conta de e-
+mail (ex: Gmail, Hotmail, Bol, etc.). Veja que você receberá um email do Moodle:
+
+Para ler, clique na mensagem:
+
+Agora, o mais importante: para confirmar o seu cadastro, clique no link enviado
+junto com a mensagem. Caso o link não funcione, copie e cole o link em seu navegador.
+Poderá ser exibida uma mensagem de confirmação ou apresentada a tela inicial do
+Moodle.
+Como acessar uma disciplina do meu professor?
+Para acessar uma disciplina, é necessário acessar o Moodle. Para isto, siga os
+mesmos passos iniciais:
+1.
+Acesse o Moodle
+2. Clique em “Acesso”, localizado no canto superior direito
+3. Informe o seu login e senha.
+
+Fazendo o login você será direcionado para a sua página inicial do Moodle, nela
+serão exibidas as turmas / disciplinas disponíveis. Neste momento, você deve ir no menu
+vertical lateral localizado à direita chamado Navegação e clicar no item Cursos.
+
+Ao clicar nele, você será direcionando para a página com a lista de cursos
+existentes. Nesta página você terá os cursos disponíveis por categorias. Caso preferir ou
+não encontrar seu curso nas categorias, você poderá procurar seu curso pelo nome no
+campo inferior Buscar. Neste campo você poderá preencher com o nome da disciplina e
+então clicar em Vai. O resultado da pesquisa será apresentado, com todas as disciplinas.
+Localize a sua disciplina, e clique no nome da disciplina desejada.
+
+Para o 1º acesso na disciplina, será solicitada uma chave de inscrição (senha). Essa
+chave é fornecida pelo professor da disciplina. Caso você não tenha essa chave, peça ao
+seu professor. Informe a chave de inscrição e clique no botão Inscreva-me.
+
+A tela seguinte apresentará a disciplina, com os materiais didáticos e tarefas que o
+professor disponibilizou.
+
+Muito bem! Agora é explorar a disciplina! Veja os materiais e conheça as
+atividades, sem se descuidar dos prazos.
+
+PREENCHENDO O MEU PERFIL
+Cecilia Estela Giuffra Palomino
+No seu perfil há alguns campos que podem ser editados e configurados. Você
+consegue colocar uma foto e uma descrição, tudo isso de uma forma simples e rápida.
+Esta edição no seu perfil é bem importante, pois possibilita que todos os participantes do
+curso se conheçam um pouco mais, mesmo que virtualmente, o que no ensino a distância
+é essencial. Para editar seu perfil clique no seu nome, no canto superior direito.
+
+Em seguida, no menu lateral, clique em Modificar perfil.
+Abrirá a página com todas as suas informações de perfil.
+
+No seu perfil, você terá blocos separados que poderá
+configurar:
+● Geral: possível editar seu nome, e-mail, cidade, país, e
+fazer uma descrição sua. Nesse bloco, os primeiros campos
+estão preenchidos com as informações inseridas na hora do
+seu cadastro, já o campo descrição está vazio. Nele, você pode colocar uma breve
+descrição sua, uma apresentação para que quem entrar no seu perfil saiba um
+pouco mais de você.
+● Preferências: você pode selecionar algumas opções segundo o que desejar.
+● Imagem do usuário: você deve inserir uma foto. A foto do perfil facilita o
+reconhecimento entre os participantes do curso. Para isso, clique no ícone de folha
+com um símbolo "+". Abrirá o File picker, que é uma página pop-up com opções
+para carregar a foto para o sistema.
+
+No File picker selecione a opção Enviar um arquivo e, em seguida, clique em
+Escolher arquivo para procurar a imagem no seu computador.
+
+Lembre que essa imagem é para que as outras pessoas no ambiente possam
+reconhecê-lo/la, por isto, a escolha da imagem é importante. Procure inserir uma foto em
+que apareça seu rosto de forma nítida. Cuide que sua imagem tenha uma forma mais
+quadrada, pois o Moodle irá recortá-la,caso seja necessário, já que o espaço disponível
+para a foto de perfil no Moodle é quadrado.
+
+● Nomes adicionais e opcional: contêm campos para serem preenchidos com dados
+adicionais, como nome alternativo, conta de Skype, etc. Você pode preencher esses
+campos segundo sua necessidade ou interesse
+
+Você pode configurar cada bloco de forma independente, e
+sempre que fizer alguma mudança, antes de ir para outra
+página do Moodle, você precisa ir no final da página do perfil e
+clicar em Atualizar perfil. Se você não fizer isso as mudanças
+serão perdidas, no entanto, o Moodle lhe avisará se você
+estiver tentando sair do perfil sem ter salvado as mudanças.
+
+RECONHECENDO AS DISCIPLINAS E CURSOS
+Júlia Marques Carvalho da Silva
+No caso dos AVEAs, eles usam uma nova nomenclatura: cursos! Ou seja, não existe
+turma, disciplina ou curso. No AVEA, o nome técnico será curso. Por exemplo, você
+encontrará a sua turma de História da Arte – turma A, como curso “História da Arte –
+turma A”; ou sua disciplina de “Inglês Instrumental”, como curso de “Inglês
+Instrumental”; ou seu curso de “Oratória”, como curso de “Oratória”. Resumindo, no
+AVEA Moodle, não importa se é sua turma, disciplina ou curso específico, tudo tem a
+denominação de curso, entendido?
+Pois bem, ao acessar o curso em que você está inscrito, você encontrará os
+materiais e atividades disponibilizados pelo seu professor. Assim como na sala de aula
+tradicional, cada professor terá seu jeito único de organizar a aula. Portanto, não espere
+que no virtual, todos os professores sigam o mesmo padrão. Haverá aquele professor que
+coloca o material a cada semana da aula, assim como aquele que nos oferece todo o curso
+já no 1º dia de aula. Tem professor que organiza as aulas por data (dias ou semanas),
+enquanto há outros que organizam por unidades ou tópicos. E ainda, tem aqueles
+professores que organizam de formas criativas e professores que parecem não ter
+organização definida. Veja alguns exemplos:
+
+Bom, agora que você já viu alguns exemplos, vamos começar a reconhecer a tela
+principal dos cursos no AVEA Moodle. O Moodle, por ser um sistema muito flexível,
+poderá nos surpreender com telas diferentes a cada momento. Portanto, não se assuste se
+encontrar algo novo, pode ser que seu professor esteja experimentando um recurso novo
+para incrementar a sua experiência em aula. Contudo, de forma geral, os professores
+optam por uma estrutura padrão. Há um menu à esquerda que permite o acesso de
+informações gerais sobre o curso, ao centro há a apresentação do conteúdo do curso, e à
+direita algumas caixas adicionais (opcional). Nos cursos apresentados anteriormente,
+pudemos ver a página do curso organizada em 3 colunas. Abaixo, vemos um exemplo que
+não tem a coluna à direita. Embora haja esta diferença estética, em nada muda a
+funcionalidade do curso.
+
+Agora vamos nos focar no curso, ou seja, na área central ou de maior ocupação da
+página do curso. Nela, o professor tem a possibilidade de disponibilizar os conteúdos e
+atividades. Mas que tipo de materiais o professor pode colocar? Para saber o que é cada
+material, há um ícone ao lado de cada item. Vamos conhecer e reconhecer os mais
+utilizados pelos professores:
+1) Ícones de conteúdos para leitura
+
+Arquivo PDF, Word e Excel
+Link para Internet
+Pasta
+Livro
+2) Ícones das atividades individuais
+
+Tarefa
+Questionário
+Escolha
+Lição
+Pesquisa
+
+3) Ícones das colaborativas ou em grupo
+
+Laboratório de Avaliação
+Glossário
+Base de Dados
+Wiki
+
+4) Ícones de ferramentas de comunicação
+
+Fórum de Discussão
+Chat
+Ah, e não se esqueça, o professor pode fazer uso de vários desses materiais ou
+apenas de alguns. Portanto, não se preocupe se o seu curso não dispor de todos esses
+ícones. Ainda, há a possibilidade de adicionar novos ícones. Se você encontrar algo novo,
+não se preocupe, explore à vontade.
+Bom, agora que você conhece os ícones, vamos tentar identificá-los em um curso?
+
+Muito bem, você já sabe o que tem em cada material do seu curso. Agora chegou a
+hora de explorar cada um deles. Neste guia vamos explorar os recursos mais utilizados
+pelos professores. Acreditamos no seu potencial, e sabemos que a partir das dicas básicas,
+conseguirás desvendar os recursos avançados.
+
+Arquivo PDF
+Questionário
+Pesquisa
+Base de Dados
+Chat
+Lição
+Glossário
+Fórum de Discussão
+Escolha
+Link para internet
+Pasta
+Livro
+
+COMO ACESSAR OS CONTEÚDOS PARA LEITURA?
+Júlia Marques Carvalho da Silva
+Como vimos, o AVEA Moodle tem várias opções de materiais para leitura. Vamos
+conhecer como acessar cada um deles?
+Arquivo
+São documentos de texto (DOC
+ou PDF), slides, planilhas ou qualquer
+outro arquivo. Para acessar, basta clicar
+sobre o nome ao lado do ícone e o
+arquivo será salvo em seu computador
+ou aberto diretamente no navegador
+(depende
+do
+tipo
+de
+arquivo
+e
+configuração
+do
+seu
+computador).
+Ainda,
+opcionalmente,
+poderá
+ser
+aberta uma página com o texto do link
+e então você precisará clicar sobre ele.
+
+Link para Internet
+São endereços para conteúdos disponíveis na internet, como páginas de notícias,
+vídeos do YouTube, artigos, etc. Para acessar, basta clicar sobre o nome ao lado do ícone.
+A página da internet abrirá na sequência (opcionalmente, poderá ser aberta uma página
+com o texto do link e então você precisará clicar sobre ele).
+
+Pasta
+Consiste em um conjunto de arquivos organizados em uma pasta, da mesma forma
+que fazemos no computador. O professor pode colocar vários textos e imagens, por
+exemplo. Para acessar, basta clicar sobre o nome ao lado do ícone. Será aberta uma página
+com a lista de arquivos contidos nela. Para acessar cada arquivo, clique sobre o nome dele
+(ele será aberto em seu navegador ou será realizado o download para seu computador).
+
+São textos digitais disponibilizados
+pelo seu professor que podem ser lidos
+direto no Moodle, pelo computador, tablet
+ou celular; sem necessidade de programa
+de computador. Para acessar, basta clicar
+sobre o nome ao lado do ícone, e o texto
+será exibido em seguida.
+
+Livro
+O livro é o agrupamento de páginas (que
+acabamos de conhecer), organizadas por um
+sumário. Para acessar, basta clicar sobre o nome ao
+lado do ícone, e a primeira página do livro será
+exibido em seguida. Note que ao lado esquerdo
+ficará localizado o sumário do livro. Para navegar
+entre as páginas,
+você pode usar o
+sumário ou as setas
+de
+navegação
+localizadas
+no início e fim de
+cada página.
+
+COMO FAZER AS ATIVIDADES?
+Júlia Marques Carvalho da Silva
+Já identificamos os diversos tipos de atividades que o Moodle oferece. Aqui, vamos
+explorar as mais utilizadas pelos professores.
+Tarefa
+As tarefas consistem na forma mais tradicional do seu professor pedir algum
+trabalho a você. A tarefa pode ser a entrega de algum arquivo que você irá elaborar em seu
+computador, por exemplo, um artigo no Word ou apresentação no PowerPoint (ex:
+“Apresentação do Trabalho”); ou a elaboração de um texto diretamente no Moodle (ex:
+“Texto sobre as Olimpíadas”).
+
+Vamos começar pelo exemplo de entrega de arquivo. Para isso, vamos acessar a
+tarefa “Apresentação do Trabalho”, clicando sobre ela. Você poderá visualizar o
+enunciado da tarefa, status do envio e avaliação, prazo para entrega e quanto tempo falta
+para o prazo. Para enviar a sua tarefa, clique no
+botão Adicionar tarefa. Será apresentada uma
+nova tela, onde você poderá enviar o arquivo
+(para o passo-a-passo do envio do arquivo,
+siga
+as
+mesmas
+instruções
+do
+capítulo
+PREENCHENDO O MEU PERFIL). Após enviar o
+arquivo, clique em Salvar Mudanças.
+
+Após salvar as mudanças, você poderá
+conferir o seu envio. Lembre-se que se você
+consegue ver o seu trabalho aqui, seu professor
+também
+conseguirá.
+Não
+é
+necessário
+confirmar se o professor o recebeu. Da mesma
+forma,
+somente
+você
+terá
+acesso
+para
+modificar ou apagar o seu envio. Nem seu
+professor, nem seus colegas têm acesso a
+alterações do seu trabalho.
+
+Após a avaliação de seu professor,
+você pode conferir o seu desempenho nesta
+mesma tela. Veja que logo abaixo de seu
+envio aparecerá a área de Feedback. Nela,
+aparecerá a sua nota. O Moodle configura as
+notas de 0 a 100. Então, note no nosso
+exemplo que o aluno obteve a nota 98/100,
+ou seja, 9,8. Ainda é possível conferir
+quando que o trabalho foi avaliado, o nome
+do avaliador e os comentários fornecidos.
+Retornando ao nosso 2° exemplo,
+“Texto sobre as Olimpíadas”, vamos
+elaborar
+um
+texto
+diretamente
+no
+Moodle. Para criar o texto, clique em
+Adicionar Tarefa. Será aberta uma tela
+com uma caixa de texto. Digite seu texto
+e clique em Salvar mudanças. Pronto! Seu
+texto está pronto e enviado.
+Atenção: opcionalmente seu professor poderá
+ativar a confirmação de envio. Neste caso, ao
+retornar para a página principal da tarefa,
+você deve confirmar o envio da tarefa, caso
+contrário ela ficará apenas como rascunho.
+Questionário
+No questionário, você deve responder um conjunto de perguntas abertas
+(dissertativas) ou fechadas (verdadeiro / falso, múltipla escolha, resposta curta, cálculo).
+O seu professor a configurará de modo que você possa fazer uma ou múltiplas tentativas,
+além de estabelecer como será a sua nota: na primeira ou última tentativa, uma média ou
+a nota mais alta. Note também
+que
+pode
+haver
+limite
+de
+tempo para responder. Para
+acessá-lo clique sobre o nome
+do
+questionário
+na
+principal do curso, e então será
+exibida uma página com as
+tentativas. Para realizar uma
+nova tentativa, clique no botão
+Tentar responder o questionário
+agora.
+
+Será aberta uma tela com as questões. Note que elas podem aparecer uma abaixo
+da outra, uma por página. Ao lado de cada questão, você pode acompanhar a pontuação
+dela e o status, além de marcar a questão (que ficará destacada para que você a observe
+posteriormente).
+
+Para cada questão, assinale ou preencha a resposta correta. Ao final, clique no
+botão Próximo. Na sequência, será exibida a tela para confirmação das suas respostas.
+Você pode Retornar à tentativa, para alterar alguma resposta, ou Enviar tudo e terminar,
+para visualizar a correção do questionário (no caso das questões fechadas). Será pedida a
+confirmação de envio, confirme clicando em Enviar tudo e terminar.
+
+A partir deste momento, você poderá conferir as suas respostas, a resposta correta
+de cada questão, e o feedback da questão (se houver). Na parte superior, você também
+visualiza quanto tempo demorou para responder o questionário e seu rendimento total. Já
+ao lado de cada questão, pode conferir sua pontuação.
+
+Escolha
+A escolha pode ser definida como uma enquete realizada pelo seu professor, como
+uma votação ou sondagem sobre a opinião dos alunos. Para acessá-la, clique na escolha e
+então visualize as opções. Selecione uma opção, e
+clique em Gravar a minha resposta. Em seguida, se
+habilitado, você pode ver as respostas dos colegas.
+
+Lição
+Na lição, você terá uma página de conteúdo e ao final uma pergunta. Conforme sua
+resposta, você será encaminhado para um conteúdo estabelecido por seu professor.
+Dependendo da configuração, você poderá visualizar a lição uma ou várias vezes,
+portanto, preste bem atenção no conteúdo e perguntas,
+pois é uma atividade avaliativa.
+
+COMO PARTICIPAR DOS FÓRUNS?
+Cristina Bohn Citolin, Júlia Marques Carvalho da Silva
+Fórum de Discussão
+Seu professor pode organizar diferentes fóruns, que permitem discussões
+assíncronas, ou seja, os participantes podem escrever suas opiniões em momentos
+diferentes, durante um período mais longo. A ferramenta é muito importante, pois
+promove a integração entre os colegas e a expressão escrita de cada estudante. Dentre as
+opções disponíveis, há:
+1) Fórum de Uma Discussão Simples: para debates breves, organiza-se em torno de
+um tópico, em uma página.
+2) Fórum Geral: a qualquer momento, qualquer participante pode começar um novo
+tópico.
+3) Fórum P e R - Perguntas e Respostas: você deve responder a pergunta
+estabelecida pelo professor antes de ver as resposta dos colegas, além de
+contribuir nas respostas deles.
+4) Fórum Cada usuário inicia apenas UM NOVO tópico: limita a participação à
+postagem de uma discussão por estudante, porém, os demais podem respondê-lo
+à vontade, sem limite de postagem.
+5) Fórum de notícias: presente em todos os cursos, cujo objetivo é criar um quadro de
+avisos do curso. Ele possui assinatura obrigatória por todos os participantes,
+fazendo com que as mensagens sejam recebidas por todos, inclusive com cópia por
+email.
+Para participar do fórum, localize-o e clique sobre o nome dele. Na sequência, será
+apresentada a descrição dada pelo professor e, logo abaixo, os tópicos de discussão
+(exceto no caso do fórum de discussão simples, que então apresentará a discussão
+diretamente). Você pode acessar os tópicos para fazer a leitura deles, ou criar seu próprio
+tópico clicando em Acrescentar um novo tópico de discussão. Fique atento ao enunciado, e
+faça
+o
+que
+seu
+professor orientou.
+
+Ao acrescentar um novo tópico, você acessará a seguinte tela, com a possibilidade
+de redigir seu texto. Ainda, você poderá assinar a discussão, de modo que qualquer nova
+interação será enviada para o seu email no prazo de 30 minutos. Opcionalmente, será
+dada a possibilidade de anexar um arquivo também. Quando finalizar, envie sua
+mensagem pressionando o botão Enviar mensagem ao fórum.
+
+Sua mensagem será exibida aos demais participantes logo em seguida. Você
+também pode optar por editar ou excluir a mensagem. Ainda, outro recurso muito
+importante é a resposta. Ou seja, ao visualizar uma mensagem sua ou de seu colega, você
+pode responde-la usando o link Responder.

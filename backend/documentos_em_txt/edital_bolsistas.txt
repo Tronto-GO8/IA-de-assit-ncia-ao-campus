@@ -297,7 +297,7 @@
 ​Ensino.​
 ​7.4.​
 ​A​ ​classificação​ ​neste​ ​processo​ ​não​ ​garante​ ​a​ ​vaga​ ​da​ ​bolsa,​ ​pois​ ​esta​ ​depende​ ​da​
-​disponibilidade de recursos da matriz orçamentária do​​Campus​​Restinga  destinados a esse fim.​
+​disponibilidade de recursos da matriz orçamentária do​​Campus​​Restinga destinados a esse fim.​
 ​7.5.​
 ​A​ ​Coordenação​ ​de​ ​Ensino​ ​divulgará​​a​​listagem​​dos(as)​​candidatos(as)​​classificados(as)​
 ​para cada vaga na data prevista no cronograma deste edital no site do​​campus​.​
@@ -412,14 +412,14 @@
 ​FORMULÁRIO DE INDICAÇÃO, SUBSTITUIÇÃO OU DESLIGAMENTO DE BOLSISTA​
 ​Porto Alegre/RS , ___/____/______.​
 ​MARQUE A OPÇÃO:​
-​(   ) INDICAÇÃO​
-​(   )  SUBSTITUIÇÃO​
-​(  ) DESLIGAMENTO​
+​( ) INDICAÇÃO​
+​( ) SUBSTITUIÇÃO​
+​( ) DESLIGAMENTO​
 ​Marque o Edital de vínculo do Projeto​
-​(    )​​PROEN/IFRS Nº 25/2025 - FOMENTO A PROJETOS DE ENSINO 2026​
-​(    )​​PROPPI/IFRS Nº 25/2025 - FOMENTO INTERNO PARA PROJETOS DE PESQUISA E INOVAÇÃO 2026​
-​(    )​​PROEX/IFRS Nº 30/2025 - AUXÍLIO INSTITUCIONAL À EXTENSÃO 2026​
-​(    )​​EDITAL CONJUNTO Nº 7/2025 – FOMENTO INTERNO PARA PROJETOS INDISSOCIÁVEIS DE PESQUISA,​
+​( )​​PROEN/IFRS Nº 25/2025 - FOMENTO A PROJETOS DE ENSINO 2026​
+​( )​​PROPPI/IFRS Nº 25/2025 - FOMENTO INTERNO PARA PROJETOS DE PESQUISA E INOVAÇÃO 2026​
+​( )​​PROEX/IFRS Nº 30/2025 - AUXÍLIO INSTITUCIONAL À EXTENSÃO 2026​
+​( )​​EDITAL CONJUNTO Nº 7/2025 – FOMENTO INTERNO PARA PROJETOS INDISSOCIÁVEIS DE PESQUISA,​
 ​ENSINO E EXTENSÃO​
 ​Dados do Projeto/Ação​
 ​Título do projeto/Ação:​
@@ -429,7 +429,7 @@
 ​CPF​
 ​E-mail​
 ​Telefone (fixo/celular)​
-​(     )​
+​( )​
 ​Dados do(a) bolsista indicado(a)​​(um formulário por​​bolsista)​
 ​Nome completo​
 ​ ​
@@ -438,7 +438,7 @@
 ​E-mail​
 ​ ​
 ​Telefone​
-​(     )​
+​( )​
 ​Curso​
 ​ ​
 ​Instituição (​campus​)​
@@ -448,7 +448,7 @@
 ​Agência nº​ ​ ​
 ​Conta nº​
 ​ ​
-​Dados do(a) bolsista - (    ) substituído(a)  ou    (    ) desligado(a)​
+​Dados do(a) bolsista - ( ) substituído(a) ou ( ) desligado(a)​
 ​Nome completo​
 ​ ​
 ​CPF​
@@ -456,24 +456,24 @@
 ​E-mail​
 ​ ​
 ​Telefone​
-​(      )​
+​( )​
 ​Curso​
 ​ ​
 ​Instituição (​Campus​)​
 ​ ​
 ​Motivo (em caso de desligamento):​
-​(  ) Por insuficiência de desempenho​
-​(  ) Bolsista adquiriu vínculo empregatício​
+​( ) Por insuficiência de desempenho​
+​( ) Bolsista adquiriu vínculo empregatício​
 ​7​
 ​Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS – CEP 91.791-508​
 ​Telefone: (51) 3247.8400 –​​www.ifrs.edu.br/restinga​​– E-mail:​​gabinete@restinga.ifrs.edu.br​
 
-​(  ) Término de curso​
-​(  ) Por desistência do bolsista​
-​(  ) Por falecimento​
-​(  ) Trancamento de matrícula​
-​(  ) Por obtenção de bolsa em outra agência​
-​(  ) Outro motivo (justifique):​
+​( ) Término de curso​
+​( ) Por desistência do bolsista​
+​( ) Por falecimento​
+​( ) Trancamento de matrícula​
+​( ) Por obtenção de bolsa em outra agência​
+​( ) Outro motivo (justifique):​
 ​Declaração​
 ​Declaro,​​sob​​as​​penas​​da​​lei,​​que​​as​​informações​​prestadas​​neste​​formulário​​são​​verdadeiras​​e​​assumo​
 ​total​ ​e​ ​irrestrita​ ​responsabilidade​ ​civil​ ​e​ ​penal​ ​pelas​ ​mesmas.​ ​Informo​ ​que​ ​o​ ​bolsista​ ​indicado​ ​foi​
@@ -604,7 +604,7 @@
 ​(Campos de preenchimento destinado ao coordenador do projeto de ensino).​
 ​11.​
 ​Assinaturas​
-​Porto Alegre, ________ de  _______________ de 2026.​
+​Porto Alegre, ________ de _______________ de 2026.​
 ​ASSINATURA DO BOLSISTA​
 ​ASSINATURA DO COORDENADOR DO​
 ​PROJETO​
@@ -615,4 +615,3 @@
 ​12​
 ​Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS – CEP 91.791-508​
 ​Telefone: (51) 3247.8400 –​​www.ifrs.edu.br/restinga​​– E-mail:​​gabinete@restinga.ifrs.edu.br​
-

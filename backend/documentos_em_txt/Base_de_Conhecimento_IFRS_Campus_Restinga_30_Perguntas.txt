@@ -1,0 +1,80 @@
+Base de Conhecimento - IFRS Campus Restinga
+Documento inicial com perguntas e respostas para utilização como base de
+conhecimento de um chatbot institucional. Recomenda-se revisar periodicamente
+conforme editais e regulamentos atualizados.
+Perguntas e Respostas
+1. Pergunta: Cursos oferecidos
+Resposta: O campus oferece cursos técnicos integrados ao Ensino Médio, cursos
+técnicos subsequentes e cursos superiores. Consulte sempre o site oficial para a oferta
+vigente.
+2. Pergunta: Como faço minha matrícula?
+Resposta: A matrícula é realizada conforme o edital do processo seletivo e cronograma
+divulgado pelo campus.
+3. Pergunta: Onde vejo o calendário acadêmico?
+Resposta: No portal oficial do IFRS Campus Restinga, na seção de calendário
+acadêmico.
+4. Pergunta: Como solicitar histórico escolar?
+Resposta: A solicitação normalmente é feita pela Secretaria de Registros Acadêmicos
+seguindo os procedimentos institucionais.
+5. Pergunta: Posso aproveitar disciplinas?
+Resposta: Sim, quando previsto em regulamento e mediante análise da coordenação
+do curso.
+6. Pergunta: Como acessar o Moodle?
+Resposta: Utilize seu usuário institucional e senha cadastrada.
+7. Pergunta: Esqueci minha senha institucional
+Resposta: Procure o suporte de TI ou siga o procedimento oficial de recuperação de
+senha.
+8. Pergunta: Como funciona a biblioteca?
+Resposta: A biblioteca realiza empréstimos, renovações e consultas ao acervo
+conforme regulamento.
+9. Pergunta: Existe Wi-Fi para estudantes?
+
+Resposta: Sim, o campus disponibiliza acesso conforme as políticas institucionais.
+10. Pergunta: Há bolsas estudantis?
+Resposta: Sim. Os editais de assistência estudantil e outras bolsas são publicados
+durante o ano.
+11. Pergunta: Como solicitar auxílio estudantil?
+Resposta: É necessário acompanhar os editais e apresentar a documentação exigida.
+12. Pergunta: Como entrar em contato com um professor?
+Resposta: Pelos canais institucionais indicados pela coordenação ou pelo ambiente
+virtual.
+13. Pergunta: Onde encontro os horários das aulas?
+Resposta: Nos canais oficiais do campus e da coordenação do curso.
+14. Pergunta: Posso trancar a matrícula?
+Resposta: Depende das regras do curso e do regulamento acadêmico.
+15. Pergunta: Como solicitar atestado de matrícula?
+Resposta: Pela Secretaria Acadêmica ou sistema institucional quando disponível.
+16. Pergunta: O campus possui estágio?
+Resposta: O campus orienta sobre estágios obrigatórios e não obrigatórios e divulga
+oportunidades.
+17. Pergunta: Como participar de projetos de pesquisa?
+Resposta: Acompanhe os editais e converse com professores orientadores.
+18. Pergunta: Como participar de extensão?
+Resposta: Os projetos de extensão divulgam processos seletivos ao longo do ano.
+19. Pergunta: Onde encontro editais?
+Resposta: No portal do campus e nos canais oficiais de comunicação.
+20. Pergunta: Como justificar faltas?
+Resposta: Siga o regulamento acadêmico e entregue a documentação quando exigida.
+21. Pergunta: Qual a frequência mínima?
+Resposta: A frequência mínima segue a legislação e os regulamentos institucionais.
+22. Pergunta: Existe restaurante estudantil?
+
+Resposta: Verifique a estrutura e os serviços disponíveis no campus e os comunicados
+oficiais.
+23. Pergunta: Como emitir comprovante de matrícula?
+Resposta: Pelos sistemas institucionais ou Secretaria Acadêmica.
+24. Pergunta: Como atualizar meus dados cadastrais?
+Resposta: Solicite a atualização pelos canais oficiais da instituição.
+25. Pergunta: Onde vejo notícias do campus?
+Resposta: No site oficial e nas redes sociais institucionais.
+26. Pergunta: Como funciona a monitoria?
+Resposta: Quando houver edital, os critérios e vagas são divulgados oficialmente.
+27. Pergunta: Há atendimento psicológico?
+Resposta: Os serviços de apoio ao estudante dependem da estrutura disponível e dos
+programas vigentes.
+28. Pergunta: Como solicitar segunda chamada de prova?
+Resposta: Conforme o regulamento e os prazos definidos pelo curso.
+29. Pergunta: Como falar com a coordenação?
+Resposta: Pelos contatos institucionais divulgados pelo campus.
+30. Pergunta: Onde encontro documentos oficiais?
+Resposta: No portal do IFRS e na página específica do Campus Restinga.
