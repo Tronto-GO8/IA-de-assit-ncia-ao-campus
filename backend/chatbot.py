@@ -4,7 +4,8 @@ from google import genai
 
 from busca import buscar_contexto
 
-
+#temp 
+from time import perf_counter
 # ==========================================
 # CONFIGURAÇÃO
 # ==========================================
@@ -244,11 +245,14 @@ PERGUNTA ATUAL:
     # ==========================================
 
     try:
+        inicio = perf_counter()
 
         resposta = client.models.generate_content(
             model="gemini-3.5-flash-lite",
             contents=prompt
         )
+
+        print(f"Tempo do Gemini: {perf_counter() - inicio:.2f}s")
 
         return (
             resposta.text,

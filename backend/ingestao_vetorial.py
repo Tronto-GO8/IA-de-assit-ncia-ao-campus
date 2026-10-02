@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 # CONFIGURAÇÕES
 # ============================================================
 
-PASTA_TEXTOS = "textos"
+PASTA_TEXTOS = "documentos_em_txt"
 
 CAMINHO_BANCO = "banco_vetorial"
 
@@ -414,9 +414,7 @@ def adicionar_overlap(chunks):
 
 def criar_chunks(texto):
 
-    estrutura = estruturar_documento(
-        texto
-    )
+    estrutura = estruturar_documento(texto)
 
     # Caso o documento tenha estrutura
     if estrutura:
@@ -439,25 +437,23 @@ def criar_chunks(texto):
                 or ""
             )
 
-            chunks_finais.append({
-                "titulo": titulo,
-                "secao": parte["secao"],
-                "subsecao": parte["subsecao"],
-                "texto": chunk
-            })
+            # Adiciona cada chunk individualmente
+            for chunk in chunks:
+
+                chunks_finais.append({
+                    "titulo": titulo,
+                    "secao": parte["secao"],
+                    "subsecao": parte["subsecao"],
+                    "texto": chunk
+                })
 
         return chunks_finais
 
-    # Fallback:
-    # documento sem estrutura clara
+    # Fallback: documento sem estrutura clara
 
-    chunks = dividir_texto(
-        texto
-    )
+    chunks = dividir_texto(texto)
 
-    chunks = adicionar_overlap(
-        chunks
-    )
+    chunks = adicionar_overlap(chunks)
 
     return [
         {

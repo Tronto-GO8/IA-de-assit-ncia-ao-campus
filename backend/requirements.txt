@@ -20,7 +20,10 @@ python-dotenv>=1.1.0
 google-genai==1.31.0
 
 # Leitura de PDFs
-PyMuPDF>=1.26.0
+PyMuPDF>=1.26.
+
+# Busca Lexical
+rank-bm25
 
 # Observações:
 # - `numpy`, `scipy`, `huggingface-hub` e `tqdm` são normalmente

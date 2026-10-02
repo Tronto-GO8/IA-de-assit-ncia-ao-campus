@@ -1,3 +1,5 @@
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+PPC DO CURSO TÉCNICO EM ELETRÔNICA
 MINISTÉRIO DA EDUCAÇÃO
 SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E
@@ -8,111 +10,8 @@ CURSO TÉCNICO EM ELETRÔNICA
 AUTORIZADO PELA RESOLUÇÃO Nº 14/2018
 Porto Alegre, maio de 2018.
 
-Campus Restinga
-Composição Gestora da Instituição
-Reitor Substituto
-Prof. José Eli Santos dos Santos
-Pró-Reitora de Ensino - PROEN
-Prof.ª Clarice Monteiro Escott
-Pró-Reitora de Administração – PROAD
-Prof.ª Tatiana Weber
-Pró-Reitor de Desenvolvimento Institucional - PRODI
-Profª.ShanaSabbado Flores
-Pró-Reitora de Extensão - PROEX
-Prof. Viviane Silva Ramos
-Pró-Reitor de Pesquisa, Pós-Graduação e Inovação - PROPPI
-Porf. Eduardo Girotto
-Diretor Geral do Campus Restinga
-Prof. Gleison Samuel Nascimento
-Diretor de Ensino do Campus Restinga
-Prof. Tiago Bassani Rech
-Diretora de Administração e Planejamento do Campus Restinga
-Caroline Daiane Kulba
-Coordenadora de Desenvolvimento InstitucionaldoCampus Restinga
-Prof. Diego Moreira da Rosa
-Coordenador de Extensão do Campus Restinga
-Profª. Tatiana Silveira Teixeira
-Coordenador de Pesquisa doCampus Restinga
-Prof. Alexsandro Cristóvão Bonatto
-
-Campus Restinga
-Nominata de Reformulação do Projeto Pedagógico de Curso:
-João Roberto Gabbardo – Coordenador do Curso Integrado Médio de Técnico em Eletrônica
-Diego Moreira Rosa – Coordenador do Curso Integrado Médio de Técnico em Informática
-para Internet
-Carlos Ventura Fonseca – Representante da Comissão de Pesquisa
-Daniela Sanfelice – Representante da Comissão de Ensino
-Cristiano Escobar – Representante do Setor de Ensino
-CarenFulginiti da Silva – Representante de área Ciências Exatas e da Natureza
-Charles Uilian Campos Silva – Representante de área Linguagens e Códigos e suas
-Tecnologias
-Leonardo Pereira Santos – Representante de área de Eletrônica
-RobenCastagnaLunardi – Representante de área de Informática
-Tiago Bassani Rech – Representante de área Ciências Humanas e suas Tecnologias
-
-Campus Restinga
-DADOS DE IDENTIFICAÇÃO............................................................................................................................6
-1 APRESENTAÇÃO...............................................................................................................................................7
-2 HISTÓRICO.........................................................................................................................................................8
-3 CARACTERIZAÇÃO DO CAMPUS...............................................................................................................12
-4 JUSTIFICATIVA...............................................................................................................................................15
-5 PROPOSTA POLÍTICO-PEDAGÓGICA DO CURSO................................................................................18
-5.1 OBJETIVO GERAL:..........................................................................................................................................18
-5.2 OBJETIVOS ESPECÍFICOS................................................................................................................................18
-5.3 PERFIL DO CURSO..........................................................................................................................................18
-5.4 PERFIL DO EGRESSO......................................................................................................................................19
-5.5 DIRETRIZES E ATOS OFICIAIS.........................................................................................................................20
-5.5.1 Leis e Decretos...............................................................................................................................20
-5.5.2 Resoluções do Conselho Nacional de Educação – CNE e CONFEA/CREA.................................21
-5.5.4 Normas Internas do Instituto Federal de Educação, Ciência de Tecnologia do Rio Grande do Sul
-........................................................................................................................................................................21
-5.6 REQUISITOS DE INGRESSO E FORMAS DE ACESSO..........................................................................................22
-5.7 PRINCÍPIOS FILOSÓFICOS E PEDAGÓGICOS DO CURSO...................................................................................22
-5.7.1 Diretrizes do Ensino Integrado......................................................................................................26
-5.7.2 Educação para os direitos humanos..............................................................................................27
-5.7.3 Educação em direitos sexuais e reprodutivos................................................................................29
-5.7.4 Educação financeira.............................................................................................................................30
-6. REPRESENTAÇÃO GRÁFICA DO PERFIL DE FORMAÇÃO...............................................................31
-6.1. MATRIZ CURRICULAR..................................................................................................................................32
-6.2 PROGRAMA POR COMPONENTES CURRICULARES:.......................................................................................36
-6.3 ESTÁGIO CURRICULAR.................................................................................................................................88
-6.3.1 Obrigatório..........................................................................................................................................88
-6.3.2 Não obrigatório...................................................................................................................................90
-6.4 AVALIAÇÃO DO PROCESSO DE ENSINO E DE APRENDIZAGEM......................................................................90
-6.4.1 Da Recuperação Paralela....................................................................................................................92
-6.4.2 Da Progressão Parcial........................................................................................................................92
-6.5 CRITÉRIOS DE APROVEITAMENTO DE ESTUDOS E CERTIFICAÇÃO DE CONHECIMENTOS................................92
-6.5.1 Da mobilidade acadêmica....................................................................................................................92
-6.6 METODOLOGIAS DE ENSINO..........................................................................................................................92
-6.7 INDISSOCIABILIDADE ENTRE ENSINO, PESQUISA E EXTENSÃO....................................................................93
-6.8 ACOMPANHAMENTO PEDAGÓGICO................................................................................................................94
-6.9 ARTICULAÇÃO COM O NÚCLEO DE ATENDIMENTO ÀS PESSOAS COM NECESSIDADES EDUCACIONAIS
-ESPECÍFICAS (NAPNE), NÚCLEO DE ESTUDOS AFRO-BRASILEIROS E INDÍGENAS (NEABI) E NÚCLEO DE
-ESTUDOS E PESQUISAS EM GÊNERO E SEXUALIDADE (NEPGS)........................................................................95
-6.10 NÚCLEO DE EDUCAÇÃO A DISTÂNCIA (NEAD).........................................................................................96
-6.11 COLEGIADO DO CURSO..............................................................................................................................97
-7 QUADRO DE PESSOAL.................................................................................................................................97
-7.1 CORPO DOCENTE...........................................................................................................................................98
-8 CERTIFICADOS E DIPLOMAS..................................................................................................................102
-9 INFRAESTRUTURA.....................................................................................................................................103
-
-Campus Restinga
-9.1 BIBLIOTECA.................................................................................................................................................103
-9.1.1 Acervo.................................................................................................................................................103
-9.1.2 Relação de livros por área do conhecimento.....................................................................................104
-9.1.3 Serviços oferecidos.............................................................................................................................104
-9.1.4 Portal de Periódicos da CAPES.........................................................................................................105
-9.2 EQUIPAMENTOS E LABORATÓRIOS..............................................................................................................105
-10.1 LABORATÓRIO DE ELETRICIDADE.............................................................................................................106
-10.2 LABORATÓRIO DE ELETRÔNICA DE POTÊNCIA..........................................................................................107
-10.3 LABORATÓRIO DE ELETRÔNICA DIGITAL E MICROPROCESSADORES........................................................108
-10.4 LABORATÓRIO DE CONTROLE E INSTRUMENTAÇÃO.................................................................................108
-10.5 LABORATÓRIOS DE INFORMÁTICA E REDES..............................................................................................109
-11 CASOS OMISSOS.........................................................................................................................................110
-12 REFERÊNCIAS.............................................................................................................................................110
-13 ANEXOS.........................................................................................................................................................110
-
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+DADOS DE IDENTIFICAÇÃO
 DADOS DE IDENTIFICAÇÃO
 1.1 Renovação e órgão de registro profissional:
 1.2 Denominação do curso: Curso Técnico em Eletrônica Integrado ao Ensino Médio
@@ -139,7 +38,8 @@ Grande do Sul – CREA-RS.
 1. 16 Coordenador do Curso: João Roberto Gabbardo - joao.gabbardo@restinga.ifrs.edu.br
 – (51) 3247-8406.
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+1 APRESENTAÇÃO
 1 APRESENTAÇÃO
 O presente documento trata do Projeto Pedagógico do Curso Técnico em Eletrônica
 Integrado ao Ensino Médio do Instituto Federal de Educação, Ciência e Tecnologia - Campus
@@ -171,251 +71,8 @@ tema, surge o consenso de que há necessidade de estabelecer uma adequação mai
 entre as exigências qualitativas dos setores produtivos e da sociedade em geral e os resultados
 da ação educativa desenvolvida nas instituições de ensino.
 
-Campus Restinga
-O Campus Restinga do IFRS, como instituição que tem por finalidade formar e
-qualificar profissionais no âmbito da educação tecnológica, nos diferentes níveis e
-modalidades de ensino, para os diversos setores da economia, definiu sua função social
-expressa no Projeto Pedagógico Institucional do IFRS, em consonância com as necessidades
-identificadas a partir da compreensão deste cenário mundial. Dessa forma, o Campus Restinga
-entende necessária uma ação efetiva que possibilite a definição de projetos que permitam o
-desenvolvimento de um processo de inserção do homem na sociedade, de forma participativa,
-ética e crítica.
-São princípios norteadores da Educação Profissional oferecidos pelo IFRS:
-
-valorização entre a educação escolar, o trabalho e as práticas sociais;
-
-articulação com o ensino médio;
-
-respeito aos valores estéticos, políticos e éticos;
-
-desenvolvimento de competências para a laborabilidade;
-
-flexibilidade, interdisciplinaridade e contextualização.
-Seguindo estes princípios e atento ao papel de uma instituição de ensino
-comprometida com o desenvolvimento humano integral, o IFRS entende que o Curso Técnico
-em Eletrônica Integrado ao Ensino Médio do Campus Restinga vem a atender às demandas
-reprimidas nesta região por profissionais técnica e eticamente qualificados, conforme
-demanda apresentada em audiências públicas de discussão junto à sociedade.
-A ideia do projeto é o envolvimento dos profissionais e a articulação das áreas de
-conhecimento e profissionais na definição de um perfil de egresso e de competências básicas,
-saberes e princípios, além do caráter formativo de nível médio. A integração é baseada na
-relação entre conhecimentos gerais e específicos construídos continuamente ao longo da
-formação, sob os eixos trabalho, ciência e cultura, sendo a educação ambiental um dos eixos
-integradores, conforme a Lei no 9795/99, além da vinculação com o mundo do trabalho e a
-prática social.
-2 HISTÓRICO
-A busca da comunidade pela “Escola Técnica Federal de Porto Alegre na Restinga”
-iniciou em 08 de maio de 2006 com a criação da Comissão Pró-implantação dessa unidade de
-
-Campus Restinga
-ensino. Esse grupo foi composto por movimentos sociais como militantes da educação, da
-economia solidária e das Organizações Não Governamentais (ONG’s).
-A mobilização da comunidade pela construção da escola coincidiu com um contexto
-nacional de grande valorização da formação profissional e, também, com investimentos
-expressivos do Governo Federal. Desde 2005, a Rede Federal de Educação Profissional e
-Tecnológica, vinculada ao Ministério da Educação, passa por uma profunda transformação
-que abrange não só a reestruturação física com investimentos em obras, laboratórios,
-equipamentos e reformas, mas também a ampliação e criação de novas vagas para servidores
-técnicos administrativos e docentes.
-O Campus Restinga foi contemplado pela chamada Pública 01/2007 SETEC-MEC,
-que inaugurou o Plano de Expansão da Rede Federal Fase II e que implantaria 150 novas
-unidades em todo o país até o final de 2010. Essa conquista constituiu uma grande vitória para
-o município e para a Restinga, garantindo o fortalecimento de políticas públicas para a
-educação e para a inclusão social.
-Em abril de 2008, o então CEFET-BG assumiu a coordenação da implantação do que
-seria mais uma de suas Unidades de Ensino Descentralizadas. A valorização do diálogo com a
-comunidade foi fundamental para o início das atividades de implantação. Parte dessa
-conversação resultou na realização do Seminário e posteriormente da Audiência Pública para
-a definição de cursos a serem oferecidos pela instituição.
-A partir da lei Nº 11.892/08 que criou os Institutos Federais de Educação, Ciência e
-Tecnologia, a unidade da Restinga tornou-se um dos campi do Instituto Federal do Rio
-Grande do Sul (IFRS).
-Então em 2009 foram realizados seminários e audiências públicas com o intuito de
-definir as áreas de atuação do campus Restinga. Em função da análise do contexto da região,
-foram identificados os arranjos produtivos locais e resultado apontou para o desenvolvimento
-de 05 (cinco) eixos tecnológicos:
-
-Controle e Processos Industriais;
-
-Informação e Comunicação;
-
-Hospitalidade e Lazer;
-
-Gestão e Negócios;
-
-Edificações.
-
-Campus Restinga
-A partir daí segue-se a cronologia de implantação do campus Restinga:
-Em 26 de junho de 2010O campus Restinga iniciou oficialmente as suas atividades,
-porém de maneira provisória em uma sede alugada que se localizava na Estrada João da
-Silveira Remião, uma vez que os prédios definitivos do campus, os quais se se localizam no
-Distrito Industrial da Restinga estavam sendo construídos.
-No segundo semestre de 2010 forma iniciados os primeiros cursos do campus, os
-quais foram o curso técnico subsequente ao ensino médio em Administração, em Informática
-para Internet e Guia de Turismo com uma oferta total de 220 vagas nos turnos da manhã,
-tarde e noite.
-Em 2011 se iniciaram os cursos integrado ao ensino médio, que foram o Curso de
-Eletrônica Integrado ao Ensino Médio e Curso de Informática para Internet Integrado ao
-Ensino Médio. Também implantou-se o projeto piloto do PRONATEC, com o curso de
-Manutenção e Suporte em Informática em modalidade concomitante ao ensino médio.
-Em 2012 abriu-se o primeiro curso superior que foi o Tecnólogo em Análise e
-desenvolvimento de Sistemas. Também foi aberto mais um curso na modalidade subsequente
-que foi o curso de Manutenção e Suporte em Informática e o oferecimento do curso Técnico
-em Recursos Humanos, na modalidade Proeja.
-Também em 2012 ocorreu conclusão do primeiro dos cinco prédios da sede definitiva,
-localizada na rua Alerto Hoffmann, 285. Essa mudança foi extremamente positiva para o
-desenvolvimento das atividades, uma vez que houve uma duplicação no número de salas de
-aula, mais laboratórios para os cursos de eletrônica e informática, sala de desenho técnico e
-biblioteca.
-Abaixo sege a lista dos cursos oferecidos atualmente no campus, classificados de
-acordo com os seus níveis de conhecimento e ano a partir dos quais foram ofertados:
-1. Cursos Superiores:
-a) Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas,
-iniciado em 2012;
-b) Curso Superior de Tecnologia em Eletrônica Industrial, iniciado em 2014;
-c) Curso Superior de Tecnologia em Gestão Desportiva e de Lazer, iniciado em 2013;
-d) Curso Superior de Licenciatura em Letras, iniciado em 2017.
-2. Cursos Técnicos:
-a) Técnico em Eletrônica Integrado ao Ensino Médio, iniciado em 2011;
-
-Campus Restinga
-b) Técnico em Informática Integrado ao Ensino Médio, iniciado em 2011 como
-Informática para Internet e readequado para Técnico em Informática Integrado em
-Ensino Médio, a partir de 2017;
-c) Técnico em Lazer Integrado ao Ensino Médio, iniciado em 2015;
-d) Técnico em Recursos Humanos, modalidade PROEJA, iniciado em 2013;
-e) Técnico em Redes de Computadores, modalidade Concomitante, iniciado em
-2012;
-f) Técnico em Administração, modalidade subsequente, iniciado em 2011;
-g) Técnico em Guia de Turismo, modalidade subsequente, iniciado em 2011.
-Conforme especificado anteriormente, o campus Restinga faz parte da rede de
-Institutos Federais de Educação, Ciência e Tecnologia do Rio grande do Sul, composta por 17
-campi os quais são:
-
-IFRS Câmpus Alvorada
-
-IFRS Câmpus Bento Gonçalves
-
-IFRS Câmpus Canoas
-
-IFRS Câmpus Caxias do Sul
-
-IFRS Câmpus Erechim
-
-IFRS Câmpus Farroupilha
-
-IFRS Câmpus Feliz
-
-IFRS Câmpus Ibirubá
-
-IFRS Câmpus Osório
-
-IFRS Câmpus Porto Alegre
-
-IFRS Câmpus Restinga
-
-IFRS Câmpus Rio Grande
-
-IFRS Câmpus Rolante
-
-IFRS Câmpus Sertão
-
-IFRS Câmpus Vacaria
-
-IFRS Câmpus Veranópolis
-
-IFRS Câmpus Viamão
-
-Campus Restinga
-3 CARACTERIZAÇÃO DO CAMPUS
-O Campus Restinga do Instituto Federal de Educação, Ciência e Tecnologia do Rio
-Grande do Sul está localizado no extremo sul do município de Porto Alegre, no Bairro que
-leva o mesmo nome da instituição.
-Mapa 1: Localização do Bairro Restinga.
-Fonte: Nola Patrícia Gamalho
-Historicamente, o bairro Restinga convive e apresenta o grave problema da
-vulnerabilidade social devido a um longo período de abandono e omissão do poder público. A
-origem do bairro Restinga remonta ao final da década de 1960 com o movimento de
-desenvolvimento urbano adotado no país e implantado no município de Porto Alegre que
-promoveu a relocação das populações localizadas em áreas de maior valorização da cidade,
-onde residiam em condições de subhabitações e favelas, para uma região distante do centro da
-cidade.
-Esta tarefa foi levada a cabo com a criação do DEMHAB – Departamento Municipal
-de Habitação em 1965 e a efetiva remoção do contingente populacional começo a partir de
-1966 para a vila Restinga Velha, uma área alagadiça cercada pela vegetação original e sem
-infraestrutura, com esgotos a céu aberto, falta de iluminação, escolas, transporte público e
-
-Campus Restinga
-postos dessaúde além de as moradias serem precárias, houve uma reprodução das condições
-anteriores da população nesta nova localidade. De forma simultânea a estes acontecimentos,
-em 1969 foi elaborado um grande projeto habitacional denominado de Nova Restinga, que se
-iniciou em 1970 e teve a sua primeira etapa concluída em 1971 sendo o maior projeto
-habitacional do país.
-Além das casas, houve o projeto de implantação do Distrito Industrial com a finalidade
-de receber indústrias e consequente aproveitamento da mão de obra abundante. Porém o
-projeto nunca foi totalmente finalizado: garantiu-se parcialmente a moradia à população, mas
-as indústrias não se instalaram ali.
-Estas condições precárias levaram a população local a formar organizações sociais
-partidárias e apartidárias. Estas mobilizações que perduram até hoje foram responsáveis por
-ações positivas e desenvolvimento de infraestruturas para a melhoria das condições sociais e
-econômicas.
-De acordo com o Censo do IBGE (2010), a Restinga é um dos bairros mais populosos
-de Porto Alegre com, aproximadamente, 63 mil habitantes, o que representa 3,95% da
-população do município. Com área de 38,56 km², representa 8,10% da área do município, e
-sua densidade demográfica é de 1394,29 hab./km². A taxa de analfabetismo é de 6%, e o
-rendimento médio dos responsáveis por domicílio é de 3,6 salários mínimos.
-Do exposto, compreende-se a luta da comunidade iniciada em 08 de maio de 2006
-para a obtenção da “Escola Técnica Federal de Porto Alegre” com a criação e organização da
-Comissão Pró-implantação da unidade de ensino. Essa comissão foi composta por diversos
-movimentos sociais como militantes das áreas de educação, economia solidária e
-Organizações Não Governamentais (ONGs).
-À época da mobilização havia ressurgido a valorização da educação profissional, onde
-estava havendo investimento de grande monta na educação e formação profissional pelo
-Governo Federal. A partir de 2005 foram iniciados investimentos substanciais na Rede
-Federal de Educação Profissional que redundou na reestruturação física dos estabelecimentos
-de ensino, havendo o investimento em obras, reformas, readequação e criação de laboratórios,
-aquisição de equipamentos juntamente com a ampliação do corpo de servidores tanto
-docentes quanto técnicos administrativos.
-A reestruturação da Rede Federal de Educação Tecnológica ocorreu no centenário de
-sua fundação com a promulgação da Lei 11892/08 com a criação de 38 Institutos Federais de
-Educação, Ciência e Tecnologia efetivando a sua presença em todos os estados. Esta expansão
-
-Campus Restinga
-possibilitou a oferta de cursos técnicos integrados ao ensino médio, cursos superiores de
-tecnologia, bacharelado em engenharias bem como cursos de licenciatura.
-Com o objetivo de fortalecer sua inserção no ensino, pesquisa e extensão, estimular o
-desenvolvimento de soluções técnicas e tecnológicas e estender seus benefícios à
-comunidade, os Institutos Federais devem oferecer metade das vagas ofertadas para os cursos
-técnicos de nível médio.
-A educação profissional técnica de nível médio será desenvolvida preferencialmente
-na forma integrada, além do Proeja (Programa Nacional de Integração da Educação
-Profissional com Educação Básica na modalidade da Educação de Jovens e Adultos). Como
-prevê a legislação dos institutos, em médio prazo serão ofertados também cursos de nível
-superior, como Licenciaturas (20%) e Cursos Superiores de Tecnologia, além de cursos de
-Pós-Graduação.Os Cursos de Formação Inicial e Continuada (FIC) também deverão ser
-ofertados no Campus Restinga.
-Para tanto, a sede do CampusRestinga tem mais de 6800 m² de área construída,
-composta por 5 (cinco) blocos, sendo quatro deles pertinentes às salas de aula, laboratórios,
-biblioteca, refeitório e o quinto é destinado aos setores administrativos do campus. Além dos
-blocos citados anteriormente, há um prédio para o almoxarifado e quadra poliesportiva e
-cancha de areia. Com esta estrutura a instituição intenciona ampliar a oferta dos cursos e
-vagas, com previsão de atender a, aproximadamente, 1.200 estudantes nos próximos anos, nas
-modalidades Ensino Médio Integrado, Ensino Médio Subsequente, PROEJA, Ensino Superior
-e Pós-Graduação.
-O Campus possui, como proposta de trabalho, o desenvolvimento de projetos de
-inclusão social, muitos deles através de parcerias com outras instituições sem fins lucrativos
-(escolas, ONGs, associações comunitárias, etc.) priorizando o ensino público e gratuito.
-Em relação ao Curso Técnico de Eletrônica Integrado ao Ensino Médio, ele inclui-se
-no eixo de atuação Processos e Controles Industriais do Campus tendo sido proposto para a
-comunidade em audiência pública, a qual aprovou a sua criação tendo em vista que a
-eletrônica está profundamente inserida no cotidiano desde brinquedos, eletrodomésticos,
-automóveis, equipamentos industriais e assim por diante, com premissa da formação de
-técnicos capacitados a efetuar manutenção, projeto e elaboração de circuitos e equipamentos
-eletrônicos e estando capacitados também a trabalhar em indústrias que envolvam aplicações
-de eletrônica.
-
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+4 JUSTIFICATIVA
 4 JUSTIFICATIVA
 Os cursos oferecidos pelo Campus Restinga se inserem dentro de uma nova realidade
 da educação profissional. Propõem uma formação que integra educação e trabalho, rompendo
@@ -449,8 +106,6 @@ Assim os técnicos em eletrônica tem a missão de atuar neste novo contexto em 
 praticamente tudo depende da eletrônica criando soluções inovadoras para solucionar
 problemas cada vez mais complexos. Esta competência está presente em todos os setores da
 economia, do setor primário ao terciário passando obviamente pela indústria. Sua aplicação
-
-Campus Restinga
 transcende ao convencional e atinge funções importantíssimas da sociedade moderna como a
 diminuição do consumo de energia através da aplicação de sistemas mais eficientes ou pela
 reinjeção de energia renovável, como a solar, de uma residência na rede.
@@ -458,6 +113,8 @@ A atuação do técnico em eletrônica garante o funcionamento e aplicação dos
 diversos sistemas que auxiliam a vida moderna tornando-a mais simples e fácil para um
 usuário da tecnologia, seja ele uma simples pessoa ou uma grande indústria. Nesse sentido, o
 Curso oferece uma formação profissional ampla, que possibilita atender a demanda
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 significativa de profissionais valorizando assim a geração de trabalho e renda de forma a
 responder às necessidades sociais e culturais da região de atuação do Campus.
 A área profissional da eletrônica, objeto deste Plano de Curso, apresenta sempre
@@ -484,8 +141,6 @@ metropolitana de Porto Alegre na forma da atuação de dezenas de empresas de
 eletroeletrônica. Apenas o município de Porto Alegre possui mais de quarenta empresas
 grandes e médias atuando diretamente no setor. Incluindo os municípios restantes à região
 metropolitana (Canoas, Cachoeirinha, Gravataí, São Leopoldo, Sapucaia do Sul, Esteio). Há
-
-Campus Restinga
 também o Arranjo Produtivo Local Eletroeletrônico de Automação e Controle - APL
 localizado no eixo Porto Alegre - Caxias do Sul, o qual surgiu de uma iniciativa da ABINEE
 em parceria com entidades como IEL, SEBRAE e CaixaRS (atual Badesul) e reúne 73
@@ -501,6 +156,8 @@ ficaram 9% abaixo do total exportado no ano anterior. Fonte: Jornal do Comércio
 http://jcrs.uol.com.br/mob/noticia.php?codn=192976 em 06/1015.
 Assim, visando responder às demandas por profissionais que atendam à necessidade
 desta realidade emergente no Estado e no mundo e, contribuindo, substancialmente para a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 qualidade dos serviços oferecidos nesta área em nossa região, o Campus Restinga do IFRS
 oferece o Curso Técnico em Eletrônica Integrado ao Ensino Médio por entender que está
 contribuindo para a elevação da qualidade dos serviços prestados à população nesta área da
@@ -519,7 +176,8 @@ trabalho, mas a aprendizagem integral dos valores da responsabilidade, a criativ
 a empatia. Diante disso, a rápida evolução que passam as profissões pede que o ser humano
 esteja apto a enfrentar novas situações de emprego e de trabalho em equipe. É necessário
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+5 PROPOSTA POLÍTICO-PEDAGÓGICA DO CURSO
 exercitar a cidadania plena, a capacidade de aprender a usar o poder da visão crítica, ser autor
 da própria história e acreditar no poder transformador da educação.
 5 PROPOSTA POLÍTICO-PEDAGÓGICA DO CURSO
@@ -530,20 +188,20 @@ para desempenhar suas atividades profissionais, com elevado grau de responsabili
 na área de Eletrônica.
 5.2 Objetivos específicos
 Os objetivos específicos do curso compreendem:
-●
+G
 Propiciar a aquisição de conhecimentos de base científica, técnica e humanista,
 direcionados para a área de Eletrônica;
-●
+G
 Executar atividades atendendo às normas de segurança, proteção ao meio
 ambiente, saúde, sistemas de gestão e responsabilidade, agindo de acordo com
 preceitos éticos profissionais da área de Eletrônica;
-●
+G
 Formar um profissional atualizado e capaz de se manter em constante
 atualização na área Eletrônica;
-●
+G
 Habilitar o profissional em Eletrônica para que possa adquirir, organizar e
 transmitir informações relevantes à sua atividade.
-●
+G
 Formar um profissional ciente de suas obrigações com a sociedade, que preze
 as inter-relações pessoais, valorizando as práticas sociais e humanas bem como
 possuidor de senso ético e que dignifique a profissão.
@@ -551,8 +209,6 @@ possuidor de senso ético e que dignifique a profissão.
 O Curso Técnico em Eletrônica Integrado ao Ensino Médio oferece uma formação
 profissional ampla, que possibilita atender a demanda significativa de profissionais na região
 metropolitana de Porto Alegre, valorizando assim, a geração de trabalho e renda, de forma a
-
-Campus Restinga
 responder às necessidades sociais e culturais da área de abrangência do Campus Restinga. O
 Curso busca formar profissionais preparados técnica e eticamente para atender as demandas
 da sociedade, estimulando o empreendedorismo e o cooperativismo, para a comercialização
@@ -561,6 +217,8 @@ formativo do curso, previsto na representação gráfica do perfil de formação
 dinâmica de aumento de complexidade dos componentes curriculares ao longo do processo,
 considerando que o acúmulo de conhecimentos se dará de forma contínua e crescente,
 integrando formação geral e formação técnica.
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 5.4 Perfil do egresso
 O profissional egresso do Curso Técnico em Eletrônica Integrado ao Ensino Médio do
 IFRS - Campus Restinga deve ser capaz de processar as informações, acompanhando e
@@ -570,489 +228,66 @@ atribuições. Deve ser um agente impulsionador do desenvolvimento sustentável 
 integrando a formação técnica à humana na perspectiva de uma formação continuada.
 Dessa forma, ao concluir sua formação, o profissional técnico de nível médio em
 Eletrônica deverá demonstrar um perfil que lhe possibilite:
-●
+G
 Conhecer as formas contemporâneas de linguagem, com vistas ao exercício da
 cidadania e à preparação básica para o trabalho, incluindo a formação ética e o
 desenvolvimento da autonomia intelectual e do pensamento crítico;
-●
+G
 Compreender a sociedade, sua gênese e transformação e os múltiplos fatores que nela
 intervêm, como produtos da ação humana e do seu papel como agente social;
-●
+G
 Compreender e aplicar os conhecimentos científico-tecnológicos para explicar o
 funcionamento do mundo e dos processos produtivos, planejando, executando e
 avaliando ações de intervenções na realidade;
-●
+G
 Conhecer e aplicar as normas de desenvolvimento sustentável, respeitando o meio
 ambiente;
-●
+G
 Saber trabalhar em equipe, ter atitude ética no trabalho e no convívio social;
-●
+G
 Ter iniciativa, criatividade e responsabilidade, exercer liderança;
-●
+G
 Conduzir equipes de instalação, montagem, reparo e manutenção de equipamentos
 eletrônicos e/ou instalações que os utilizem;
-
-Campus Restinga
-●
+G
 Prestar serviços técnicos para empresas de diversos setores da atividade produtiva
 incluindo indústrias automobilísticas, de equipamentos eletrônicos, de
 telecomunicações, de material eletroeletrônico, de equipamentos biomédicos, de
 produtos de computação, prestadoras de serviços de telecomunicações, de
 radiodifusão, de automação, de conserto e manutenção de equipamentos eletrônicos;
-●
+G
 Aplicar normas técnicas relacionadas aos processos de trabalho;
-●
+G
 Treinar equipes para a execução de serviços técnicos em eletrônica;
-●
+G
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Desenvolver produção técnica e especializada na área de eletrônica;
-●
+G
 Fiscalizar a execução de serviços e atividades da sua competência;
-●
+G
 Executar trabalhos de mensuração e controle de qualidade na área eletrônica;
-●
+G
 Prestar assistência técnica em seu nível de habilitação na compra e venda de materiais
 e equipamentos elétricos, eletrônicos, computacionais e de telecomunicações;
-●
+G
 Desempenhar cargo ou função técnica circunscritos ao âmbito de sua habilitação em
 eletrônica.
-5.5 Diretrizes e atos oficiais
-O Curso Técnico Integrado de Nível Médio em Eletrônica é regido pelos seguintes
-documentos e atos oficiais:
-5.5.1Leis e Decretos
-- Lei nº 9.394, de 20 de dezembro de 1996 –Alterada pela Lei 13.415 de 16 de fevereiro de
-2017. Dispõe sobre as Diretrizes e Bases da Educação. Disponível em:
-http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13415.htm
-- Lei nº 8.069, de 13 de julho de 1990 - Dispõe sobre o Estatuto da Criança e do Adolescente
-(ECA). Disponível em: http://www.planalto.gov.br/ccivil_03/LEIS/L8069.htm
-- Lei nº 11.788, de 25 de setembro de 2008 - Dispõe sobre o estágio de estudantes; altera a
-redação do art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto- Lei
-no 5.452, de 1o de maio de 1943, e a Lei no 9.394, de 20 de dezembro de 1996.Disponível
-em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm
-- Lei nº 12.287, de 13 julho de 2010 - Altera a Lei no 9.394, de 20 de dezembro de 1996, que
-estabelece as diretrizes e bases da educação nacional, no tocante ao ensino da arte.Disponível
-em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12287.htm
-- Lei nº 11.161, de 5 de agosto de 2005 - Dispõe sobre o ensino da língua
-espanhola.Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11161.htm
-- Lei nº 11.684, de 2 de julho de 2008 - Altera o art. 36 da Lei no 9.394, de 20 de dezembro
-de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir a Filosofia e a
 
-Campus Restinga
-Sociologia como disciplinas obrigatórias nos currículos do ensino médio.Disponível em:
-http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11684.htm
-- Lei 9.934, de 20 de dezembro de 1996 – Alterada pela Lei 11.645, de 10 de março de 2008,
-que estabelece as diretrizes e bases da educação nacional para incluir no currículo oficial da
-rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.
-Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm
-- Lei 6.202, de 17 de abril de 1975 - Atribui à estudante em estado de gestação o regime de
-exercícios domiciliares instituído pelo Decreto-lei nº 1.044, de 1969, e dá outras
-providências.Disponível em: http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6202.htm
-- Decreto-Lei 1.044, de 21 de outubro de 1969 - Dispõe sobre tratamento excepcional para os
-alunos portadores das afecções que indica.Disponível em:
-http://www.planalto.gov.br/ccivil_03/decreto-lei/Del1044.htm
-- Catálogo Nacional de Cursos Técnicos. Disponível em: http://portal.mec.gov.br/index.php?
-option=com_docman&view=download&alias=11394-catalogo-nacional-versao2012-
-pdf&category_slug=agosto-2012-pdf&Itemid=30192
-5.5.2Resoluções do Conselho Nacional de Educação – CNE e CONFEA/CREA
-●
-RESOLUÇÃO Nº 4, DE 13 DE JULHO DE 2010 - Diretrizes Curriculares Nacionais
-Gerais da Educação Básica.
-●
-RESOLUÇÃO Nº 2, DE 30 DE JANEIRO 2012 - Diretrizes Curriculares Nacionais
-para o Ensino Médio.
-●
-Resolução CNE/CEB nº 6, de 20 de setembro de 2012 - Define Diretrizes Curriculares
-Nacionais para a Educação Profissional Técnica de Nível Médio.
-●
-Resolução CNE/CP nº 1, de 30 de maio de 2012 - Estabelece Diretrizes Nacionais
-para a Educação em Direitos Humanos.
-●
-Resolução CNE/CP nº 2, de 15 de junho de 2012 - Estabelece as Diretrizes
-Curriculares Nacionais para a Educação Ambiental.
-●
-Resolução número 262 de julho de 1979, do CONFEA - Dispõe sobre as atribuições
-dos Técnicos de 2º grau, nas áreas da Engenharia, Arquitetura e Agronomia.
-5.5.4Normas Internas do Instituto Federal de Educação, Ciência de Tecnologia do
-Rio Grande do Sul
-
-Projeto Pedagógico Institucional
-Disponível em:
-http://www.ifrs.edu.br/site/midias/arquivos/201226102555931ppi_versao_final.pdf
-
-Organização Didática
-
-Campus Restinga
-Disponível em:
-http://www.ifrs.edu.br/site/midias/arquivos/20154149565553od_versao_final_2.pdf
-
-Instrução Normativa PROEN 002/2016 – Regulamenta os procedimentos, os
-prazos e os fluxos para a elaboração e reformulação dos Projetos Pedagógicos dos
-Cursos (PPC) dos cursos de Nível Médio Integrado, Integrados na Modalidade de
-Educação de Jovens e Adultos, Concomitantes, Subsequente e Graduação e nas
-modalidades de ensino presencial e a distância no IFRS, bem como da sua
-extinção.
-Disponível
-em:http://www.ifrs.edu.br/site/midias/arquivos/201661102035362in_fluxo_ppcs_pos_coen_revisad
-a_alteracao.pdf
-
-Instrução Normativa 4/2014 Campus Restinga - Regulamenta as normas ara a
-realização dos estágios dos estudantes matriculados nos cursos do Instituto Federal
-de Educação, Ciência e Tecnologia do Rio Grande do Sul Campus Restinga, em
-conformidade com a Lei nº 11.788 de 25 de setembro de 2008, com os projetos
-pedagógicos de cada curso e com a legislação vigente.
-Disponível em:
-http://www.restinga.ifrs.edu.br/site/midias/arquivos/2014817141913267instrucao_normativa_04_2
-014_regulamento_estagios.pdf
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+5.6 REQUISITOS DE INGRESSO E FORMAS DE ACESSO
 5.6 Requisitos de ingresso e formas de acesso
 Poderão ingressar no curso estudantes que tenham concluído o ensino fundamental ou
 equivalente, independentemente de formação específica.
 O ingresso no Curso Técnico em Eletrônica Integrado ao Ensino Médio segue as
 normativas previstas no IFRS, tanto pelo Processo Seletivo quanto por transferência, nos
 casos previstos, em acordo com a Política de Ingresso Discente.
-5.7 Princípios filosóficos e pedagógicos do curso
-Conforme o Projeto Pedagógico do IFFRS, a educação é um processo contínuo,
-cumulativo e gradativo, onde todos têm acesso a cultura acumulada pela humanidade, ou seja,
-nos educamos durante toda a vida e nas diferentes situações, além disso vamos construindo
-novos conceitos os quais vão sendo agregados aos já assimilados de acordo com o ritmo de
 
-Campus Restinga
-cada ser humano. Desse modo, a educação é a ação exercida inicialmente pelas gerações
-adultas sobre as novas, no entanto, quando as gerações mais novas se tornam preparadas para
-a vida social, passam a contribuir para elaboração dos saberes populares, científicos e
-tecnológicos.
-Sendo assim, os processos educativos ocorrem de maneira intencional, com
-programações previamente estabelecidas, e não intencional, quando o ser humano adquire a
-educação pela convivência social. A escola é uma instituição especializada na educação das
-gerações mais novas tendo a finalidade de levar os educandos a conhecerem o patrimônio
-acumulado da humanidade e além disso auxiliar o educando na busca do aprender a aprender,
-despertando vocações, vislumbrando as potencialidades e competências individuais. Neste
-contexto o currículo é compreendido como um projeto, porque não se trata de algo pronto.
-Acredita-se que o currículo, enquanto meio de organizar o conhecimento, deve ser construído
-coletivamente, levando em consideração os elementos da realidade local e dos sujeitos
-envolvidos, influenciado pelas relações dinâmicas dentro do contexto escolar e carregado de
-intencionalidade político-pedagógica. (IFRS/PPI, 2011, p.26)
-O novo papel da educação é abordado no documento “A Declaração Mundial sobre a
-Educação para Todos” (UNICEF, 1991), enfatizando as quatro aprendizagens essenciais:
-aprender a conhecer (aprender a aprender, buscar através da reflexão e da ação as
-informações), aprender a fazer (aprender as habilidades necessárias sobre o mundo do
-trabalho), aprender a viver junto (escola como espaço solidário e de respeito ao outro) e
-aprender a ser (envolve o autoconhecimento).
-A educação deve gerar novas atitudes, o que supõe também novas relações que se
-sobreponham às questões de gênero, etnia, classe social, entre outras. Para isso, as práticas
-pedagógicas devem estar vinculadas também a um processo reflexivo constante por parte do
-professor, bem como a uma perspectiva que considere a aprendizagem como um processo
-dinâmico, resultado das múltiplas relações que se estabelecem entre aquele que aprende (e
-também ensina) e aquele que ensina ou pretende ensinar (e que igualmente aprende).
-Para isso, o ser humano tem direito de acesso e permanência na escola, garantido por
-lei (LDB\ Lei 9.394, de 1996). Diante disso, a preparação para o trabalho e para o exercício da
-cidadania acontece através do contato e compreensão da cultura viva nas ciências e nas artes
-da realidade em que vivem. Portanto, queremos formar um homem capaz de atuar de maneira
-crítica, consciente, reflexiva e transformadora na sociedade, construindo a sua cidadania.
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+5.7.1 DIRETRIZES DO ENSINO INTEGRADO
 
-Campus Restinga
-Acreditamos que construindo um ser humano autônomo certamente construiremos
-uma sociedade justa, igualitária e feliz, onde todos possam viver com dignidade, satisfazendo
-as suas necessidades materiais e espirituais. Um dos caminhos para a construção de um novo
-modelo de sociedade passa pela participação política, não só pelo voto, mas principalmente
-pela fiscalização e exigência de que os recursos sejam aplicados na melhoria das condições de
-vida da população.
-Uma das finalidades das instituições escolares é oportunizar aos estudantes um espaço
-para aquisição de conhecimentos da base nacional comum, da parte diversificada e de saberes
-relativos a área profissionalizante, bem como da consciência profissional, percebendo que
-através do seu preparo para o exercício da cidadania e da qualificação para o trabalho poderá
-transformar o mundo e construir uma sociedade melhor.
-A Lei 9.394/96, que estabelece as Diretrizes e Bases da Educação nacional, em seu
-artigo 2º afirma: "A educação..., inspirada nos princípios de liberdade e nos ideais de
-solidariedade humana, tem por finalidade o pleno desenvolvimento do educando, seu preparo
-para o exercício da cidadania e sua qualificação para o trabalho". Também em outros
-documentos educacionais, como as Diretrizes e os Parâmetros Curriculares Nacionais, essa
-meta da ação educativa recebe um tratamento privilegiado.
-A ampliação da Rede Federal com a expansão da educação profissional e tecnológica
-contribui para o melhoramento da educação brasileira e também no atendimento da demanda
-do país em relação a mão de obra qualificada. Com essa nova realidade, surgem rupturas e
-muitos desafios na educação profissional para os docentes, gestores e a sociedade em geral
-buscando a inserção de todos neste processo de mudanças.
-A atuação deve se dar em todos os níveis e modalidades da educação profissional, com
-estreito compromisso com o desenvolvimento integral do cidadão trabalhador, princípios
-formuladores do Plano de Desenvolvimento da Educação (PDE). A partir da consolidação
-dessas políticas, um novo arranjo educacional se firmará e abrirá novas perspectivas para o
-ensino profissional e tecnológico de modo que a sociedade brasileira possa entender e
-participar da construção de um caminho sólido em busca de um Brasil mais justo, igualitário e
-desenvolvido.
-O sucesso da tarefa de iniciação dos jovens no mundo público dos valores e dos
-princípios éticos depende de um esforço conjunto de toda instituição, no qual cada educador
-ou profissional da educação, além de sua função específica, representa um agente
-
-Campus Restinga
-comprometido com valores que se traduzem em responsabilidades e atitudes próprias ao
-mundo escolar.
-O desenvolvimento do trabalho pedagógico incentivará o estudante a buscar
-informações, selecioná-las e analisá-las criticamente para construir e reconstruir
-conhecimentos. Desse modo, a ação pedagógica deverá a estimular uma postura de pesquisa,
-curiosidade, reflexão, cooperação e solidariedade, estabelecendo relação com o meio em que
-está inserido, as quais auxiliam na formação humana e sua atuação no mundo. Como afirma
-Paulo Freire (1971): “Ninguém educa ninguém, ninguém se educa sozinho. Os homens se
-educam em comunhão, mediatizados pelo mundo”.
-Nos Parâmetros Curriculares Nacionais (PCNs), os conteúdos são apresentados em
-três grandes categorias: conteúdos conceituais, que envolvem a abordagem dos conceitos,
-fatos e princípios; conteúdos procedimentais referentes a procedimentos; conteúdos
-atitudinais, que envolvem a abordagem de valores normas e atitudes. Diante disso,
-verificamos que os saberes prévios dos educandos deverão ser considerados, conduzindo os
-mesmos para a assimilação dos conhecimentos científicos e posterior construção de saberes
-elaborados através da interdisciplinaridade e da contextualização dos conteúdos. O que o
-Projeto pedagógico do IFRS denomina “ressignificação de saberes” (IFRS/PPI, 2011, p.25)
-Os Parâmetros Curriculares Nacionais deixam claro a necessidade de trabalhar a
-interdisciplinaridade e a contextualização. O conhecimento mantém um diálogo permanente
-com outros conhecimentos, por isso, numa abordagem interdisciplinar é importante que o
-estudante aprenda a olhar o mesmo objeto sob perspectivas diferentes ou integradoras,
-tendendo ao desaparecimento das fronteiras entre as disciplinas, tanto no desenvolvimento de
-projetos de trabalho coletivos como na organização e condução de atividades diversificadas
-como feiras, mostras, palestras.
-Em conformidade com Freire (1996) destacamos a importância de discutir com o
-estudante o conteúdo que se ensina:
-Por isso mesmo pensar certo coloca ao professor ou, mais a mente, à escola, o
-dever de não só respeitar os saberes que os educandos, sobretudo os das classes
-populares, (...)mas também, (...) discutir com os estudantes a razão de ser de
-alguns desses saberes em relação com o ensino dos conteúdos. (p.30)
-Nesse processo de ensino-aprendizagem a educação problematizadora torna o
-educador um mediador onde o diálogo fortalece a relação e faz com que ambos cresçam
-
-Campus Restinga
-juntos. Além disso, avaliação da aprendizagem é parte integrante do processo tendo os
-aspectos qualitativo sobre os quantitativos.
-Todo o ser humano precisa organizar a sua vida pensando suas ações futuras, ou seja,
-isso é o planejamento que faz parte de nossas vidas. Para Vasconcellos (1999) planejamento é
-o ato de pensar sobre as práticas,organizar as ideias e decidir o que será realizado, sendo
-flexível, contínuo e possibilita a transformação da prática, tendo como parte integrante a
-reflexão. A função do planejamento é exatamente dar consistência e forma às ideias,
-princípios, objetivos e metas, além de orientar a efetiva realização destes, construindo
-caminhos e alternativas de ação educacional relacionados com o mundo.
-Além disso, deve existir a reflexão sobre as práticas pedagógicas em reuniões
-específicas as quais possibilitam a formação continuada em serviço, qualificação das ações,
-além de troca de ideias, experiências e conhecimentos sendo um espaço permanente de estudo
-e debate.
-O presente Projeto Pedagógico de Curso propõe-se a assegurar a integração entre as
-ações desenvolvidas pelo Campus Restinga, em todos os aspectos que permeiam o processo
-de ensino-aprendizagem e inserção do estudante no mundo do trabalho.
-Ensinar não se reduz a transmitir informações e, consequentemente, aprender não é
-apenas repetir estas mesmas informações. Há um compromisso com o desenvolvimento do
-estudante enquanto pessoa e com a valorização de sua individualidade, bem como do efetivo
-papel do professor enquanto mediador no processo.
-O Campus Restinga adota estes pressupostos metodológicos em seus Projetos
-Pedagógicos de Curso, com vistas a formar profissionais conscientes de sua cidadania,
-preocupados em transformar a realidade para se alcançar uma sociedade mais democrática,
-solidária e humanista.
-5.7.1Diretrizes do Ensino Integrado
-A Lei de Diretriz e Bases da Educação, a partir da aprovação da lei 11.741 de 2008,
-acrescentou que: “Art. 36-C. A educação profissional técnica de nível médio articulada,
-prevista no art. 36-B, inciso I, será desenvolvida de forma:
-I – Preferencialmente integrada, oferecida somente a quem já tenha concluído o ensino
-fundamental, sendo o curso planejado de modo a conduzir o estudante à habilitação
-profissional técnica de nível médio, na mesma instituição de ensino, efetuando-se matrícula
-única para cada estudante;”
-
-Campus Restinga
-Essa nova possibilidade visa romper com a tradicional separação entre o ensino
-técnico e o propedêutico. O decreto 5154 de 2004, que dispõe sobre as diretrizes e bases da
-educação profissional e o parecer CNE 39 de 2004 que trata da aplicação do decreto apontam
-no sentido de uma outra possibilidade de ensino integrado, diferente daquele estabelecido em
-1971, pelo decreto 5692.
-De acordo com o parecer CNE/CEB N.º 39 de 2004 (p. 8), “a adoção da forma
-integrada na instituição de ensino não significa que a mesma estará ofertando dois cursos à
-sua clientela”. O integrado trata-se de um único curso, com projeto pedagógico único, com
-proposta curricular única e com matrícula única.
-Em relação à carga horária do curso integrado, de acordo como previsto na Resolução
-CNE/CEB nº 06, de 20 de setembro de 2012 no Art. 27 explicita que “Os cursos de Educação
-Profissional Técnica de Nível Médio, na forma articulada com o Ensino Médio, integrada ou
-concomitante em instituições de ensino distintas com projeto unificado, tem as cargas horárias
-totais de, no mínimo, 3.000, 3.100 ou 3.200 horas, conforme o número de horas para as
-respectivas habilitações profissionais indicadas no Catálogo Nacional de Cursos Técnicos,
-seja de 800, 1.000 ou 1.200 horas”.
-É importante ressaltar que a certificação do ensino integrado nos termos do parágrafo
-único do Artigo 7º do Decreto nº. 5.154/2004, o estudante deverá concluir simultaneamente a
-habilitação técnica de nível médio. Como se trata de um curso único, realizado de forma
-integrada e interdependente, não será possível concluir o Ensino Médio de forma
-independente da conclusão do ensino técnico de nível médio. Neste sentido, não são dois
-cursos em um, com certificações independentes e sim, trata-se de um único curso, cumprindo
-duas finalidades complementares, de forma simultânea e integrada, nos termos do projeto
-pedagógico.
-A instituição deve oferecer essa forma de profissionalização a seus estudantes,
-garantindo que todos os componentes curriculares referentes às duas finalidades
-complementares sejam oferecidos, simultaneamente, desde o início até a conclusão do curso.
-Para a consolidação do ensino integrado são necessárias ações de afirmação de seu
-currículo. Neste sentido, fica inteiramente fora de cogitação a concessão do certificado de
-conclusão do Ensino Médio, para fins de continuidade de estudos, a quem completar um
-mínimo de 2.400 horas em três anos, em curso desenvolvido em período superior a três anos.
-Isto foi praxe adotada na vigência da antiga Lei nº 5.692/71, o que favoreceu a evasão de
-estudantes dos cursos técnicos.
-
-Campus Restinga
-É imprescindível, portanto, que os candidatos aos cursos integrados sejam informados
-e orientados sobre seu planejamento, inclusive quanto às condições de realização do curso e
-quanto à certificação a ser expedida e o tempo necessário à sua conclusão.
-5.7.2Educação para os direitos humanos
-O Parecer CNE/CEB nº 5/2011 que fundamenta essas diretrizes reconhece a educação
-como parte fundamental dos Direitos Humanos. Nesse sentido, chama a atenção para a
-necessidade de se implementar processos educacionais que promovam a cidadania, o
-conhecimento dos direitos fundamentais, o reconhecimento e a valorização da diversidade
-étnica e cultural, de identidade de gênero, de orientação sexual, religiosa, dentre outras,
-enquanto formas de combate ao preconceito e à discriminação.
-A Educação em Direitos Humanos (EDH), com finalidade de promover a educação
-para a mudança e a transformação social, fundamenta-se nos seguintes princípios:
-Dignidade humana: Relacionada a uma concepção de existência humana fundada em
-direitos. A ideia de dignidade humana assume diferentes conotações em contextos históricos,
-sociais, políticos e culturais diversos. É, portanto, um princípio em que se devem levar em
-consideração os diálogos interculturais na efetiva promoção de direitos que garantam às
-pessoas e grupos viverem de acordo com os seus pressupostos de dignidade.
-Igualdade de direitos: O respeito à dignidade humana, devendo existir em qualquer tempo e
-lugar, diz respeito à necessária condição de igualdade na orientação das relações entre os seres
-humanos. O princípio da igualdade de direitos está ligado, portanto, à ampliação de direitos
-civis, políticos, econômicos, sociais, culturais e ambientais a todos os cidadãos e cidadãs, com
-vistas a sua universalidade, sem distinção de cor, credo, nacionalidade, orientação sexual,
-biopsicossocial e local de moradia.
-Reconhecimento e valorização das diferenças e das diversidades: Esse princípio se refere
-ao enfrentamento dos preconceitos e das discriminações, garantindo que diferenças não sejam
-transformadas em desigualdades. O princípio jurídico-liberal de igualdade de direitos do
-indivíduo deve ser complementado, então, com os princípios dos direitos humanos da garantia
-da alteridade entre as pessoas, grupos e coletivos. Dessa forma, igualdade e diferença são
-valores indissociáveis que podem impulsionar a equidade social.
-
-Campus Restinga
-Laicidade do Estado: Esse princípio se constitui em pré-condição para a liberdade de crença
-garantida pela Declaração Universal dos Direitos Humanos, de 1948, e pela Constituição
-Federal Brasileira de 1988. Respeitando todas as crenças religiosas, assim como as não
-crenças, o Estado deve manter-se imparcial diante dos conflitos e disputas do campo religioso,
-desde que não atentem contra os direitos fundamentais da pessoa humana, fazendo valer a
-soberania popular em matéria de política e de cultura. O Estado, portanto, deve assegurar o
-respeito à diversidade cultural religiosa do País, sem praticar qualquer forma de proselitismo.
-Democracia na educação: Direitos Humanos e democracia alicerçam-se sobre a mesma base
-– liberdade, igualdade e solidariedade – expressando-se no reconhecimento e na promoção
-dos direitos civis, políticos, sociais, econômicos, culturais e ambientais. Não há democracia
-sem respeito aos Direitos Humanos, da mesma forma que a democracia é a garantia de tais
-direitos. Ambos são processos que se desenvolvem continuamente por meio da participação.
-No ambiente educacional, a democracia implica na participação de todos/as os/as
-envolvidos/as no processo educativo.
-Transversalidade, vivência e globalidade: Os Direitos Humanos se caracterizam pelo seu
-caráter transversal e, por isso, devem ser trabalhados a partir do diálogo interdisciplinar.
-Como se trata da construção de valores éticos, a Educação em Direitos Humanos é também
-fundamentalmente vivencial, sendo-lhe necessária a adoção de estratégias metodológicas que
-privilegiem a construção prática destes valores. Tendo uma perspectiva de globalidade, deve
-envolver toda a comunidade escolar: alunos/as, professores/as, funcionários/as, direção,
-pais/mães e comunidade local. Além disso, no mundo de circulações e comunicações globais,
-a EDH deve estimular e fortalecer os diálogos entre as perspectivas locais, regionais,
-nacionais e mundiais das experiências dos/as estudantes.
-Sustentabilidade socioambiental: A EDH deve estimular o respeito ao espaço público como
-bem coletivo e de utilização democrática de todos/as. Nesse sentido, colabora para o
-entendimento de que a convivência na esfera pública se constitui numa forma de educação
-para a cidadania, estendendo a dimensão política da educação ao cuidado com o meio
-ambiente local, regional e global. A EDH, então, deve estar comprometida com o incentivo e
-promoção de um desenvolvimento sustentável que preserve a diversidade da vida e das
-culturas, condição para a sobrevivência da humanidade de hoje e das futuras gerações. Ainda
-
-Campus Restinga
-que as instituições de educação básica e superior não sejam as únicas instâncias a educar os
-indivíduos em Direitos Humanos, elas têm como responsabilidade a promoção e legitimação
-dos seus princípios como norteadores dos laços sociais, éticos e políticos. Isso se faz mediante
-a formação de sujeitos de direitos, capazes de defender, promover e reivindicar novos direitos.
-5.7.3Educação em direitos sexuais e reprodutivos
-Educação sexual como uma diretriz curricular se constitui como um ente capaz de
-promover a constituição de sujeitos que façam suas escolhas de uma maneira emancipada, ou
-seja aquela amparada em conhecimentos dos aspectos biológicos, humanos, legais e dos
-arranjos do sistema de saúde para que os sujeitos criem seus próprios mecanismos para a
-vivência de sua sexualidade. A abordagem da educação sexual na perspectiva dos Direitos
-Sexuais vê a sexualidade como parte integral de todo ser humano e os Direitos Sexuais são
-Direitos Humanos fundamentais baseados na liberdade, dignidade e igualdade de todos. Estão
-contidos dentro dele: direito à liberdade sexual; à autonomia sexual, integridade sexual e a
-segurança do corpo sexual; privacidade sexual; justiça sexual; prazer sexual; a expressão
-sexual emocional; a livre parceria; fazer escolhas reprodutivas livres e responsáveis;
-conhecimento baseado em informação científica; educação sexual integral com atenção à
-saúde sexual. (SANTOS, A. C. V., 2014)
-A educação em direitos sexuais e reprodutivos tem como premissa garantir os direitos
-de homens e mulheres, adultos(as) e adolescentes, em relação à saúde sexual e à saúde
-reprodutiva. São Direitos Humanos de suma importância reconhecidos em leis nacionais e
-documentos internacionais.
-5.7.4 Educação financeira
-Educação financeira é entendida como um processo de aquisição de um conhecimento
-que permite a construção de habilidades pelos indivíduos, para que possam tomar decisões
-fundamentadas e seguras, melhorando o gerenciamento de suas finanças pessoais. Mudanças
-tecnológicas, regulatórias e econômicas elevaram a complexidade dos serviços financeiros e a
-insuficiência de conhecimento sobre o assunto compromete as decisões financeiras cotidianas
-dos indivíduos e das famílias, produzindo resultados muitas vezes não administráveis. A
-principal dificuldade está em planejar adequadamente ações de longo prazo como poupar,
-garantir aposentadoria ou ampliá-la, na medida em que esta não é mais provida integralmente
-pelo Estado. Também é necessário avaliar decisões sobre a compra de sua casa própria ou
-bens duráveis, bem como entender as novas modalidades de crédito e dominar a tecnologia
-
-Campus Restinga
-disponível para a realização das transações financeiras básicas.
-Atualmente com um governo, incapaz de poupar e realizar os investimentos
-propulsores do crescimento, encontrou como solução ampliar a oferta de crédito, para
-incentivar o consumo de bens e serviços e, assim, aumentar a produção. No entanto, o
-consumo das famílias não consegue, sozinho, estimular os investimentos, que realmente
-geram empregos e elevação da renda. Para agravar esse quadro, a população, despreparada
-para dimensionar o volume de comprometimento do seu orçamento, avança com ímpeto ao
-crédito fácil e, endividada, nem sempre encontra caminhos para restaurar o equilíbrio. Este
-quadro de desorientação por fim produz a inadimplência. Diante do exposto, não há como
-negar que a educação financeira é fundamental na sociedade brasileira contemporânea e a
-escola não deve furtar-se a esse papel, visto que pode influenciar diretamente as decisões
-econômicas dos indivíduos e das famílias (SAVOIA, J. R. F. et al, 2007).
-Nesse ínterim, tal dispositivo deve ser trabalhado ao longo dos diferentes componentes
-curriculares, especialmente, na Matemática, com uso de exemplos a partir dos assuntos que
-envolvem Regra de Três, especialmente utilizada no cálculo de porcentagem e juros.
-Outrossim, na administração se utiliza muito do cálculo de juros e estimula-se que, em
-Empreendedorismo, a educação financeira figure dentre os temas a serem tratados.
-6. REPRESENTAÇÃO GRÁFICA DO PERFIL DE FORMAÇÃO
-1º. Ano
-2º. Ano
-3º. Ano
-4º. Ano
-Técnico Nível Médio
-EmEletrônica
-Língua Portuguesa e
-Literatura
-Língua Portuguesa e
-Literatura
-Língua Portuguesa e
-Literatura
-Língua Portuguesa e
-Literatura
-Matemática
-Matemática
-Matemática
-Matemática
-Filosofia
-Filosofia
-Filosofia
-Filosofia
-Sociologia
-Sociologia
-Sociologia
-Sociologia
-Geografia
-Geografia
-Geografia
-Geografia
-História
-História
-História
-História
-Língua Estrangeira
-Inglês
-Língua Estrangeira
-Inglês
-Língua Estrangeira
-Espanhol
-Língua Estrangeira
-Espanhol
-Educação Física
-Educação Física
-Biologia
-Biologia
-Artes
-Física
-Física
-Física
-
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+6.1 MATRIZ CURRICULAR
 Química
 Química
 Eletrônica Digital I
@@ -1093,6 +328,8 @@ Componente Curricular
 Horas
 Relógio
 Horas
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Aulas
 Aulas na
 Semana
@@ -1129,13 +366,13 @@ Carga horária parcial
 Desenho Técnico
 66h
 80h/a
-
-Campus Restinga
 Núcleo
 Profissional
 Inglês aplicado à eletrônica
 66h
 80h/a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Eletrônica Digital I
 100h
 120h/a
@@ -1176,6 +413,8 @@ Sociologia
 33h
 40h/a
 Matemática
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 100h
 120h/a
 Física
@@ -1216,6 +455,8 @@ Língua Portuguesa e Literatura
 História
 33h
 40h/a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Geografia
 33h
 40h/a
@@ -1240,8 +481,6 @@ Química
 Carga horária Parcial
 495h
 600h/a
-
-Campus Restinga
 Núcleo
 Profissional
 Circuitos Elétricos II
@@ -1258,6 +497,8 @@ Sistemas Embarcados
 120h/a
 Carga horária Parcial
 333h
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 400h/a
 Total Carga horária anual
 828h
@@ -1298,6 +539,8 @@ Química
 Carga horária Parcial
 529h
 640h/a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Núcleo
 Profissional
 Eletrônica Analógica II
@@ -1331,7 +574,8 @@ Carga horária total do curso
 A seguir apresenta-se o quadro-resumo com a carga horária das disciplinas do núcleo de base
 comum e núcleo profissional:
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+6.2 PROGRAMA POR COMPONENTES CURRICULARES
 Horas-relógio
 Horas aula
 Núcleo de base comum
@@ -1357,18 +601,6 @@ Contextualizar o aluno no amplo escopo do universo artístico.
 Ementa:
 A Arte como forma de conhecimento. Manifestações artísticas através da história. Música. Artes
 visuais e audiovisuais. Teatro e dança.
-Referências Básicas:
-GOMBRICH, E. H. A história da Arte. 15ª ed. Rio de Janeiro: Guanabara, 1993.
-JEANDOT, Nicole. Explorando o universo da música. São Paulo: Scipione, 1993.
-OSTROWER, Fayga. Universos da Arte. 11ª ed. Rio de Janeiro: Campus, 1996.
-Referências Complementares:
-ARCHER, Michael. Arte contemporânea: uma história concisa. São Paulo: Martins Fontes,
-2001.
-ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1992.
-HEARTNEY, Eleanor. Pós-modernismo. São Paulo: Editora Cosac &Naify, 2002.
-STRICKLAND, Carol; BOSWELL, John. Arte Comentada: da pré-história ao pós-moderno.
-Rio de Janeiro: Ediouro, 1999.
-ZANINI, Walter. História da Arte no Brasil. São Paulo: Instituto Walter Moreira Sales, 1983.
 Componente Curricular: Educação Física
 Ano: 1º ano
 Horas relógio: 66h
@@ -1380,28 +612,12 @@ avalição da saúde corporal, do lazer e da recreação.
 Ementa:
 Jogos orientados para a situação (iniciação esportiva universal); conceitos básicos de atividade
 física e exercício físico; aptidão física para a saúde e seus componentes; uso de testes para
-
-Campus Restinga
 avaliação desses componentes; verificação de massa corporal e estatura; cálculo do IMC;
 atividades aeróbicas, ginástica localizada e exercícios resistidos, esportes coletivos e individuais,
 regras oficiais e adaptadas dos esportes coletivos. Esportes não convencionais.
-Referências Básicas:
-KROGER, C. E ROTH, K. Escola da bola: um ABC para iniciantes nos jogos desportivos
-coletivos. 2 ed.Phorte, 2006.
-DE ROSE JR. Esporte e atividade física na infância e na adolescência: uma abordagem
-multidisciplinar, 2 ed., Editora Artmed, 2009.
-GUISELINE, M. Aptidão física, saúde, bem-estar: fundamentos teóricos e exercícios práticos
-- São Paulo. Phorte Editora Ltda 2 ed, 2006.
-Referências Complementares:
-GUEDES, D.P. & GUEDES, J.E. Manual prático para avaliação em Educação Física, Manole,
-CONFEDERAÇÃO DE FUTSAL. Regras Oficiais de Futsal. Editora Sprint, 2010.
-CONFEDERAÇÃO DE HANDEBOL E BEACH HANDEBOL. Regras Oficiais de Handebol e
-Beach Handebol. Editora Sprint, 2010.
-MATTOS, M.G & NEIRA, M.G., Educação Física na Adolescência: construindo o
-conhecimento na escola, São Paulo. Phorte Editora Ltda,5 ed., 2008.
-VOSER, R.C. & GIUSTI.J.G. O Futsal e a Escola: Uma perspectiva pedagógica. Editora
-Artmed, 2002.
 Componente Curricular: Inglês aplicado à eletrônica
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Ano: 1º ano
 Horas relógio: 66h
 Horas-aula: 80h/a
@@ -1417,26 +633,12 @@ interrogativos; pronomes interrogativos subjetivos e objetivos; pronomes indefin
 genitivo; futuro Simples; estratégias de leitura, grupos nominais. Leitura e interpretação de textos
 relacionados à área de eletrônica.
 ReferênciasBásicas:
-
-Campus Restinga
 MURPHY, Raymond.Essential grammar in use: a self-study reference and practice book for
 elementary students of english with answers. 3rd. Cambridge, UK: Cambridge, 2007. 319 p.
 SWAN, Michael. Practical english usage. 3th. ed. full rev. Oxford: Oxford University Press,
 c2005. xxx, 658 p.
 TORRES, Nelson. Gramática prática da língua inglesa:o inglês descomplicado. 11. ed. São
 Paulo, SP: Saraiva, 2014. 464 p.
-Referências Complementares:
-GARDINI, Giacomo; LIMA, Norberto de Paula. Dicionário de eletrônica: inglês/português. 3.
-ed. São Paulo, SP: Hemus, 2003. 480 p. ISBN 9788528902143.
-SILVA, João Antenor de C., GARRIDO, Maria Lina, BARRETO, Tânia Pedrosa. Inglês
-Instrumental: Leitura e Compreensão de Textos. Salvador: Centro Editorial e Didático, UFBA,
-1994.
-OLIVEIRA, Nádia Alves de. Para ler em inglês - desenvolvimento da habilidade de leitura.
-Belo Horizonte: N. O. S. Tec. Educ. Ltda, 2000.
-GLENDINNING, Eric H. e MCEWAN, John. Basic English for computing. Oxford: Oxford
-University Press, 2003.
-MUNHOZ, Rosângela. Inglês Instrumental: Estratégias de leitura – Módulo I. São Paulo:
-Texto Novo, 2002.
 Componente Curricular: Língua Portuguesa e Literatura
 Ano: 1º ano
 Horas relógio: 100h
@@ -1450,21 +652,6 @@ características estruturais de alguns gêneros: carta pessoal, relato, e-mail, 
 Fonologia, Ortografia, Acentuação. Leitura, interpretação e produção de textos sob o enfoque dos
 gêneros discursivos. Literatura Brasileira: Literatura informativa, Barroco, Arcadismo,
 Romantismo.
-Referências Básicas:
-ABAURRE, M. L.; ABAURRE, M.B. Produção de texto: interlocução e gêneros. São Paulo:
-Editora Moderna, 2007.
-AMARAL, Emília et al. Novas palavras. 2 ed. Renovada. São Paulo: FTD, 2005. v.1.
-BECHARA, E. Gramática Escolar da Língua Portuguesa. Rio de Janeiro: Nova fronteira, 2010.
-Referências Complementares:
-
-Campus Restinga
-CEREJA, William Roberto; MAGALHÃES, Tereza Cochar. Português: linguagens. São Paulo:
-Atual, 2003.
-FARACO, C.A.; TEZZA, C. Oficina de Texto. Petrópolis, RJ: Vozes, 2003.
-GONZAGA, Sergius. Manual de Literatura Brasileira. Ed. Leitura XXI, 2009.
-PLATÃO, F. e FIORIN, J. L. Para entender o texto: leitura e redação. São Paulo: Ática, 2002.
-TORRALVO, Izeti Fragata; MINCHILLO, Carlos Cortez. Linguagem em movimento:
-Literatura, gramática e redação. São Paulo: FTD, 2008. v.1.
 Componente Curricular: História
 Ano: 1º ano
 Horas relógio: 33h
@@ -1472,42 +659,14 @@ Horas-aula: 40h/a
 Aulas na semana: 1
 Objetivo geral do componente curricular:
 Contextualizar o nascimento das primeiras sociedades humanas, no tempo e no espaço, dando
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 ênfase às múltiplas sociabilidades e às diferentes relações com a cultura; reconhecendo os diversos
 artefatos e narrativas que servem como referência historiográfica.
 Ementa:
 O homo sapiens e a história; a vida em sociedade; representações rupestres; o Egito Africano;
 África subsaariana; sociedade do Oriente; a ocupação da América; povos; Ameríndios; Formação
 do Estado e a centralização do poder; Sociedades sem Estado.
-Referências Básicas:
-ANDERSON, Perry. Passagens da antiguidade ao feudalismo. São Paulo: Brasiliense, 2001.
-CARLOS. História geral da África. 2. ed. rev. Brasília, DF , 2010. 8 v. (Coleção História Geral
-da África da UNESCO).
-GUIMARÃES, Marcella Lopes. Capítulos de história: o trabalho com fontes. 1.ed. Curitiba,
-PR: Aymará, 2012. 175 p.
-Referências Complementares:
-ANDERSON, Perry. Linhagens do Estado absolutista. São Paulo: Brasiliense, 1995.
-ARENDT, Hannah. Origens do Totalitarismo. São Paulo: Cia das Letras, 1989.
-BETHEL, Leslie (Org.). América Latina colonial. Trad. Mary A. L. de Barros & Magda Lopes.
-S. Paulo: Edusp/FUNAG, 1999.
-CLARO, Regina. Olhar a África: fontes visuais para sala de aula. 1.ed. São Paulo, SP: Hedra,
-2012. 192 p.
-CLASTRES, Pierre. A Sociedade contra o Estado: pesquisas de antropologia política; tradução
-de Thoo Santiago. Rio de Janeiro, F. Alves, 1978.
-
-Campus Restinga
-FAUSTO, Bóris. História Concisa do Brasil, EDUSP, IMESP, 2000.
-HARARI, YuvalNoah. Sapiens: uma breve história da humanidade. Porto Alegre: L&PM,
-2015.
-HOBSBAWM, E. Era dos extremos São Paulo: Companhia das Letras, 1995.MACEDO, José
-Rivair. História da África. São Paulo: Contexto, 2014.
-MOTA, M.; BRAICK, P. R..História: das cavernas ao terceiro milênio, volume único, Ensino
-Médio. São Paulo: Moderna, 2010.
-PINSKY, Jaime. História da América através de textos. 10. ed. São Paulo, SP: Contexto, 2010.
-173 p.
-SAND, Shlomo. A invenção da Terra de Israel. São Paulo: Benvirá, 2014.
-SOUZA, Marina de Mello. África e Brasil africano. São Paulo: Ática, 2005
-VIVEIROS DE CASTRO, Eduardo. Os pronomes cosmológicos e o perspectivismo ameríndio.
-Mana vol.2 no.2 Rio de Janeiro. Outubro, 1996.
 Componente Curricular: Geografia
 Ano: 1º ano
 Horas relógio: 33h
@@ -1519,25 +678,6 @@ cartográfica.
 Ementa:Estudo da cartografia e das novas tecnologias. Geologia e Geomorfologia: estruturas
 eformas do relevo. Dinâmica climática e paisagens vegetais. Questão ambiental e desenvolvimento
 sustentável.
-Referências Básicas:
-GONÇALVES, Carlos Walter Porto. Os (des)caminhos do meio ambiente. 15. ed. São Paulo, SP:
-Contexto, 2013. 148 p. (Temas Atuais). ISBN 9788585134402
-JOLY, Fernand. A cartografia. 15. ed. Campinas, SP: Papirus, 2013. 112 p. ISBN
-9788530801151.
-TEIXEIRA, Wilson et al. Decifrando a terra. 2. ed. São Paulo, SP: Companhia Editora Nacional,
-2009. 623 p. ISBN 9788504014396.
-Referências Complementares:
-BARBOSA, Alexandre Freitas. O mundo globalizado. São Paulo. Contexto, 2001.
-BECKOUCHE, Pierre. Indústria – um só mundo. São Paulo. Ática. 1995.
-BRANCO, Adriano Murgel (org.) Política energética e crise de desenvolvimento. Editora Paz e
-Terra. São Paulo/Rio de Janeiro. 2002.
-
-Campus Restinga
-CHOSSUDOVSKY, Michel. A globalização da pobreza. São Paulo: Moderna. 1999.
-DASHEFSKY, H. Esteven. Dicionário de educação ambiental – um guia de A a Z. Editora Gaia.
-São Paulo. 2001.
-ROSS, Jurandyr L. Sanches. Ecogeografia do Brasil: subsídios para planejamento ambiental.
-São Paulo, SP: Oficina de textos, 2006. 208 p. ISBN 9788586238604.
 Componente Curricular: Filosofia
 Ano: 1º ano
 Horas relógio: 33h
@@ -1550,18 +690,6 @@ Ementa:
 Introdução à Filosofia. Estudo da história da filosofia antiga e medieval. O conhecimento:
 conhecer a si mesmo, conhecer o outro e o respeito às diferenças. As diferentes formas de
 conhecimento: artes, ciências, religião, Filosofia; conceitos de lógica formal/Informal
-Referências Básicas:
-ARANHA, Maria L. de Arruda. Filosofando:introdução à filosofia. São Paulo: Moderna, 2006.
-CHAUÍ, Marilena. Convite à filosofia. 13 ed. São Paulo: ática, 2008.
-MARCONDES, Danilo. Textos básicos de filosofia: dos pré-socráticos a Wittgenstein. 5 ed.
-Rio de Janeiro: Jorge Zahar Ed., 2007.
-Referências Complementares:
-HÖSLE, Vitório e Nora K. O café dos Filósofos mortos. 2 ed. São Paulo: Ed. Angra, 2003.
-IRWIN, William (org.). Super-heróis e a filosofia. São Paulo: Madras, 2009.
-BOFF, Leonardo. Ética e moral: a busca dos fundamentos. Petrópolis: Vozes, 2009.
-VÁZQUEZ, Adolfo Sanches. Ética. Rio de Janeiro: Civilização Brasileira, 2003.
-NARDI, Henrique Caetano. Ética, trabalho e subjetividade: trajetórias de vida o contexto das
-transformações do capitalismo contemporâneo. Porto Alegre: Editora da UFRGS, 2006.
 Componente Curricular: Sociologia
 Ano: 1º ano
 Horas relógio: 33h
@@ -1571,25 +699,13 @@ Objetivo geral do componente curricular:
 Sensibilizar para a relação de interdependência entre indivíduo e sociedade, com ênfase na
 especificidade do pensamento sociológico e como ele pode auxiliar em nossas vidas, levando em
 consideração os autores clássicos da sociologia, das instituições sociais e da estratificação e
-
-Campus Restinga
 desigualdades sociais.
 Ementa:
 A relação de interdependência entre indivíduo e sociedade;o pensamento sociológico; os autores
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 clássicos da Sociologia;processos de socialização e o papel das instituições sociais;estratificação e
 desigualdades sociais.
-Referências Básicas:
-ARON, Raymond. As etapas do pensamento sociológico. Rio de Janeiro: Martins Editora, 1982.
-GIDDENS, Anthony. Sociologia. 6. ed. Porto Alegre, RS: Penso, 2012. (1 ex.)
-TOMAZI, Nelson Dacio. Sociologia para o Ensino Médio. São Paulo: Atual, 2007.
-Referências Complementares:
-ELIAS, Norbert. Introdução à sociologia. Lisboa, 1970.
-GIDDENS, Anthony. As consequências da modernidade. São Paulo: Unesp, 1991.
-MAY, Tim. Pesquisa Social. Questões, métodos e processos. 3. ed. Porto Alegre: Artmed, 2004.
-MANNHEIM, Karl. “O problema das gerações”. In: Sociologia do conhecimento, Vol. II,
-Porto, RES-Editora, 1928.
-WALLERSTEIN, I. Capitalismo histórico e civilização capitalista. Rio de Janeiro: Contraponto,
-2001.
 Componente Curricular: Matemática
 Ano: 1º ano
 Horas relógio: 133h
@@ -1605,24 +721,6 @@ Intervalo Real. Notação Científica. Regra de Três. Álgebrade polinômios. C
 de medida. Geometria Plana e RazõesTrigonométricas no Triângulo Retângulo. Interpretação de
 gráficos e tabelas.Modelagem e Solução de Equações, Inequações e Sistemas de 1º grau e Solução
 deEquações de 2º grau. Introdução a funções. Função de 1º e 2º graus.
-Referências Básicas:
-DANTE, L. R. Matemática. Volume Único. São Paulo: Ática, 2003. ISBN 9788508098019.
-GIOVANNI, José Ruy; BONJORNO, José Roberto; GIOVANNI JÚNIOR, José Ruy. Matemática
-fundamental: uma nova abordagem. São Paulo, SP: FTD, 2002. 712 p. ISBN 8532248470.
-
-Campus Restinga
-IEZZI, Gelson et al. Matemática: ciência e aplicações: volume 1: ensino médio. 8. ed. São Paulo,
-SP: Atual, 2014. 448 p. ISBN 9788535719598 (v.1).
-Referências Complementares:
-DANTE, Luiz Roberto. Matemática: contexto e aplicações: volume 1. 2. ed. São Paulo, SP:
-Ática, 2014. 296 p. ISBN 9788508162994 (v. 1).
-IEZZI, Gelson et al. Matemática: volume único. 5. ed. São Paulo, SP: Atual, 2011. 720 p. ISBN
-9788535714319.
-PAIVA, Manoel. Matemática. PNLEM, 2006.ISBN 9788516068301.
-SMOLE, Kátia Cristina Stocco et al. Jogos de matemática: de 1º a 3º ano. Porto Alegre: Artmed,
-2008. 114p (Cadernos do Mathema: ensino médio; v. 3). ISBN 9788536314709.
-SOUZA, Joamir Roberto de. Novo olhar: matemática:1. 2.ed. São Paulo: FTD 2013.
-ISBN:9788532285195.
 Componente Curricular: Desenho Técnico
 Ano: 1º ano
 Horas relógio: 66h
@@ -1637,22 +735,6 @@ ferramentas de desenho técnico. Perspectivas, escalas projeções ortogonais, c
 Normas técnicas de desenho técnico. Desenho e projeto de instalações elétricas. Softwares de CAD
 para a área eletroeletrônica e modelagem 3D. Processo de fabricação de placas de circuito
 impresso.
-Referências Básicas:
-ABNT. NBR-10067- Princípios Gerais de representação em Desenho técnico – Maio 1995
-STRAUHS, Faimara do Rocio. Desenho Técnico. Base Editorial 2010
-JUNGHANS, Daniel. Informática Aplicada ao Desenho Técnico. Base Editorial 2010
-Referências Complementares:
-SENAI-DR-SP. Iniciação ao desenho. 2 ed. São Paulo, 1991. 84p.
-FRENCH, Thomas E. VIERCK, Charles J. Desenho técnico e tecnologia gráfica. Porto Alegre:
-Globo 1985.1093p
-PENTEADO, José Arruda. Curso de desenho para o curso de nível médio. Rio de Janeiro. Ao
-Livro Técnico, 1986. 156p.
-
-Campus Restinga
-FIALHO, A. B. SolidworksOfiice Premium 2008, Teoria e prática no desenvolvimento de
-produtos industriais. Editora Érica, 2008, 560p.
-OLIVEIRA, A. AutoCad 2009: um novo conceito de modelagem 3 D e renderização. Editora
-Érica, 2008, 298p.
 Componente Curricular: Eletrônica Digital I
 Ano: 1º ano
 Horas relógio: 100h
@@ -1663,28 +745,10 @@ Desenvolver a compreensão e competências relativas ao projeto, uso e programa�
 digitais utilizando circuitos combinacionais.
 Ementa:
 Sistemas de Numeração. Aritmética binária. Álgebra booleana. Lógica com chaves. Circuitos
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 combinacionais. Circuitos aritméticos. Osciladores e relógios. Montagem e implementação de
 circuitos digitais.
-Referências Básicas:
-IDOETA, Ivan V.; CAPUANO, Francisco Gabriel. Elementos de eletrônica digital. 41. ed. São
-Paulo, SP: Érica, 2012. 544 p. ISBN 9788571940192.
-BIGNELL, James; DONOVAN, Robert. Eletrônica digital. São Paulo, SP: Cengage Learning,
-2010. xviii, 648 p. ISBN 9788522107452.
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas combinacionais. Vol. 1,
-Porto Alegre, RS: Bookman, 2013. xiii, 267, 21 p. (Tekne; v. 1) ISBN 9788580551921
-Referências Complementares:
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas sequenciais. Vol. 2, 7ª. ed.
-Porto Alegre, RS: AMGH, 2013. xvii, 255 p. ISBN 9788580551945.
-TOCCI, Ronald J.; WIDMER, Neal S.; MOSS, Gregory L. Sistemas digitais: princípios e
-aplicações. 11. ed. São Paulo, SP: Pearson, 2011. xx, 817 p. ISBN 9788576059226.
-VAHID, Frank. Sistemas digitais: projeto, otimização e HDLS. Porto Alegre, RS: Bookman,
-2008. XIV,558p. ISBN 9788577801909
-PEDRONI, Volnei A. Eletrônica digital moderna e VHDL. Rio de Janeiro, RJ: Elsevier, 2010.
-619 p. ISBN 9788535234657.
-ARAÚJO, Celso de; CRUZ, Eduardo Cesar Alves; CHOUERI JÚNIOR, Salomão. Eletrônica
-digital. 1. ed. São Paulo, SP: Érica, 2014. 167 p. (Série eixos). ISBN 9788536508177.
-
-Campus Restinga
 Componente Curricular: Informática Instrumental
 Ano: 1º ano
 Horas relógio: 66h
@@ -1701,21 +765,6 @@ eletrônica: fórmulas, operações entre células, operações condicionais, cr
 Programa de apresentação: estilos, formatos de apresentação. Utilização de software de edição de
 fotografia. Utilização de software de desenho vetorial. Noções de design gráfico utilizando o
 computador. Noções de lógica de programação.
-Referências Básicas:
-ALCALDE, E. et. al. Informática Básica.São Paulo: Pearson – Makron Books, 2005, 288p.
-BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 7ª edição. Porto Alegre:
-Bookman, 2005, 512 p.
-NORTON, P. Introdução à Informática. São Paulo: Pearson, 2005, 640 p.
-Referências Complementares:
-MEIRELLES, F. Informática: Novas Aplicações com Microcomputadores. 2ª edição. São Paulo:
-Pearson - Makron Books, 1994, 640 p.
-MOKARZEL, F. C.; SOMA, N. Y. Introdução à Ciência da Computação. Rio de Janeiro:
-Campus, 2008.
-MONTEIRO, Mário A. Introdução à Organização de Computadores. Rio de Janeiro: LTC,
-2002.
-NASCIMENTO, Ângela J.; HELLER, Jorge L. Introdução à Informática. São Paulo: Makron:
-1996.
-PEOPLE EDUCATION, Apostila de Word, Power Point e Excel User Specialist. 2003.
 Componente Curricular: Projeto Integrador I
 Ano: 1º ano
 Horas relógio: 33h
@@ -1724,30 +773,10 @@ Aulas na semana: 1
 Objetivo geral do componente curricular:
 Ensinar os conceitos básicos sobre o desenvolvimento de um projeto que envolva o conhecimento
 de múltiplas áreas com vistas a desenvolvimento de um produto e o aprendizado de fundamentos
-
-Campus Restinga
 de técnicas de soldagem e dessoldagem e elaboração de placas de circuito impresso.
 Ementa:
 Trabalho de eletrônica que envolva interdisciplinaridade possuindo tema livre; soldagem e
 dessoldagem manual; confecção manual de placas de circuito impresso de face simples ou dupla.
-Referências Básicas:
-IDOETA, Ivan V.; CAPUANO, Francisco Gabriel. Elementos de eletrônica digital. 41. ed. São
-Paulo, SP: Érica, 2012. 544 p. ISBN 9788571940192.
-WOLSKI, Belmiro. Eletricidade básica. Curitiba, PR: Base Editorial, 2010. ISBN
-9788579055416.
-CERVO, Amando Luiz & BERVIAN, Pedro Alcino. Metodologia Científica. 4ª ed. São Paulo:
-MAKRON, 1996.
-Referências Complementares:
-BIGNELL, James; DONOVAN, Robert. Eletrônica digital. São Paulo, SP: Cengage Learning,
-2010. xviii, 648 p. ISBN 9788522107452.
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas combinacionais. Vol. 1,
-Porto Alegre, RS: Bookman, 2013. xiii, 267, (Tekne; v. 1) ISBN 9788580551921.
-AGUIRRE, LuisAntonio. Fundamentos de instrumentação. São Paulo, SP: Pearson Education,
-2013.ISBN 9788581431833.
-ALCALDE, E. et. al. Informática Básica.São Paulo: Pearson – Makron Books, 2005, 288p.
-CERVO, Amando Luiz & BERVIAN, Pedro Alcino. Metodologia Científica. 4ª ed. São Paulo:
-MAKRON, 1996.
-2º ano
 Componente Curricular: Educação Física
 Ano: 2º ano
 Horas relógio: 66h
@@ -1756,33 +785,17 @@ Aulas na semana: 2
 Objetivo geral do componente curricular:
 Construir conhecimentos sobre a cultura corporal do movimento humano; bem
 como
-
 da
-
 Educação
 pelo movimento e Atividade Física e Saúde, através da prática e teorias de
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 ginásticas,
 esportes individuais e esportes coletivos.
 Ementa:
 Dimensões do esporte: esporte educacional, de rendimento e de participação;esportes coletivos e
 individuais;regras oficiais dos esportes;a ginástica na escola exercícios ginásticos;conceitos básicos
-
-Campus Restinga
 sobre saúde a atividade física.
-Referências Básicas:
-CRISÓSTOMO, J. & BOJIKIAN, L.P. Ensinando voleibol, São Paulo, Editora Phorte, 4a
-edição, 2008.
-SANTOS, A. Postura corporal: um guia para todos. Ed Summus. 2005.
-TUBINO, M. J. G. O que é esporte. São Paulo, Editora Brasiliense, 1993.
-Referências Complementares:
-CONFEDERAÇÃO DE BASQUETEBOL. Regras Oficiais de Basquetebol. Editora Sprint,
-2010.
-CONFEDERAÇÃO DE VOLEIBOL. Regras Oficiais de Voleibol. Editora Sprint, 2010.
-GUISELINE, M. Aptidão física, saúde, bem-estar: fundamentos teóricos e exercícios práticos
-- São Paulo. Phorte Editora Ltda 2 ed, 2006.
-MATTOS, M.G & NEIRA, M.G., Educação Física na Adolecência: construindo o
-conhecimento na escola, São Paulo. Phorte Editora Ltda,5 ed., 2008.
-WEINECK, Jurgen, Treinamento ideal. 9 ed. Manole, 2003.
 Componente Curricular: Língua Estrangeira - Inglês
 Ano: 2º ano
 Horas relógio: 66h
@@ -1801,20 +814,6 @@ SWAN, Michael. Practical English usage. 3th. ed. full rev. Oxford: Oxford Univer
 c2005. 658 p.
 TORRES, Nelson. Gramática prática da língua inglesa:
 o inglês descomplicado. 11. ed. São Paulo, SP: Saraiva, 2014. 464 p.
-Referências Complementares:
-GARDINI, Giacomo; LIMA, Norberto de Paula. Dicionário de eletrônica: inglês/português. 3.
-ed. São Paulo, SP: Hemus, 2003. 480 p. ISBN 9788528902143.
-SILVA, João Antenor; GARRIDO, Maria Lima; BARRETO, Tânia Pedrosa. Inglês
-
-Campus Restinga
-instrumental:Leitura e Compreensão de textos. Salvador: Centro Editorial e Didático, UFBA,
-1994.
-OLIVEIRA, Nádia Alves de. Para ler em inglês-desenvolvimento da habilidade de leitura.
-Belo Horizonte: N.O.S Tec. Educ. LTDA, 2000.
-GLENNING, Eric H.; MCEWAN, John. Basic English for Computing. Oxford: Oxford
-University Press, 2003.
-MUNHOZ, Rosângela. Inglês instrumental: Estratégias de leitura – Módulo I. São Paulo: Texto
-Novo, 2002.
 Componente Curricular: Língua Portuguesa e Literatura
 Ano: 2º ano
 Horas relógio: 100h
@@ -1827,27 +826,14 @@ Ementa:
 Leitura, interpretação e produção de textos sob o enfoque dos gêneros discursivos. Texto de
 divulgação científica, reportagem, relatório. Classes gramaticais e pontuação. Literatura brasileira:
 Real-naturalismo, Simbolismo e Parnasianismo.
-Referências Básicas:
-ABAURRE, M. L.; ABAURRE, M.B. Produção de texto: interlocução e gêneros. São Paulo:
-Editora Moderna, 2007.
-AMARAL, Emília et al. Novas palavras. 2 ed. Renovada. São Paulo: FTD, 2005. v.2.
-BECHARA, E. Gramática Escolar da Língua Portuguesa. Rio de Janeiro: Nova fronteira, 2010.
-Referências Complementares:
-CEREJA, William Roberto; MAGALHÃES, Tereza Cochar. Português: linguagens. São Paulo:
-Atual, 2003.
-FARACO, C.A.; TEZZA, C. Oficina de Texto. Petrópolis, RJ: Vozes, 2003.
-GONZAGA, Sergius. Manual de Literatura Brasileira. Ed. Leitura XXI, 2009.
-PLATÃO, F. e FIORIN, J. L. Para entender o texto: leitura e redação. São Paulo: Ática, 2002.
-TORRALVO, Izeti Fragata; MINCHILLO, Carlos Cortez. Linguagem em movimento:
-Literatura, gramática e redação. São Paulo: FTD, 2008. v.1.
 Componente Curricular: História
 Ano: 2º ano
 Horas relógio: 33h
 Horas-aula: 40h/a
 Aulas na semana: 1
-Objetivo geral do componente curricular:
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+Objetivo geral do componente curricular:
 Aguçar a percepção da realidade cotidiana através da elaboração e interpretação de mapas, figuras
 e gráficos, considerando as temporalidades e relações socioambientais presentes no território, bem
 como correlacionar cidadania, economia, política, ambiente e cultura com as constituições das
@@ -1856,32 +842,6 @@ Ementa:
 A Grécia antiga; O desenvolvimento de Roma e do império mundial;oconceito de cidadania;o
 desenvolvimento do cristianismo;os povos bárbaros;a Idade Média;a importância da Igreja;o
 Renascimento Urbano e o embrião do capitalismo;o surgimento do Estado Moderno.
-Referências Básicas:
-AQUINO, Rubim Santos Leão de. História das sociedades: das sociedades modernas às
-sociedades atuais. Rio de Janeiro: Imperial Novo Milênio, 2009.
-AZEVEDO, Gislane; SERIACOPI, Reinaldo. História e Movimento. São Paulo: Ática, 2013.
-CAPELARI, Marcos Antonio; NOGUEIRA, Fausto Henrique Gomes. Ser protagonista –
-História. São Paulo: Edições SM, 2014.
-GUIMARÃES, Marcella Lopes. Capítulos de história: o trabalho com fontes. 1.ed. Curitiba,
-PR: Aymará, 2012. 175 p.
-Referências Complementares:
-BRAUDEL, Fernand. Civilização material, economia e capitalismo. São Paulo: Martins Fontes,
-2009.
-CLASTRES, Pierre. A Sociedade contra o Estado: pesquisas de antropologia política; tradução
-de Thoo Santiago. Rio de Janeiro, F. Alves, 1978.
-CREVELD, Martin Van. Ascensão e Declínio do Estado. São Paulo: Martins Fontes, 2004.
-FERGUSON, Nial. A ascensão do dinheiro. São Paulo: Planeta, 2009.
-FINLEY, MosesI..A política no mundo antigo. Rio de Janeiro: Zahar, 1995
-FINLEY, MosesI..Escravidão antiga e ideologia moderna. Rio de Janeiro: Graal, 1997.
-IFRAH, Georges. Os números: a história de uma grande invenção. São Paulo: Globo, 2005.
-KARNAL, Leandro (Org.). História na sala de aula: conceitos, práticas e propostas.
-PINSKY, Carla Bassanezi; PINSKY, Jaime. História da Cidadania. São Paulo: Contexto, 2010.
-VÁRIOS. A Baixa Idade Média: a formação dos reinos nacionais. Lisboa: Atlântico Press,
-2016.
-VERNANT, Jean Pierre. Trabalho e escravidão na Grécia antiga: Campinas:Papirus, 1999.
-VERNANT, Jean Pierre. O universo, os deuses e os homens. São Paulo: Companhia das Letras.
-
-Campus Restinga
 Componente Curricular: Geografia
 Ano: 2º ano
 Horas relógio: 33h
@@ -1893,21 +853,6 @@ longo do tempo.
 Ementa:Dinâmica climática e paisagens vegetais. Questão ambiental e desenvolvimento
 sustentável. Fontes de energia e recursos naturais. Fontes alternativas deenergia e a política
 ambiental.
-Referências Básicas:
-GONÇALVES, Carlos Walter Porto. Os (des)caminhos do meio ambiente. 15. ed. São Paulo, SP:
-Contexto, 2013. 148 p. (Temas Atuais). ISBN 9788585134402.
-ROSS, Jurandyr L. Sanches. Ecogeografia do Brasil: subsídios para planejamento ambiental.
-São Paulo, SP: Oficina de textos, 2006. 208 p. ISBN 9788586238604.
-TEIXEIRA, Wilson et al. Decifrando a terra. 2. ed. São Paulo, SP: Companhia Editora Nacional,
-2009. 623 p. ISBN 9788504014396.
-Referências Complementares:
-BARBOSA, Alexandre Freitas. O mundo globalizado. São Paulo. Contexto, 2001.
-BECKOUCHE, Pierre. Indústria – um só mundo. São Paulo. Ática. 1995.
-BRANCO, Adriano Murgel (org.) Política energética e crise de desenvolvimento. Editora Paz e
-Terra. São Paulo/Rio de Janeiro. 2002.
-CHOSSUDOVSKY, Michel. A globalização da pobreza. São Paulo: Moderna. 1999.
-DASHEFSKY, H. Esteven. Dicionário de educação ambiental – um guia de A a Z. Editora Gaia.
-São Paulo. 2001.
 Componente Curricular: Filosofia
 Ano: 2º ano
 Horas relógio: 33h
@@ -1921,20 +866,6 @@ social.
 Ementa:
 O pensamento dos pré-socráticos; Sócrates, Platão e Aristóteles;Pensamento filosófico
 medieval;Fé e Razão;Hipátia de Alexandria.
-Referências Básicas:
-ARANHA, Maria L. de Arruda. Filosofando: introdução à filosofia. São Paulo: Moderna, 2006.
-
-Campus Restinga
-CHAUÍ, Marilena. Convite à filosofia. 13 ed. São Paulo: ática, 2008.
-MARCONDES, Danilo. Textos básicos de filosofia: dos pré-socráticos a Wittgenstein. 5 ed.
-Rio de Janeiro: Jorge Zahar Ed., 2007.
-Referências Complementares:
-HÖSLE, Vitório e Nora K. O café dos Filósofos mortos. 2 ed. São Paulo: Ed. Angra, 2003.
-IRWIN, William (org.). Super-heróis e a filosofia. São Paulo: Madras, 2009.
-BOFF, Leonardo. Ética e moral: a busca dos fundamentos. Petrópolis: Vozes, 2009.
-VÁZQUEZ, Adolfo Sanches. Ética. Rio de Janeiro: Civilização Brasileira, 2003.
-NARDI, Henrique Caetano. Ética, trabalho e subjetividade: trajetórias de vida o contexto das
-transformações do capitalismo contemporâneo. Porto Alegre: Editora da UFRGS, 2006.
 Componente Curricular: Sociologia
 Ano: 2º ano
 Horas relógio: 33h
@@ -1943,27 +874,12 @@ Aulas na semana: 1
 Objetivo geral do componente curricular:
 Sensibilizar os estudantes para as implicações do conceito antropológico de cultura, do
 etnocentrismo e relativismo, no contexto da problemática que envolve os marcadores sociais de
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 raça, etnia, gênero e classe social, paralelamente à discussão da indústria cultural
 Ementa:
 Cultura e diversidade cultural; etnocentrismo e relativismo; raça; etnia; gênero; classe social;
 indústria cultural; mídias; ideologia.
-Referências Básicas:
-GUARESCHI, P. Sociologia Crítica. Alternativas de mudança. 56 ed. Porto Alegre:
-EDIPUCRS,2004.
-OLIVEIRA, P.S. Introdução à Sociologia. Volume único. São Paulo: Editora Ática, São Paulo
-2001.
-TOMAZI, Nelson Dacio. Sociologia para o Ensino Médio. São Paulo: Atual, 2007.
-Referências Complementares:
-BOFF, L. Saber Cuidar. Ética do humano – compaixão pela terra. 11. ed. Petrópolis: Editora
-Vozes,2004.
-DURKHEIM, Émile. As regras do método sociológico. Tradução de Maria Isaura Pereira de
-Queiroz.São Paulo: Editora Nacional, 1987.
-OLIVEIRA, Pérsio S; CHAUI, Marilena. Filosofia e Sociologia. Série Novo Ensino Médio.
-SãoPaulo: Ática, sd.
-SCOTT, Jhon. 50 sociólogos fundamentais. São Paulo: Contexto, 2007.
-TOMAZI, N.D. Iniciação à Sociologia. 2. ed. Atual, São Paulo 2000.
-
-Campus Restinga
 Componente Curricular: Matemática
 Ano: 2º ano
 Horas relógio: 100h
@@ -1978,22 +894,6 @@ decrescimento, aplicações. Funções: Constante, afim, linear, quadrática, mi
 equações, inequações de funções exponenciais e logarítmicas. Trigonometria no círculo
 trigonométrico. Funções trigonométricas: seno e cosseno. Geometria espacial: prismas, cilindros,
 pirâmides, cones e esfera - áreas e volumes com suas unidades de medidas.
-Referências Básicas:
-DANTE, L. R. Matemática. Volume Único. São Paulo: Ática, 2003. ISBN 9788508098019.
-GIOVANNI, José Ruy; BONJORNO, José Roberto; GIOVANNI JÚNIOR, José Ruy. Matemática
-fundamental: uma nova abordagem. São Paulo, SP: FTD, 2002. 712 p. ISBN 8532248470.
-IEZZI, Gelson et al. Matemática: contexto e aplicações: volume 2: ensino médio. 6. ed. São
-Paulo, SP: Saraiva, 2010. 3 v. ISBN 9788502093782.
-Referências Complementares:
-DANTE, Luiz Roberto. Matemática: contexto e aplicações: volume 2. 2. ed. São Paulo, SP:
-Ática, 2014. 320 p. ISBN 9788508162994 (v. 1).
-IEZZI, Gelson et al. Matemática: volume único. 5. ed. São Paulo, SP: Atual, 2011. 720 p. ISBN
-9788535714319.
-PAIVA, Manoel. Matemática. PNLEM, 2006. ISBN 9788516068301
-SMOLE, Kátia Cristina Stocco et al. Jogos de matemática: de 1º a 3º ano. Porto Alegre: Artmed,
-2008. 114p (Cadernos do Mathema: ensino médio; v. 3). ISBN 9788536314709.
-SOUZA, Joamir Roberto de. Novo olhar: matemática:1. 2.ed. São Paulo: FTD 2013.
-ISBN:9788532285195.
 Componente Curricular: Física
 Ano: 2º ano
 Horas relógio: 66h
@@ -2002,27 +902,11 @@ Aulas na semana: 2
 Objetivo geral do componente curricular:
 Propiciar ao aluno o conhecimento e a compreensão do estudo da Mecânica e suas aplicações.
 Ementa:
-
-Campus Restinga
 Mecânica (Deslocamento e posição; tempo, instante de tempo e intervalo de tempo; velocidade;
 aceleração; equações e gráficos do MRU e do MRUV; trabalho de uma força; máquinas simples;
 energia cinética, energia potencial, energia mecânica; conservação da energia; quantidade de
 movimento e impulso; conservação da quantidade de movimento; teorema da energia cinética;
 gravitação universal.
-Referências Básicas:
-GASPAR, A. Física: Série Brasil. Volume único. São Paulo: Editora Ática, 2006
-MÁXIMO, A.; ALVARENGA, Beatriz. Física volume único. São Paulo: Scipione, 2008.
-SAMPAIO, J. L.; CALÇADA, C. S. Física volume único. 2 ed. São Paulo: Editora Saraiva, 2005.
-Referências Complementares:
-PENTEADO, P. C. M.; TORRES, C. M..Física: ciência e tecnologia. Volume único. São Paulo:
-2005.
-FILHO, A. G. & TOSCANO, C. Física. Volume único. São Paulo: Editora Scpione, 2005.
-TORRES, C. M. A.; FERRARO N. G.; SOARES, P. A. T.; PENTEADO, P. C.M. Física, Ciência
-e Tecnologia. Vol. 1, Estudo dos Movimentos, Leis de Newton e Leis da Conservação. São
-Paulo: Editora Moderna, 2013.
-GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.; Física. Volume 1. São Paulo: Editora Ática,
-2014.
-XAVIER, C.; FILHO, B. B.; Física, Aula por Aula. Volume 1. São Paulo: Editora FTD, 2010.
 Componente Curricular: Algoritmos e Programação
 Ano: 2º ano
 Horas relógio: 66h
@@ -2033,31 +917,14 @@ Ensinar conceitos de programação, lógica de programação e complexidade de a
 linguagem C e programação estruturada usando linguagem C.
 Ementa:
 Fundamentos da construção de algoritmos e programas: variáveis, operadores, expressões e
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 estruturas de controle; lógica de programação; uso de linguagem de programação C; noções do
 processo de compilação e ferramentas de desenvolvimento de software; funções; tipos de
 variáveis; escopo de variáveis, variáveis locais e globais,indireção, ponteiros e aritmética de
 ponteiros; passagem de parâmetros por cópia e referência; noções de estruturas de dados;
 ordenação e noções de complexidade de algoritmos; noções de uso de um sistema de
 versionamento.
-Referências Básicas:
-METZ, J. A., BENEDUZZI, H. M.; Lógica Linguagem de Programa: Introdução ao
-
-Campus Restinga
-Desenvolvimento de Software. Editora do Livro Técnico, 2010.
-MIZRAHI, V. V. Treinamento em Linguagem C. 2ª ed. São Paulo: Pearson Prentice Hall, 2008.
-THOMAS, H. C.; LEISERSON, C.; RIVEST, R.; STEIN, C.; Algoritmos. 2ª edição, Editora
-Campus, 2006.
-Referências Complementares:
-MONK, Simon. Programação Com Arduino- Começando Com Sketches. São Paulo: Bookman,
-2013.
-FORBELLONE, L. V.; EBERSPACHER, H. F.; Lógica de Programação: A Construção de
-Algoritmos e Estruturas de Dados. São Paulo: Makron Books, 2005.
-MANZANO, J. A.; OLIVEIRA, J. F. de; Algoritmos: Lógica para Desenvolvimento de
-Programação de Computadores. São Paulo: Editora Érica, 2002.
-DEITEL, Paul J. e DEITEL, Harvey M. Como programar em C. 6ª edição. São Paulo: Pearson
-Education, 2011.
-PEREIRA, S. L. Estruturas de Dados Fundamentais: Conceitos e Aplicações. Editora Érica,
-2006.
 Componente Curricular: Circuitos Elétricos I
 Ano: 2º ano
 Horas relógio: 100h
@@ -2078,27 +945,7 @@ Kirchhoff, análise nodal e de malhas, teoremas de Thèvenin e Norton, transform
 princípio da superposição. Instrumentos de medida: voltímetro, amperímetro, multímetro e
 osciloscópio. Fontes ideais e reais de tensão e de corrente, controladas ou não. Fundamentos de
 corrente alternada: fontes de tensão em corrente alternada, transformadores de tensão, motores e
-
-Campus Restinga
 geradores elétricos. Capacitores e Indutores.
-Referências Básicas:
-GUSSOW, Milton. Eletricidade básica. (Schaum) 2. ed. ISBN 9788577802364.
-BOYLESTAD, Robert L. Introdução à análise de circuitos. 12. ed. São Paulo, SP: Prentice Hall,
-2012. ISBN 9788564574205.
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente alternada.2. ed. São
-Paulo, SP: Érica, 2007. ISBN 9788536501437.
-Referências Complementares:
-ALEXANDER, Charles K.; SADIKU, Matthew N. O. Fundamentos de circuitos elétricos. xxii,
-874 p. 5. ed. São Paulo, SP: McGraw-Hill, 2013. ISBN 9788580551723.
-AIUB, José Eduardo; FILONI, Enio. Eletrônica: eletricidade corrente contínua. 15. ed.
-São Paulo, SP: Érica, 2007. ISBN 9788571948105.
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente contínua.
-21. ed.
-São Paulo, SP: Érica, 2008. ISBN 9788571941472.
-CRUZ, Eduardo. Eletricidade aplicada em corrente contínua. 2.ed. São Paulo, SP: Érica, 2012.
-ISBN 9788536500843.
-NAHVI, Mahmood; EDMINISTER, Joseph A. Teoria e problemas de circuitos elétricos. 5. ed.
-Porto Alegre, RS: Bookman, 2005. ISBN 9788536305516.
 Componente Curricular: Eletrônica Digital II
 Ano: 2º ano
 Horas relógio: 100h
@@ -2113,29 +960,11 @@ Simbologia de circuitos digitais; flip-flops e suas aplicações; latches e suas
 sequenciais e sua relação com os circuitos combinacionais; contadores assíncronos e suas
 aplicações e projeto; contadores síncronos e suas aplicações e projeto; máquinas de estado e
 diagrama de estados; aplicações e projeto máquinas de estado; máquinas de estado Mealy e Moore;
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 conversores D/A e A/D, tipos e aplicações; introdução à síntese lógica, CPLDs, FPGAs,
 linguagens de descrição de hardware; utilização equipamentos de medição e de teste na análise de
 sinais digitais, analisador lógico digital, osciloscópio.
-Referências Básicas:
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas sequenciais. Vol. 2, 7ª. ed.
-
-Campus Restinga
-Porto Alegre, RS: AMGH, 2013. xvii, 255 p. ISBN 9788580551945.
-BIGNELL, James; DONOVAN, Robert. Eletrônica digital. São Paulo, SP: Cengage Learning,
-2010. xviii, 648 p. ISBN 9788522107452.
-TOCCI, Ronald J.; WIDMER, Neal S.; MOSS, Gregory L. Sistemas digitais: princípios e
-aplicações. 11. ed. São Paulo, SP: Pearson, 2011. xx, 817 p. ISBN 9788576059226.
-Referências Complementares:
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas combinacionais. Vol. 1,
-Porto Alegre, RS: Bookman, 2013. xiii, 267, 21 p. ISBN 9788580551921
-IDOETA, Ivan V.; CAPUANO, Francisco Gabriel. Elementos de eletrônica digital. 41. ed. São
-Paulo, SP: Érica, 2012. 544 p. ISBN 9788571940192.
-VAHID, Frank. Sistemas digitais: projeto, otimização e HDLS. Porto Alegre, RS: Bookman,
-2008. XIV,558p. ISBN 9788577801909
-PEDRONI, Volnei A. Eletrônica digital moderna e VHDL. Rio de Janeiro, RJ: Elsevier, 2010.
-619 p. ISBN 9788535234657.
-ARAÚJO, Celso de; CRUZ, Eduardo Cesar Alves; CHOUERI JÚNIOR, Salomão. Eletrônica
-digital. 1. ed. São Paulo, SP: Érica, 2014. 167 p. (Série eixos). ISBN 9788536508177.
 Componente Curricular: Projeto Integrador II
 Ano: 2º ano
 Horas relógio:33h
@@ -2149,26 +978,6 @@ Ementa:
 Trabalho de eletrônica que envolva interdisciplinaridade possuindo tema livre a ser elaborado
 tendo por base os conhecimentos adquiridos nos anos anteriores bem com os que serão adquiridos
 no ano corrente.
-Referências Básicas:
-TOKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas sequenciais. Vol. 2, 7ª. ed.
-Porto Alegre, RS: AMGH, 2013. xvii, 255 p. ISBN 9788580551945.
-BOYLESTAD, Robert L. Introdução à análise de circuitos. 12. ed. São Paulo, SP: Prentice Hall,
-2012. ISBN 9788564574205.
-BANZI, M. Primeiros Passos com o Arduino. São Paulo: Editora Novatec – O’Reilly, 2011.
-ISBN: 9788575222904.
-Referências Complementares:
-
-Campus Restinga
-OKHEIM, Roger L. Fundamentos de eletrônica digital: sistemas combinacionais. Vol. 1, Porto
-Alegre, RS: Bookman, 2013. xiii, 267, 21 p. ISBN 9788580551921
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente alternada. 2. ed. São
-Paulo, SP: Érica, 2007. ISBN 9788536501437.
-METZ, J. A., BENEDUZZI, H. M.; Lógica Linguagem de Programa: Introdução ao
-Desenvolvimento de Software. Editora do Livro Técnico, 2010.
-MIZRAHI, V. V. Treinamento em Linguagem C. 2ª ed. São Paulo: Pearson Prentice Hall, 2008.
-CERVO, Amando Luiz & BERVIAN, Pedro Alcino. Metodologia Científica. 4ª ed. São Paulo:
-MAKRON, 1996.
-3º ano
 Componente Curricular: Língua Estrangeira - Espanhol
 Ano: 3º ano
 Horas relógio: 33h
@@ -2187,22 +996,6 @@ e hispano-americana. Vocabulário: nomes e nacionalidades, saudação e apresent
 alimentação, vestuário, números, horas, datas, partes do corpo, clima, localização, expressão de
 preferências e gostos, expressões idiomáticas, falsos cognatos, momentos da vida, atividades
 diárias e de lazer.
-Referências Básicas:
-ACQUARONI, R.Soñaruncrimen. São Pualo, SP: SantillanaEspañol, 2012
-FANJUL, A. Gramática de españolpaso a paso. São Paulo: Moderna/Santillana, 2014.
-SEÑAS. Diccionario para laenseñanza de laLenguaEspañola para brasileños. São Paulo:
-WMF Martins Fontes, 2000.
-Referências Complementares:
-AMENÓS, José; GIL-TORESANO, Manuela; SORIA, Inés. Agencia Ele – Manual de español.
-Níveles 1, 2 y 3. Madrid: SGEL, 2009.
-
-Campus Restinga
-ARAGONÉS, Luis; PALENCIA, Ramón. Gramática de Uso delEspañol: teoria y práctica.
-Madrid: Ediciones SM, s.d. FERNÁNDEZ, Gretel Eres; MORENO, Concha. Gramática
-ContrastivadelEspañol para brasileños. Madrid: SgelEducación, 2005.
-GONZALES Hermoso, Alfredo. Conjugar es fácil enespañol de España y de América.2. ed.
-Madrid: Edelsa, 1999. TORREGO, Leonardo Gómez. Gramática didácticadelespañol. Madrid:
-Ediciones SM, 1999
 Componente Curricular: Língua Portuguesa e Literatura
 Ano: 3º ano
 Horas relógio: 66h
@@ -2210,25 +1003,14 @@ Horas-aula: 80h/a
 Aulas na semana: 2
 Objetivo geral do componente curricular:
 Compreender criticamente a estrutura, a composição e a organização de elementos textuais
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 diversos, ampliando o escopo de reflexões sobre a língua em uso.
 Ementa:
 Leitura, interpretação e produção de textos sob o enfoque dos gêneros discursivos: textos
 publicitários, carta argumentativa, resenha, artigo de opinião e editorial. Morfologia, análise
 sintática, concordância verbo-nominal, regência verbal e nominal, crase; literatura brasileira: Pré-
 Modernismo e Modernismo.
-Referências Básicas:
-ABAURRE, M. L.; ABAURRE, M.B. Produção de texto: interlocução e gêneros. São Paulo:
-Editora Moderna, 2007.
-AMARAL, Emília et al. Novas palavras. 2 ed. Renovada. São Paulo: FTD, 2005. v.3.
-BECHARA, E. Gramática Escolar da Língua Portuguesa. Rio de Janeiro: Nova fronteira, 2010.
-Referências Complementares:
-CEREJA, William Roberto; MAGALHÃES, Tereza Cochar. Português: linguagens. São Paulo:
-Atual, 2003.
-FARACO, C.A.; TEZZA, C. Oficina de Texto. Petrópolis, RJ: Vozes, 2003.
-GONZAGA, Sergius. Manual de Literatura Brasileira. Ed. Leitura XXI, 2009.
-PLATÃO, F. e FIORIN, J. L. Para entender o texto: leitura e redação. São Paulo: Ática, 2002.
-TORRALVO, Izeti Fragata; MINCHILLO, Carlos Cortez. Linguagem em movimento:
-Literatura, gramática e redação. São Paulo: FTD, 2008. v.1.
 Componente Curricular: História
 Ano: 3º ano
 Horas relógio: 33h
@@ -2236,8 +1018,6 @@ Horas-aula: 40h/a
 Aulas na semana: 1
 Objetivo geral do componente curricular:
 Refletir sobre contatos Interétnicos e os fenômenos ocasionados no movimento de difusão dos
-
-Campus Restinga
 padrões ocidentais no mundo (dominação cultural, etnocentrismos, hierarquizações ontológicas por
 raça, etnia e gênero) e suas implicações para a formação do Brasil e da América.
 Ementa:
@@ -2250,22 +1030,6 @@ e religiosidade (Bantos, Jejes, Iorubás, quilombolas, caboclos, ribeirinhos);id
 movimentos políticos na Europa (Iluminismo, liberalismo, Revolução francesa e
 inglesa);revoluções tecnológicas ao longo do tempo (revolução industrial, saberes, ciência e
 tecnologias campesinas, indígenas e africanas).
-Referências Básicas:
-GALEANO, Eduardo H. As veias abertas da América Latina. Porto Alegre, RS: L&PM, 2012.
-391 p.
-HOLANDA, Sérgio Buarque de. Visão do paraíso: os motivos edênicos no descobrimento e
-colonização do Brasil. São Paulo, SP: Companhia da Letras, 2010. 583 p. ISBN 9788535916676.
-RIBEIRO, Berta G. O índio na história do Brasil. 12. ed. São Paulo, SP: Global, 2009.
-Referências Complementares:
-CLARO, Regina. Olhar a África: fontes visuais para sala de aula. 1.ed. São Paulo, SP: Hedra,
-2012.
-DIJK, TeunAdrianus van (Org.). Racismo e discurso na América Latina. 2. ed. São Paulo, SP:
-Contexto, 2014.
-PINSKY, Jaime. História da América através de textos. 10. ed. São Paulo, SP: Contexto, 2010.
-SANTOS, José Vicente Tavares dos (Org.). Democracia, violências e lutas sociais na América
-Latina. Porto Alegre, RS: UFRGS, 2009.
-TODOROV, Tzvetan. A Conquista da América.A questão do outro. São Paulo. São Paulo:
-Martins Fontes, 1993.
 Componente Curricular: Geografia
 Ano: 3º ano
 Horas relógio: 33h
@@ -2275,28 +1039,15 @@ Objetivo geral do componente curricular:
 Identificar os principais elementos que balizam as ações humanas no espaço geográfico em
 diferentes escalas.
 Ementa:
-
-Campus Restinga
 Estudo da economia mundial e Globalização. Crescimento populacional. Economia,trabalho e
 sociedade. Movimentos populacionais. Conflitos étnicos e religiosos. Etnia e modernidade;
 Processo de urbanização brasileira e mundial.
-Referências Básicas:
-ADAS, Melhem. Panorama Geográfico do Brasil. Editora Moderna. São Paulo. 2004.
-MORAES, Paulo Roberto. Geografia Geral e do Brasil. Editora Harbra. São Paulo, 2006.
-SENE, Eustaquio de. & MOREIRA, João Carlos. Geografia para o Ensino Médio. Editora
-Scipione. São Paulo. 2009.
-Referências Complementares:
-BARBOSA, Alexandre Freitas. O mundo globalizado. São Paulo. Contexto, 2001.
-BECKOUCHE, Pierre. Indústria – um só mundo. São Paulo. Ática. 1995.
-BRANCO, Adriano Murgel (org.) Política energética e crise de desenvolvimento. Editora Paz e
-Terra. São Paulo/Rio de Janeiro. 2002.
-CHOSSUDOVSKY, Michel. A globalização da pobreza. São Paulo: Moderna. 1999.
-DASHEFSKY, H. Esteven. Dicionário de educação ambiental – um guia de A a Z. Editora Gaia.
-São Paulo. 2001.
 Componente Curricular: Filosofia
 Ano: 3º ano
 Horas relógio: 33h
 Horas-aula: 40h/a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Aulas na semana: 1
 Objetivo geral do componente curricular:
 Apreciação crítica e reflexão filosófica sobre os principais elementos da história da filosofia
@@ -2306,20 +1057,6 @@ contemporâneas.
 Ementa:
 Ética: Liberdade; hierarquia de valores; Moral e Ética; pensadores de Ética; Ética Profissional;
 Ética na Sociedade daInformação.
-Referências Básicas:
-ARANHA, Maria L. de Arruda. Filosofando:introdução à filosofia. São Paulo: Moderna, 2006.
-CHAUÍ, Marilena. Convite à filosofia. 13 ed. São Paulo: ática, 2008.
-COTRIM. G. Fundamentos da Filosofia. História e Grandes Temas. 15. ed. São Paulo: Editora
-Saraiva, 2000.
-Referências Complementares:
-HÖSLE, Vitório e Nora K. O café dos Filósofos mortos. 2 ed. São Paulo: Ed. Angra, 2003.
-IRWIN, William (org.). Super-heróis e a filosofia. São Paulo: Madras, 2009.
-
-Campus Restinga
-BOFF, Leonardo. Ética e moral: a busca dos fundamentos. Petrópolis: Vozes, 2009.
-VÁZQUEZ, Adolfo Sanches. Ética. Rio de Janeiro: Civilização Brasileira, 2003.
-NARDI, Henrique Caetano. Ética, trabalho e subjetividade: trajetórias de vida o contexto das
-transformações do capitalismo contemporâneo. Porto Alegre: Editora da UFRGS, 2006.
 Componente Curricular: Sociologia
 Ano: 3º ano
 Horas relógio: 33h
@@ -2338,23 +1075,6 @@ Neoliberal);partidos políticos e sistemas eleitorais; outras formas de organiza
 Estado brasileiro (Populismo, Ditadura e Democracia. Identidade nacional e ospensadores do
 Brasil);democracia, cidadania e direitos humanos – sindicalismo e movimentos sociais
 tradicionais; Novos movimentos sociais: movimento negro, feminista, ambiental, indígena.
-Referências Básicas:
-GUARESCHI, P. Sociologia Crítica. Alternativas de mudança. 56ed. Porto Alegre:
-EDIPUCRS,2004.
-OLIVEIRA, P.S. Introdução à Sociologia. Volume único. São Paulo: Editora Ática, São Paulo
-2001.
-TOMAZI, Nelson Dacio. Sociologia para o Ensino Médio. São Paulo: Atual, 2007.
-Referências Complementares:
-BOFF, L. Saber Cuidar. Ética do humano– compaixão pela terra. 11. ed. Petrópolis: Editora
-Vozes,2004.
-DURKHEIM, Émile. As regras do método sociológico. Tradução de Maria Isaura Pereira
-deQueiroz. São Paulo: Editora Nacional, 1987.
-OLIVEIRA, Pérsio S; CHAUI,Marilena. Filosofia e Sociologia. Série Novo Ensino Médio.
-SãoPaulo: Ática, sd.
-SCOTT, Jhon. 50 sociólogos fundamentais. São Paulo:Contexto, 2007.
-TOMAZI, N.D. Iniciação à Sociologia. 2. ed. Atual, São Paulo 2000.
-
-Campus Restinga
 Componente Curricular: Matemática
 Ano: 3º ano
 Horas relógio: 66h
@@ -2364,27 +1084,13 @@ Objetivo geral do componente curricular:
 Expandir os conhecimentos matemáticos sobre números, geometria e álgebra.
 Ementa:
 Números complexos. Geometria Analítica Plana. Matrizes, Determinantes e Sistemas.
-Referências Básicas:
-DANTE, L. R. Matemática. Volume Único. São Paulo: Ática, 2003. ISBN 9788508098019.
-GIOVANNI, José Ruy; BONJORNO, José Roberto; GIOVANNI JÚNIOR, José Ruy. Matemática
-fundamental: uma nova abordagem. São Paulo, SP: FTD, 2002. 712 p. ISBN 8532248470.
-IEZZI, Gelson et al. Matemática: volume único. 5. ed. São Paulo, SP: Atual, 2011. 720 p. ISBN
-9788535714319.
-Referências Complementares:
-BONATTO, Alexsandro Cristóvão (Org.); ROBALINHO, Eric et al. Curso de pré-cálculo. Porto
-Alegre, RS: IFRS Campus Restinga, 2016. 89 p. ISBN 9788566309058.
-DANTE, Luiz Roberto. Matemática: contexto e aplicações: volume 3. 2. ed. São Paulo, SP:
-Ática, 2014. 216 p. ISBN 9788508162994 (v. 1).
-PAIVA, Manoel. Matemática. PNLEM, 2006. .ISBN 9788516068301.
-SMOLE, Kátia Cristina Stocco et al. Jogos de matemática: de 1º a 3º ano. Porto Alegre: Artmed,
-2008. 114p (Cadernos do Mathema: ensino médio; v. 3). ISBN 9788536314709.
-SOUZA, Joamir Roberto de. Novo olhar: matemática:2. 2.ed. São Paulo: FTD 2013.
-ISBN:9788532285195.
 Componente Curricular: Biologia
 Ano: 3º ano
 Horas relógio: 66h
 Horas-aula: 80h/a
 Aulas na semana: 2
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Objetivo geral do componente curricular:
 Favorecer o entendimento da Biologia como um processo contínuo no tempo e no espaço, do qual
 fazemos parte e sob o qual temos responsabilidade, entendendo o impacto das tecnologias
@@ -2393,8 +1099,6 @@ desenvolvimento do conhecimento e na sociedade.
 Ementa:
 Teorias sobre a origem da vida, propriedades da vida, grandes domínios biológicos, evolução e
 relevância de vírus, procariontes e evolução das células eucarióticas. Noções de Sistemática
-
-Campus Restinga
 Biológica e linhagens evolutivas. Biodiversidade, padrões de organização e interações dos seres
 vivos nos ecossistemas. Funções vitais básicas dos seres vivos, com ênfase no ser humano. Saúde e
 suas relações com os contextos sócio-históricos e culturais. Equilíbrio dinâmico da vida: formas de
@@ -2404,21 +1108,6 @@ ecologia de ecossistemas, ciclos biogeoquímicos e biologia da conservação. Ed
 legislação ambiental, sustentabilidade, ética e desenvolvimento socialmente justo. Saneamento
 básico, saúde, resíduos e tecnologias ambientais. Alimentos, água, aquecimento global e tecnologia
 viva.
-Referências Básicas:
-PURVES, W.K et al. Vida: a ciência da biologia. 8ª ed. Porto Alegre: Artmed, 2009. V.1.
-PURVES, W.K et al. Vida: a ciência da biologia. 8ª ed. Porto Alegre: Artmed, 2009. V.2.
-ALBERTS, B. et al. Fundamentos da Biologia Celular. 2ª Ed. Porto Alegre: Artmed, 2006.
-PURVES, W.K et al. Vida: a ciência da biologia. 8ª ed. Porto Alegre: Artmed, 2009. V.3.
-Referências Complementares:
-DAWKINS, Richard. A grande história da evolução. Cia das Letras. São Paulo. 2004.
-HICKMAN, JR. C. P.; ROBERTS, L. S.; LARSON, A. Princípios integrados de Zoologia. 11ª
-ed. Rio de Janeiro: Guanabara Koogam, 2009.
-RAVEN, P. H.; EVERT R.F; EICHHORN, S. E. Biologia Vegetal. 7 ª ed. Rio de Janeiro:
-Guanabara Koogan, 2007.
-TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia. 8ª ed. Porto Alegre: Artmed,
-2005.
-TOWNSEND, C. R; BEGON, M.; HARPER, J. L. Fundamentos em Ecologia. 2ªed. Porto
-Alegre: Artmed, 2006.
 Componente Curricular: Física
 Ano: 3º ano
 Horas relógio: 66h
@@ -2429,22 +1118,6 @@ Propiciar ao aluno o conhecimento e a compreensão da hidrodinâmica, hidrostát
 termodinâmica, óptica e suas aplicações.
 Ementa:
 Hidrostática e hidrodinâmica, estudo da termologia, calorimetria, termodinâmica e óptica.
-Referências Básicas:
-GASPAR, A. Física: Série Brasil. volume único. São Paulo: Editora Ática, 2006
-MÁXIMO, A.; ALVARENGA, Beatriz. Física volume único. São Paulo: Scipione, 2008.
-
-Campus Restinga
-SAMPAIO, J. L.; CALÇADA, C. S. Física volume único. 2 ed. São Paulo: Editora Saraiva, 2005.
-Referências Complementares:
-PENTEADO, P. C. M.; TORRES, C. M..Física: ciência e tecnologia. Volume único. São Paulo:
-2005.
-FILHO, A. G. & TOSCANO, C. Física. Volume único. São Paulo: Editora Scpione, 2005.
-TORRES, C. M. A.; FERRARO N. G.; SOARES, P. A. T.; PENTEADO, P. C.M. Física, Ciência
-e Tecnologia. Vol. 3, Estudo do Calor, Óptica Geométrica e Fenômenos Ondulatórios. São
-Paulo: Editora Moderna, 2013.
-GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.; Física. Volume 2. São Paulo: Editora Ática,
-2014.
-XAVIER, C.; FILHO, B. B.; Física,Aula por Aula. Volume 2. São Paulo: Editora FTD, 2010.
 Componente Curricular: Química
 Ano: 3º ano
 Horas relógio: 66h
@@ -2459,21 +1132,8 @@ estrutura atômica; tabela periódica; ligações químicas; interações existe
 das substâncias químicas; reconhecimento, caracterização, energia e aspectos dinâmicos das
 transformações químicas; funções inorgânicas; grandezas químicas: massa e mol; estequiometria
 básica das transformações químicas.
-Referências Básicas:
-SANTOS, W. L. P.; MOL, G. S.; Química Cidadã. Volume 1. São Paulo: Nova Geração, 2010.
-SANTOS, W. L. P.; MOL, G. S.; Química e sociedade. São Paulo: Nova Geração, vol. único,
-2005.
-PERUZZO, T. M.; CANTO, E. L.; Química: na abordagem do cotidiano. vol. 1. São Paulo:
-Moderna, 2007.
-Referências Complementares:
-BIANCHI, J. C.; ABRECHT, C. H.; DALTAMIR, J. M.; Universo da química. São Paulo: FTD,
-2005.
-FELTRE, R. Fundamentos de Química. vol. 1. São Paulo: Moderna, 2008.
-CARVALHO, G.C.; Química Moderna. vol. único, São Paulo: Scipione, 2004.
-USBERCO, J. SALVADOR, E..Química vol. 1. São Paulo: Saraiva, 2006.
 
-Campus Restinga
-REIS, M.; Interatividade Química. vol único, São Paulo: FTD, 2003.
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Componente Curricular: Circuitos Elétricos II
 Ano: 3º ano
 Horas relógio: 100h
@@ -2491,26 +1151,6 @@ indutores, análise fasorial, potências real, reativa e aparente, o fator de po
 fator de potência em circuitos em regime de corrente alternada; circuitos polifásicos, tensão,
 corrente e potência em valores de pico e eficazes. Instrumentação: funcionamento, operação e
 aplicações de geradores de sinal e seu uso conjugado ao osciloscópio.
-Referências Básicas:
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente alternada. 2. ed. São
-Paulo, SP: Érica, 2007. ISBN 9788536501437.
-NAHVI, Mahmood; EDMINISTER, Joseph A. Teoria e problemas de circuitos elétricos. 5. ed.
-Porto Alegre, RS: Bookman, 2005. ISBN 9788536305516.
-IRWIN, J. David. Análise de circuitos em engenharia. 4. ed. São Paulo, SP: Pearson Education
-do Brasil, 2000. ISBN 9788534606936.
-Referências Complementares:
-ROBBINS, Allan; MILLER, Wilhelm. Análise de circuitos: teoria e prática. 2 v. Rio de Janeiro:
-Cengage Learning, 2010. ISBN 9788522106639 (v.2).
-AIUB, José Eduardo; FILONI, Enio. Eletrônica: eletricidade corrente contínua. 15. ed.. São
-Paulo, SP: Érica, 2007. ISBN 9788571948105
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente contínua. 21. ed. São
-Paulo, SP: Érica, 2008. ISBN 9788571941472.
-BOYLESTAD, Robert L. Introdução à análise de circuitos. 12. ed. São Paulo, SP: Prentice Hall,
-2012. ISBN 9788564574205
-ALEXANDER, Charles K.; SADIKU, Matthew N. O. Fundamentos de circuitos elétricos. xxii,
-5. ed. São Paulo, SP: McGraw-Hill, 2013. ISBN 9788580551723.
-
-Campus Restinga
 Componente Curricular: Eletrônica Analógica I
 Ano: 3º ano
 Horas relógio: 100h
@@ -2528,27 +1168,6 @@ Diodos. Circuitos com diodos convencionais: retificadores, ceifadores limitadore
 especiais, circuitos com diodos especiais. Transistores bipolares de junção e de efeito de campo:
 características, polarização e estabilidade térmica. Amplificadores de um e de diversos estágios
 empregando transistores.
-Referências Básicas:
-BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de circuitos.
-11. ed. São Paulo, SP: Pearson Education do Brasil, 2013. ISBN 9788564574212.
-MALVINO, Albert Paul; BATES, David J. Eletrônica: volume 1. 7. ed. São Paulo, SP: AMGH,
-2007. ISBN 9788577260225.
-MALVINO, Albert Paul; BATES, David J. Eletrônica: volume 2. 7. ed. São Paulo, SP: AMGH,
-2007. ISBN 9788577260232.
-Referências Complementares:
-MARQUES, Angelo Eduardo B.; CHOUERI JÚNIOR, Salomão; CRUZ, Eduardo Cesar
-Alves.Dispositivos semicondutores: diodos e transistores. 13. ed. São Paulo, SP: Érica, 2012.
-ISBN 9788571943179.
-SCHULER, Charles A. Eletrônica II. xviii, (Habilidades básicas em eletricidade, eletrônica e
-telecomunicações;) 7. ed. Porto Alegre, RS: AMGH, 2013. ISBN 9788580552126.
-SWART, J. Semicondutores: fundamentos, técnicas e aplicações. Campinas, SP: Ed. Unicamp,
-2008. ISBN 9788526808188.
-CRUZ, Eduardo Cesar Alves; CHOUERI JÚNIOR, Salomão. Eletrônica aplicada. São Paulo, SP:
-Érica, 2008. ISBN 9788536501505.
-FREITAS, Marcos Antônio Arantes de; MENDONÇA, Roberlam Gonçalves de. Eletrônica
-básica. Curitiba: Editora do Livro Técnico, 2010. ISBN 9788563687074.
-
-Campus Restinga
 Componente Curricular: Projeto Integrador III
 Ano: 3º ano
 Horas relógio: 33h
@@ -2556,6 +1175,8 @@ Horas-aula: 40h/a
 Aulas na semana: 1
 Objetivo geral do componente curricular:
 Ensinar e orientar sobre o desenvolvimento de um projeto que envolva o conhecimento de
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 múltiplas áreas com vistas a desenvolvimento de um produto levando em consideração o modelo
 de negócio e a elaboração de relatórios de acordo com metodologia científica.
 Ementa:
@@ -2563,25 +1184,6 @@ Trabalho de eletrônica que envolva interdisciplinaridade possuindo tema livre a
 tendo por base os conhecimentos adquiridos nos anos anteriores bem com os que serão adquiridos
 no ano corrente, utilizando a abordagem de modelo de negócio e proposta de valor (tais como
 Canvas, lean startup, designthinking ou makers, entre outros).
-Referências Básicas:
-ALBUQUERQUE, Rômulo Oliveira. Análise de circuitos em corrente alternada. 2. ed. São
-Paulo, SP: Érica, 2007. ISBN 9788536501437.
-BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de circuitos.
-11. ed. São Paulo, SP: Pearson Education do Brasil, 2013. ISBN 9788564574212.
-MONK, Simon. Programação Com Arduino - Começando Com Sketches. São Paulo: Bookman,
-2013.
-Referências Complementares:
-MARQUES, Angelo Eduardo B.; CHOUERI JÚNIOR, Salomão; CRUZ, Eduardo Cesar
-Alves.Dispositivos semicondutores: diodos e transistores. 13. ed. São Paulo, SP: Érica, 2012.
-ISBN 9788571943179.
-IRWIN, J. David. Análise de circuitos em engenharia. 4. ed. São Paulo, SP: Pearson Education
-do Brasil, 2000. ISBN 9788534606936.
-CERVO, Amando Luiz & BERVIAN, Pedro Alcino. Metodologia Científica. 4ª ed. São Paulo:
-MAKRON, 1996.
-CRUZ, Eduardo Cesar Alves; CHOUERI JÚNIOR, Salomão. Eletrônica aplicada. São Paulo, SP:
-Érica, 2008. ISBN 9788536501505.
-SCHILDT, Herbert. C completo e total. 3. ed. rev. atual. São Paulo, SP: Makron Books do Brasil,
-1996.
 Componente Curricular: Sistemas Embarcados
 Ano: 3º ano
 Horas relógio: 100h
@@ -2589,8 +1191,6 @@ Horas-aula: 120h/a
 Aulas na semana: 3
 Objetivo geral do componente curricular:
 Desenvolver a compreensão e competências relativas ao projeto, uso de ferramentas de
-
-Campus Restinga
 desenvolvimento e programação de sistemas embarcados microprocessados.
 Ementa:
 Sistemas embarcados; arquitetura de microprocessadores; endereçamento e conjunto de instruções;
@@ -2598,25 +1198,6 @@ organização de memória; portas, interrupções; timers e periféricos; princ�
 serial; programação de sistemas embarcados; ferramentas de desenvolvimento para sistemas
 embarcados; noções de sistemas críticos e de tempo real; noções de projeto de sistemas
 embarcados.
-Referências Básicas:
-NICOLOSI, Denys Emílio Campion; BRONZERI, Rodrigo Barbosa. Microcontrolador 8051
-com linguagem C: prático e didático família AT89S8252 Atmel. 2.ed. São Paulo, SP: Érica,
-2008.
-MONK, Simon. Programação com arduino: começando com sketches. Porto Alegre: Bookman,
-2013.
-PEREIRA, Fábio. Microcontroladores PIC: programação em C. 7. ed. São Paulo, SP: Érica,
-2007.
-Referências Complementares:
-NICOLOSI, Denys Emílio Campion. Microcontrolador 8051 detalhado. 9.ed. São Paulo, SP:
-Érica, 2013.
-BANZI, Massimo. Primeiros passos com o arduino. São Paulo, SP: Novatec, 2011. 151 p.
-ZANCO, Wagner da Silva. Microcontroladores PIC: técnicas de software e hardware para
-projetos de circuitos eletrônicos: com base no PIC16F877A. 2. ed. São Paulo, SP: Érica, 2008.
-SOUZA, David José de. Desbravando o PIC: ampliado e atualizado para PIC16F628A. 12. ed.
-São Paulo, SP: Érica, 2008.
-SCHILDT, Herbert. C completo e total. 3. ed. rev. atual. São Paulo, SP: Makron Books do Brasil,
-1996.
-4º ano
 Componente Curricular: Língua Estrangeira - Espanhol
 Ano: 4º ano
 Horas relógio: 33h
@@ -2626,8 +1207,6 @@ Objetivo geral do componente curricular:
 Possibilitar a compreensão e produção de textos orais e escritos sobre assuntos cotidianos ou
 familiares em nível pré-intermediário com alguma complexidade e com informação sobre
 necessidades básicas, introduzindo conhecimentos linguísticos, gramaticais, discursivos e culturais
-
-Campus Restinga
 previstos no conteúdo programático disposto.
 Ementa:
 Desenvolvimento da competência comunicativa através do estudo de estruturas básicas que
@@ -2638,21 +1217,9 @@ estrutura da língua em nível básico: usos e aplicações do artigo neutro “
 pretérito indefinido, pretérito perfeito composto, pretérito indefinido, heterotônicos,
 heterossemânticos, heterogenéricos, acentuação. Desenvolvimento simultâneo das habilidades de
 compreensão e produção oral e escrita.
-Referências Básicas:
-EGONZÁLES VEL, H.; OREJUDO, A. Mala suerte. São Paulo, SP: SantillanaEspañol, 2012
-MATTE BON, F. Gramática comunicativa delespañol. Tomos I y II. M, Madrid: Edelsa, 2011.
-URIÁ, F. Una mano enla arena. São Paulo, SP: SantillanaEspañol, 2012.
-Referências Complementares:
-AMENÓS, José; GIL-TORESANO, Manuela; SORIA, Inés. Agencia Ele – Manual de español.
-Níveles 1, 2 y 3. Madrid: SGEL, 2009.
-ARAGONÉS, Luís; PALENCIA, Ramón. Gramática de Uso delEspañol: teoria y práctica.
-Madrid: Ediciones SM, s.d.
-FERNÁNDEZ, Gretel Eres; MORENO, Concha. Gramática ContrastivadelEspañol para
-brasileños. Madrid: SgelEducación, 2005.
-GONZALES Hermoso, Alfredo. Conjugar es fácil enespañol de España y de América.2. ed.
-Madrid: Edelsa, 1999.
-TORREGO, Leonardo Gómez. Gramática didácticadelespañol. Madrid: Ediciones SM, 1999.
 Componente Curricular: Língua Portuguesa e Literatura
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Ano: 4º ano
 Horas relógio: 100h
 Horas-aula: 120h/a
@@ -2665,21 +1232,6 @@ Redação de vestibular: exposição e argumentação nos vestibulares. Consist�
 organicidade, clareza, coesão e coerência, criticidade. Leitura, interpretação e produção de textos
 sob o enfoque dos gêneros do discurso. Análise sintática do período composto, nexos, semântica.
 Literatura brasileira: Literatura Contemporânea.
-
-Campus Restinga
-Referências Básicas:
-ABAURRE, M. L.; ABAURRE, M.B. Produção de texto: interlocução e gêneros. São Paulo:
-Editora Moderna, 2007.
-AMARAL, Emília et al. Novas palavras. 2 ed. Renovada. São Paulo: FTD, 2005. v.3.
-BECHARA, E. Gramática Escolar da Língua Portuguesa. Rio de Janeiro: Nova fronteira, 2010.
-Referências Complementares:
-CEREJA, William Roberto; MAGALHÃES, Tereza Cochar. Português: linguagens. São Paulo:
-Atual, 2003.
-FARACO, C.A.; TEZZA, C. Oficina de Texto. Petrópolis, RJ: Vozes, 2003.
-GONZAGA, Sergius. Manual de Literatura Brasileira. Ed. Leitura XXI, 2009.
-PLATÃO, F. e FIORIN, J. L. Para entender o texto: leitura e redação. São Paulo: Ática, 2002.
-TORRALVO, Izeti Fragata; MINCHILLO, Carlos Cortez. Linguagem em movimento:
-Literatura, gramática e redação. São Paulo: FTD, 2008. v.1.
 Componente Curricular: História
 Ano: 4º ano
 Horas relógio: 33h
@@ -2699,24 +1251,6 @@ territorial no meio rural; regimes políticos totalitários na Europa; política
 ditaduras militares na América Latina; ideologias em jogo: capitalismo x comunismo ; movimentos
 de guerrilha anti-imperialista na América Latina (zapatistas, tupamaros, montoneros, sandinistas,
 FARC, Sendero Luminoso, entre outros).
-Referências Básicas:
-AVRITZER, Leonardo et al. (org.). Dimensões políticas da justiça. 1. ed. Rio de Janeiro, RJ:
-Civilização Brasileira, 2013.
-FAUSTO, Sérgio (Org.). Difícil democracia. São Paulo, SP: Paz e Terra, 2010.
-WASSERMAN, Claudia. Ditaduras militares na América Latina. Porto Alegre, RS: UFRGS,
-
-Campus Restinga
-2004.
-Referências Complementares:
-CARVALHO, José Murilo de. Os Bestializados: O Rio de Janeiro e a República que não foi. São
-Paulo. Companhia das Letras, 1987.
-CARVALHO, José Murilo de. Cidadania no Brasil.O longo Caminho. 3ª ed. Rio de Janeiro:
-Civilização Brasileira, 2002.
-FAORO, Raymundo. Os Donos do Poder- formação do patronato político brasileiro. Porto
-Alegre, Editora Globo, 1958.
-FAORO, Raymundo. Existe um pensamento político brasileiro? São Paulo, Ática, 1994.
-FOUCAULT, Michel. Microfísica do poder. Organização e tradução de Roberto Machado. Rio de
-Janeiro: Edições Graal, 1979.
 Componente Curricular: Geografia
 Ano: 4º ano
 Horas relógio: 33h
@@ -2727,25 +1261,11 @@ Refletir acerca da relação entre sociedade, produção agrária e impactos da 
 processos industriais, em escalas regionais, nacionais e globais.
 Ementa:
 Tendências atuais da agricultura mundial. Políticas agrícolas. Organizaçãodo espaço agrário.
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Revolução tecnológica e produção de alimentos. Conflitos emovimentos sociais no campo. A
 estrutura fundiária no Brasil. A indústria no mundo atual.As revoluções tecnológicas. Os sistemas
 de organização e produção industrial. A indústriano Brasil. Telecomunicações e transportes.
-Referências Básicas:
-ADAS, Melhem. Panorama Geográfico do Brasil. Editora Moderna. São Paulo. 2004.
-SENE, Eustáquio de. Globalização e espaço geográfico. 4. ed. São Paulo, SP: Contexto, 2014.
-174 p. ISBN 9788572442374.
-SPOSITO, Maria Encarnação Beltrão. Capitalismo e urbanização. São Paulo, SP: Contexto,
-1988. 80 p. (Repensando a geografia). ISBN 9788585134273.
-Referências Complementares:
-BARBOSA, Alexandre Freitas. O mundo globalizado. São Paulo. Contexto, 2001.
-BECKOUCHE, Pierre. Indústria – um só mundo. São Paulo. Ática. 1995.
-BRANCO, Adriano Murgel (org.) Política energética e crise de desenvolvimento. Editora Paz e
-Terra. São Paulo/Rio de Janeiro. 2002.
-CHOSSUDOVSKY, Michel. A globalização da pobreza. São Paulo: Moderna. 1999.
-DASHEFSKY, H. Esteven. Dicionário de educação ambiental – um guia de A a Z. Editora Gaia.
-
-Campus Restinga
-São Paulo. 2001.
 Componente Curricular: Filosofia
 Ano: 4º ano
 Horas relógio: 33h
@@ -2759,21 +1279,6 @@ contemporâneas.
 Ementa:
 Relações Humanas: O conhecer a si mesmo e o pensamento de Sócrates; conhecer o outro; respeito
 às diferenças;reflexões: motivação, liderança e cooperação x alienação.
-Referências Básicas:
-ARANHA, Maria L. de Arruda. Filosofando: introdução à filosofia. São Paulo: Moderna, 2006.
-CHAUÍ, Marilena. Convite à filosofia. 13 ed. São Paulo: ática, 2008.
-MARCONDES, Danilo. Textos básicos de filosofia: dos pré-socráticos a Wittgenstein. 5 ed.
-Rio de Janeiro: Jorge Zahar Ed., 2007.
-Referências Complementares:
-HÖSLE, Vitório e Nora K. O café dos Filósofos mortos. 2 ed. São Paulo: Ed. Angra, 2003.
-IRWIN, William (org.). Super-heróis e a filosofia. São Paulo: Madras, 2009.
-BOFF, Leonardo. Ética e moral: a busca dos fundamentos. Petrópolis: Vozes, 2009.
-VÁZQUEZ, Adolfo Sanches. Ética. Rio de Janeiro: Civilização Brasileira, 2003.
-NARDI, Henrique Caetano. Ética, trabalho e subjetividade: trajetórias de vida o contexto das
-transformações do capitalismo contemporâneo. Porto Alegre: Editora da UFRGS, 2006.
-SÁTIRO, Angélica e WUENSCH, Ana M. Pensando Melhor- Iniciação ao Filosofar. - São
-Paulo: Saraiva, 1997.
-SÁTIRO, Angélica. Com diálogos, relatos e reflexões. - Belo Horizonte: Cultura, 1998.
 Componente Curricular: Sociologia
 Ano: 4º ano
 Horas relógio: 33h
@@ -2784,8 +1289,6 @@ Oportunizar aos estudantes a compreensão da sociedade, sua gênese e suas trans
 como osmúltiplos fatores que nela intervêm como produto da ação humana; a si como agente
 social; e osprocessos sociais como orientadores da dinâmica dos diferentes grupos de indivíduos,
 focando na compreensão e identificaçãodas ideologias presentes nas acepções da cultura que
-
-Campus Restinga
 possuímos.
 Ementa:
 Conceitos básicos para a compreensão da vida social;comunidade, cidadania e minorias;
@@ -2794,19 +1297,6 @@ sociológicos emergentes no Brasil e no Mundo; as questões sociais;o papel do i
 sociedade;trabalho e sociedade;cooperativismo;as desigualdades sociais. Política e sociedade: as
 formas do Estado: O Estado Absolutista; Cultura e Ideologia: Conceitos de cultura e ideologia;
 movimentos Sociais.
-Referências Básicas:
-ARON, Raymond. As etapas do pensamento sociológico. Rio de Janeiro: Martins Editora, 1982.
-OLIVEIRA, P.S. Introdução à Sociologia. Volume único. São Paulo: Editora Ática, São Paulo
-2001.
-TOMAZI, Nelson Dacio. Sociologia para o Ensino Médio. São Paulo: Atual, 2007.
-Referências Complementares:
-ELIAS, Norbert. Introdução à sociologia. Lisboa, 1970.
-GIDDENS, Anthony. As consequências da modernidade. São Paulo: Unesp, 1991.
-MAY, Tim. Pesquisa Social. Questões, métodos e processos. 3. ed. Porto Alegre: Artmed, 2004.
-MANNHEIM, Karl. “O problema das gerações”. In: Sociologia do conhecimento, Vol. II,
-Porto, RES-Editora, 1928.
-WALLERSTEIN, I. Capitalismo histórico e civilização capitalista. Rio de Janeiro: Contraponto,
-2001.
 Componente Curricular: Matemática
 Ano: 4º ano
 Horas relógio: 66h
@@ -2814,26 +1304,11 @@ Horas-aula: 80h/a
 Aulas na semana: 2
 Objetivo geral do componente curricular:
 Capacitar o discente a trabalhar com dados ordenados ou não, probabilísticos e estatísticos.
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Ementa:
 Progressões Aritméticas e Geométricas. Análise Combinatória. Probabilidade. Noções de
 estatística.
-Referências Básicas:
-CRESPO, AntonioArnot. Estatística fácil. 19. ed. São Paulo, SP: Saraiva, 2009. 218 p. ISBN
-9788502081062.
-DANTE, L. R. Matemática. Volume Único. São Paulo: Ática, 2003.ISBN 9788508098019.
-GIOVANNI, José Ruy; BONJORNO, José Roberto; GIOVANNI JÚNIOR, José Ruy. Matemática
-fundamental: uma nova abordagem. São Paulo, SP: FTD, 2002. 712 p. ISBN 8532248470.
-Referências Complementares:
-
-Campus Restinga
-BONATTO, Alexsandro Cristóvão (Org.); ROBALINHO, Eric et al. Curso de pré-cálculo. Porto
-Alegre, RS: IFRS Campus Restinga, 2016. 89 p. ISBN 9788566309058.
-IEZZI, Gelson et al. Matemática: volume único. 5. ed. São Paulo, SP: Atual, 2011. 720 p. ISBN
-9788535714319.
-PAIVA, Manoel. Matemática. PNLEM, 2006. ISBN 9788516068301.
-LAPPONI, Juan Carlos. Estatística usando Excel. 4. ed. rev. e atual. Rio de Janeiro, RJ:
-Elsevier, 2005. xvi, 476 p. ISBN 8535215743.
-YOUSSEF, A. N. et al. Matemática. Volume único. São Paulo: Scipione, 2009.
 Componente Curricular: Biologia
 Ano: 4º ano
 Horas relógio: 66h
@@ -2855,24 +1330,6 @@ organismos a diferentes ambientes. Ecologia e ciências ambientais – Fundament
 Ecologia de Populações. Ecologia de Comunidades. Ecossistemas e Ecologia global. Biologia da
 Conservação. Tecnologias ambientais. Noções de saneamento básico. Noções de legislação
 ambiental.
-Referências Básicas:
-ALBERTS, B. et al. Fundamentos da Biologia Celular. 2ª Ed. Porto Alegre: Artmed, 2006.
-PURVES, W.K et al. Vida: a ciência da biologia. 8ª ed. Porto Alegre: Artmed, 2009. V.2.
-PURVES, W.K et al. Vida: a ciência da biologia. 8ª ed. Porto Alegre: Artmed, 2009. V.3.
-Referências Complementares:
-DAWKINS, Richard. A grande história da evolução. Cia das Letras. São Paulo. 2004.
-GRIFFITHS, A. J. F. et al. Introdução à Genética. 9 ª ed. Rio de Janeiro: Guanabara-Koogan,
-2009.
-
-Campus Restinga
-MICKLOS, D. A.; FREYER, G. A.; CROTTY, D. A. A Ciência do DNA. 2a ed. Porto Alegre:
-Artmed, 2005.
-HICKMAN, JR. C. P.; ROBERTS, L. S.; LARSON, A. Princípios integrados de Zoologia. 11ª
-ed. Rio de Janeiro: Guanabara Koogam, 2009.
-RAVEN, P. H.; EVERT R.F; EICHHORN, S. E. Biologia Vegetal. 7 ª ed. Rio de Janeiro:
-Guanabara Koogan, 2007.
-SCHMIDT-NIELSEN, K. Fisiologia Animal. Adaptação e meio ambiente. 5ª ed. São Paulo:
-Livraria Santos, 2002.
 Componente Curricular: Física
 Ano: 4º ano
 Horas relógio: 66h
@@ -2886,26 +1343,12 @@ elétrica; resistência elétrica, capacitores e indutores; voltímetro, amperí
 multímetro; efeitos da corrente elétrica; circuitos elétricos: série, paralelo e misto; potência
 elétrica; consumo de energia elétrica; fontes de energia elétrica. Dispositivos eletrônicos básicos:
 resistores, capacitores.
-Referências Básicas:
-GASPAR, A. Física: Série Brasil. volume único. São Paulo: Editora Ática, 2006.
-MÁXIMO, A.; ALVARENGA, B..Física, volume único. São Paulo: Scipione, 2008.
-SAMPAIO, J. Luiz; CALÇADA, C. S..Física, volume único. São Paulo 2005.
-Referências Complementares:
-PENTEADO, P. C. M.; TORRES, C. M..Física: ciência e tecnologia. Volume único. São Paulo:
-2005.
-GONÇALVES FILHO, A.; TOSCANO, C. Física, volume único. São Paulo: Editora Scpione,
-2005.
-TORRES, C. M. A.; FERRARO N. G.; SOARES, P. A. T.; PENTEADO, P. C.M. Física, Ciência
-e Tecnologia. Vol. 3, Eletromagnetismo e Física Moderna. São Paulo: Editora Moderna, 2013.
-GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.; Física. Volume 3. São Paulo: Editora Ática,
-2014.
-XAVIER, C.; FILHO, B. B.; Física, Aula por Aula. Volume 3. São Paulo: Editora FTD, 2010.
 Componente Curricular: Química
 Ano: 4º ano
-
-Campus Restinga
 Horas relógio: 66h
 Horas-aula: 80h/a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Aulas na semana: 2
 Objetivo geral do componente curricular:
 Realizar movimentos de ensino e aprendizagem que relacione os conhecimentos químicos ao
@@ -2915,19 +1358,6 @@ Soluções no cotidiano; aspectos essenciais das reações químicas: estequiome
 termoquímica, cinética química e equilíbrio químico. Aspectos essenciais dos compostos
 orgânicos: estudo das funções orgânicas, propriedades e usos dos compostos orgânicos de
 importância sociocientífica.
-Referências Básicas:
-SANTOS, W. L. P.; MOL, G. S.; Química Cidadã. Volume 2. São Paulo: Nova Geração, 2010.
-SANTOS, W. L. P.; MOL, G. S.; Química Cidadã. Volume 3. São Paulo: Nova Geração, 2010.
-SANTOS, W. L. P.; MOL, G. S.; Química e sociedade. São Paulo: Nova Geração, vol. único,
-2005.
-Referências Complementares:
-BIANCHI, J. C.; ABRECHT, C. H.; DALTAMIR, J. M.; Universo da química. São Paulo: FTD,
-2005.
-PERUZZO, T. M.; CANTO, E. L.; Química: na abordagem do cotidiano. vol. 2. São Paulo:
-Moderna, 2007.
-USBERCO, J. SALVADOR, E.;.Química vol. 2. São Paulo: Saraiva, 2006.
-LEMBO, A. Química: realidade e contexto. Vol 1-2-3, São Paulo: Ática, 2004.
-REIS, M.; Interatividade Química. vol único, São Paulo: FTD, 2003.
 Componente Curricular: Eletrônica Analógica II
 Ano: 4º ano
 Horas relógio: 100h
@@ -2942,26 +1372,6 @@ Amplificadores diferenciais discretos e suas características;amplificadores ope
 configurações em circuitos amplificadores;funcionamento dos amplificadores operacionais;
 configurações em circuitos amplificadores; aplicações lineares e não lineares. Montagem e análise
 de circuitos com amplificadores operacionais em matriz de contato e placa de circuito impresso.
-Referências Básicas:
-
-Campus Restinga
-PERTENCE JUNIOR, Antonio. Eletrônica analógica: amplificadores operacionais e filtros
-ativos. 8. ed. Porto Alegre, RS: Bookman, 2015. ISBN 9788582602768.
-MALVINO, Albert Paul; BATES, David J. Eletrônica: volume 1.7. ed. São Paulo, SP: AMGH,
-2007. ISBN 9788577260225.
-MALVINO, Albert Paul; BATES, David J.Eletrônica: volume 2. 7. ed.São Paulo, SP: AMGH,
-2007. ISBN 9788577260232
-Referências Complementares:
-SCHULER, Charles A. Eletrônica I. xviii, (Habilidades básicas em eletricidade, eletrônica e
-telecomunicações;) 7. ed. Porto Alegre, RS: AMGH, 2013. ISBN 9788580552102.
-SCHULER, Charles A. Eletrônica II. xviii, (Habilidades básicas em eletricidade, eletrônica e
-telecomunicações;) 7. ed. Porto Alegre, RS: AMGH, 2013. ISBN 9788580552126.
-SWART, J. Semicondutores: fundamentos, técnicas e aplicações.Campinas, SP: Ed. Unicamp,
-2008. ISBN 9788526808188.
-BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de circuitos.
-11. ed. São Paulo, SP: Pearson Education do Brasil, 2013. ISBN 9788564574212.
-FREITAS, Marcos Antônio Arantes de; MENDONÇA, Roberlam Gonçalves de. Eletrônica
-básica. 272 p. Curitiba: Editora do Livro Técnico, 2010. ISBN 9788563687074.
 Componente Curricular: Eletrônica de Potência
 Ano: 4º ano
 Horas relógio: 100h
@@ -2977,32 +1387,11 @@ CA-CC (retificadores) não controlados e controlados em sistemas monofásicos e 
 conversores CC-CC conversores CA-CA (inversores de frequência). Motores elétricos de corrente
 contínua e corrente alternada. Funcionamento de controladores lógico programáveis (CLPs) para
 acionamento e controle de plantas industriais e sua programação.
-Referências Básicas:
-AHMED, Ashfaq. Eletrônica de potência. São Paulo, SP: Pearson Prentice Hall, 2000. ISBN
-9788587918031.
-MELLO, Luiz Fernando Pereira de. Projetos de fontes chaveadas: teoria e prática. 1. ed. São
-Paulo, SP: Érica, 2011. ISBN 9788536503370
-
-Campus Restinga
-SANTOS, Winderson Eugenio dos. Controladores lógicos programáveis (CLPs). (Educação
-Profissional; Ensino Médio Técnico). Curitiba, PR: Base Editorial, 2010. ISBN 9788579055737.
-Referências Complementares:
-UMANS, Stephen D. Máquinas elétricas de Fitzgerald e Kingsley's. xv, 7. ed. Porto Alegre, RS:
-AMGH, 2014. ISBN 9788580553734.
-ARRABAÇA, Devair Aparecido; GIMENEZ, Salvador P. Eletrônica de potência:
-conversores de energia (CA/CC): teoria, prática e simulação. 1. ed. (broch.) São Paulo, SP:
-Érica, 2011. ISBN 9788536503714.
-ALBUQUERQUE, Rômulo Oliveira; SEABRA, Antônio Carlos.
-Utilizando eletrônica com
-AO, SCR, TRIAC, UJT, PUT, CI 555, LDR, LED, IGBT e FET de potência. São Paulo, SP:
-Érica, 2012. ISBN 9788536502565.
-HART, Daniel W. Eletrônica de potência: análise e projetos de circuitos. Porto Alegre, RS: Mc
-Graw-Hill, 2012. ISBN 9788580550450.
-THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B. de. Sensores industriais: fundamentos e
-aplicações. 8. ed. rev. e atual. São Paulo, SP: Érica, 2011. ISBN 9788536500713.
 Componente Curricular: Projeto Integrador IV
 Ano: 4º ano
 Horas relógio: 33h
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Horas-aula: 40h/a
 Aulas na semana: 1
 Objetivo geral do componente curricular:
@@ -3013,26 +1402,6 @@ Ementa:
 Trabalho de eletrônica que envolva interdisciplinaridade possuindo tema livre a ser elaborado
 tendo por base os conhecimentos adquiridos nos anos anteriores bem com os que serão adquiridos
 no ano corrente.
-Referências Básicas:
-NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Pearson Education do Brasil,
-2000. ISBN 8534611130.
-PERTENCE JUNIOR, Antonio. Eletrônica analógica: amplificadores operacionais e filtros
-ativos. 8. ed. Porto Alegre, RS: Bookman, 2015. ISBN 9788582602768.
-AHMED, Ashfaq. Eletrônica de potência. São Paulo, SP: Pearson Prentice Hall, 2000. ISBN
-9788587918031.
-Referências Complementares:
-ARNAVAT, A. R. DUEÑAS, G. C. Como elaborar e apresentar teses e trabalhos de pesquisa.
-
-Campus Restinga
-Editora Penso. 2006.
-BARROS, A. J. P. L. SOUZA, N. A. Como escrever textos técnicos. São Paulo. Thomson
-Learning. 2007.
-CARVALHO, Rogerio Muniz. Comunicações analógicas e digitais. Rio de Janeiro, RJ: LTC,
-2009. ISBN 9788521616986.
-UMANS, Stephen D. Máquinas elétricas de Fitzgerald e Kingsley's. xv, 7. ed. Porto Alegre, RS:
-AMGH, 2014. ISBN 9788580553734.
-BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de circuitos.
-11. ed. São Paulo, SP: Pearson Education do Brasil, 2013. ISBN 9788564574212.
 Componente Curricular: Sistemas de Comunicação
 Ano: 4º ano
 Horas relógio: 66h
@@ -3048,29 +1417,6 @@ sistemas analógicos e digitais, espectro de rádio frequência e canal de comun
 de antenas. Princípios dos Sistemas de Televisão analógica e digital. Barramentos industriais de
 controle: I2C, SPI, GPIB, MODBUS, FIELBUS e CANBUS. Fundamentos de Redes de
 computadores. Instrumentação: utilização do analisador de espectro.
-Referências Básicas:
-NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo, SP: Pearson Education do Brasil,
-2000. ISBN 8534611130.
-CARVALHO, Rogerio Muniz. Comunicações analógicas e digitais. Rio de Janeiro, RJ: LTC,
-2009. ISBN 9788521616986.
-ALENCAR, Marcelo Sampaio de. Televisão digital. 2. ed. rev. atual. São Paulo, SP: Érica, 2012.
-ISBN 9788536501482.
-
-Campus Restinga
-Referências Complementares:
-LUGLI, Alexandre Baratella; SANTOS, Max Mauro Dias. Redes industriais para automação
-industrial: AS-I, PROFIBUS e PROFINET. 1. ed. São Paulo, SP: Érica, 2010. ISBN
-9788536503288.
-LUGLI, Alexandre Baratella; SANTOS, Max Mauro Dias. Sistemas fieldbus para automação
-industrial: deviceNet, CANopen, SDS e Ethernet. São Paulo, SP: Érica, 2009. ISBN
-9788536502496.
-RIBEIRO, José Antônio Justino. Propagação das ondas eletromagnéticas: princípios e
-aplicações. 2. ed. São Paulo, SP: Érica, 2008. ISBN 9788571949935.
-HAYKIN, Simon S.; MOHER, Michael. Sistemas de comunicação. 5. ed.
-Porto Alegre,
-RS: Bookman, 2011. ISBN 9788577807253.
-SOARES NETO, Vicente. Telecomunicações: sistemas de modulação: uma visão sistêmica. 3.
-ed. rev. atual. ampl. São Paulo, SP: Érica, 2012. ISBN 9788536503875.
 6.3 Estágio Curricular
 A realização de estágios obedece a Instrução Normativa do Campus Restinga
 004/2014, em anexo ao PPC.
@@ -3082,17 +1428,20 @@ objetivo fundamental a aplicação do conhecimento adquirido pelo aluno em sua f
 técnica. Tem como fundamento para a sua prática a observância dos dispostos na Lei de
 Diretrizes e Bases da Educação (9.394/96) e na nova Lei de Estágios (11.788/08).
 Os critérios estabelecidos para a realização do Estágio Curricular são:
-●
+G
 O aluno poderá iniciar o estágio a partir do 4º período letivo do curso (4º ano),
 desde que, esteja matriculado e cursando os componentes curriculares deste
 período.
-●
+G
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 O estágio poderá ser realizado em instituições e empresas públicas ou privadas,
 incluindo o próprio IFRS – Campus Restinga.
 A cada estudante matriculado no estágio curricular obrigatório, será designado um
 professor orientador. O orientador será indicado pela instituição e deve ser da área técnica do
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+6.3 A 6.11 — ESTÁGIO, AVALIAÇÃO, METODOLOGIAS E ACOMPANHAMENTO
 curso. Segundo a Instrução Normativa 4/2014 do Campus Restinga, ao professor orientador
 compete acompanhar o estágio por meio de:
 I.
@@ -3133,16 +1482,16 @@ vida profissional, atenuando o impacto dessa transformação e sendo a base de
 emancipação e autonomia do estagiário;
 XII.
 Participar das reuniões e atividades relativas ao estágio.
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Quanto à avaliação do estágio curricular obrigatório, serão utilizados os seguintes
 instrumentos em consonância com a Instrução Normativa 4/2014 do Campus Restinga e com
 a Lei Federal 11.788 de 2008:
-●
+G
 Avaliação realizada pelo orientador do estágio;
-●
+G
 Avaliação de desempenho realizada pela concedente do estágio;
-
-Campus Restinga
-●
+G
 Auto avaliação do estudante.
 6.3.2 Não obrigatório
 Conforme a Lei nº 11.788, de 25 setembro de 2008, que dispõe sobre o estágio de
@@ -3171,13 +1520,13 @@ Este curso não possui estágio curricular não obrigatório em sua grade curric
 A avaliação do processo de ensino-aprendizagem apresenta a dinâmica estabelecida no
 que diz a respeito à avaliação desse processo, os possíveis instrumentos avaliativos
 explicitando a forma de expressão dos resultados e a periodicidade. Deve pautar-se nos
-
-Campus Restinga
 princípios do PPI do IFRS, na função social do Instituto, nos objetivos e perfil pretendido
 para os egressos do curso.
 A avaliação intenciona mediar e colaborar com o processo ensino-aprendizagem, tanto
 individual quanto coletivamente, desenvolvendo estratégias educacionais que contribuam com
 a efetividade do direito a aprender. Deve ser contínua e cumulativa, assumindo, de forma
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 integrada, no processo ensino-aprendizagem, as funções diagnóstica, processual, formativa,
 somativa, emancipatória e participativa, com preponderância dos aspectos qualitativos sobre
 os quantitativos. A avaliação dos aspectos qualitativos compreende, além da apropriação de
@@ -3197,17 +1546,15 @@ apenas a primeira decimal. A média de cada disciplina deve ser composta de ao m
 avaliações, sendo pelo menos uma delas individual. Ressalvada a frequência mínima exigida
 por lei, são considerados na verificação do aproveitamento dos estudantes, em qualquer
 componente do curso, os seguintes critérios:
-●
+G
 Média das notas do trimestre;
-●
+G
 Exame final
 As notas obtidas em diferentes etapas para a aprovação são aquelas definidas pela
 Organização Didática do IFRS, tanto no transcurso regular do ano letivo, quanto nos exames.
 Para os casos de ausências justificadas nos processes avaliativos aqui referidos serão
 oportunizados novos momentos para o(a) estudante realizá-los, na garantia de seus direitos
 legais.
-
-Campus Restinga
 6.4.1 Da Recuperação Paralela
 Os estudos de recuperação paralela se darão conforme a Organização Didática do
 IFRS, sendo estimulada na instituição, garantida para o estudante e entendida como
@@ -3221,6 +1568,8 @@ Didática do IFRS.
 Os critérios de aproveitamento de estudos são aqueles previstos na Organização
 Didática do IFRSe são contemplados nesse PPC.
 6.5.1 Da mobilidade acadêmica.
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 A mobilidade acadêmica também está prevista Organização Didática, com
 aproveitamento de estudos. Essa prática está regulamentada pelas IN PROEN 005 e 006/2017,
 quando a nível nacional e, quando internacional, normatizada pela IN PROEN/PROEX
@@ -3236,8 +1585,6 @@ Médio as metodologias de mobilização da aprendizagem serão primordialmente r
 às práticas de pesquisa e extensão, desconstruindo a ideia da necessidade de acúmulo de
 conhecimentos para viabilizar a ação. Objetiva-se proporcionar experiências significativas e
 desafiantes, que favoreçam a iniciativa e a curiosidade como dispositivos para produção de
-
-Campus Restinga
 conhecimento. As metodologias buscam a formulação de ideias e de problemas com os
 discentes, a partir do “re”encontro destes com suas realidades cotidianas de modo
 investigativo e participante e pressupõe a intervenção direta dos estudantes na elaboração e no
@@ -3264,10 +1611,10 @@ Os Institutos Federais apresentam em sua premissa básica a perspectiva de
 indissociabilidade entre ensino, pesquisa e extensão (BRASIL, 2010; IFRS, 2012). Essa
 realidade não é apenas possibilitada a professores, que devem atuar de forma integrada e
 verticalizada entre os diferentes níveis e modalidades de ensino, mas também oportuniza que
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 todos os estudantes possam usufruir dos espaços constituídos e, assim, possam contribuir para
 a construção de uma visão de mundo e de sociedade mais complexa.
-
-Campus Restinga
 Desta maneira, será ofertada aos estudantes a possibilidade de participação em
 projetos de ensino, pesquisa e extensão, de forma a complementar a sua formação ou, ainda,
 aprofundar os conhecimentos adquiridos de acordo com seus interesses.
@@ -3301,14 +1648,14 @@ mensal da frequência e ações de busca ativa aos infrequentes), o Setor de Ens
 ativamente das reuniões pedagógicas de curso, das reuniões por área, reuniões do colegiado,
 comissões e grupos de trabalho institucionais, como forma de acompanhar pedagogicamente
 não somente os docentes e discentes, mas os processos escolares como um todo.
-
-Campus Restinga
 O Setor de Extensão responsabiliza-se pela orientação dos estudantes no que diz
 respeito às questões relativas às atividades dos mesmos enquanto extensionistas e tem a seu
 encargo as atividades e projetos de consecução do curso, bem como os estágios não
 curriculares. O Setor de Pesquisa tem como atribuição a orientação dos estudantes no que se
 refere às atividades de iniciação científica e de bolsas direcionadas a projetos específicos.
 O IFRS possui as Políticas de Assistência Estudantil, de Ações Afirmativas e de
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Inclusão e assumem um papel fundamental no cotidiano da instituição. A Assistência
 Estudantil contribui para a promoção da inclusão social e da minimização dos efeitos das
 desigualdades sociais e regionais dos diferentes contextos da educação profissional e
@@ -3335,16 +1682,14 @@ articuladas com os três núcleos: NAPNE (Núcleo de Atendimento às Pessoas com
 Deficiência); NEABI (Núcleo de Estudos Afro-brasileiros e Indígenas) e NEPGS (Núcleo de
 Estudos e Pesquisas em Gênero e Sexualidade).
 Os núcleos destacam-se pelas açõesinclusivas, e buscam:
-
-Campus Restinga
-●
+G
 Inserir as Pessoas com Deficiência
 na instituição, a sua permanência e saída exitosa
 para o mundo do trabalho;
-●
+G
 A valorização étnico-racial, em especial à população negra e as comunidades
 indígenas, no âmbito da instituição e em suas relações com a comunidade externa;
-●
+G
 O combate à homofobia, buscando o respeito à diferença e a diversidade e a remoção
 de todos os tipos de barreiras e formas de discriminação, com ênfase nas temáticas
 corpo, gênero e sexualidade.
@@ -3352,6 +1697,8 @@ O Núcleo de Atendimento às Pessoas com Necessidades articula pessoas e setores
 para promover na instituição a cultura da “educação para a convivência”, que é a aceitação da
 diversidade e, principalmente, a busca pela quebra das barreiras arquitetônicas, educacionais,
 de comunicação e atitudinais. O NAPNE é responsável por adaptar materiais didáticos para
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 alunos com necessidades especiais; subsidiar servidores no que se refere a assuntos
 relacionados à educação inclusiva; promover acessibilidade física e virtual no Campus
 Restinga; pesquisar assuntos relacionados à acessibilidade; entre outras ações.
@@ -3372,8 +1719,6 @@ consultorias; discussões; debates.
 O IFRS, possui uma Coordenadoria de Educação a Distância – na Reitoria, e um site
 específico(http://ead.ifrs.edu.br), no qual todos os servidores e estudantes podem buscar
 maiores informações sobre Educação à Distância, no âmbito do Instituto.
-
-Campus Restinga
 No âmbito do Campus Restinga, o Núcleo de Educação a Distância (NEAD) é uma
 unidade vinculada à Direção de Ensino, com competência para implementar políticas e
 diretrizes para a Educação a Distância (EaD), estabelecidas no âmbito da instituição.
@@ -3395,6 +1740,8 @@ Distância e uso de TICs;
 usadas no Ensino a Distância.
 O NEAD, desta forma, articula ações que capacitam aos professores do Campus
 ministrarem Componentes Curriculares a distância em todos os Cursos que possuem a
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 previsão dessa oferta em seus Projetos Pedagógicos de Curso.
 6.11 Colegiado do Curso
 O Órgão Colegiado de Curso será composto pela coordenação do curso, pelos
@@ -3404,7 +1751,8 @@ Tem por finalidade acompanhar a implementação do projeto pedagógico, avaliar 
 dos currículos, discutir temas ligados ao curso, planejar e avaliar as atividades acadêmicas do
 curso, observando-se as políticas e normas do IFRS.
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+7 QUADRO DE PESSOAL / CORPO DOCENTE
 7 QUADRO DE PESSOAL
 7.1 Corpo docente
 Nome - Endereço Eletrônico
@@ -3445,6 +1793,8 @@ CassianaGrigoletto
 Área: Linguagens
 Cassiana.grigoletto@restinga.ifrs.edu.br
 Titulação em 2017: Doutora
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Cassius UgarteSardíglia
 Área: Biologia
 cassius.ugarte@restinga.ifrs.edu.br
@@ -3465,8 +1815,6 @@ Daniela Sanfelice
 Área: Biologia
 daniela.sanfelice@osorio.ifrs.edu.br
 Titulação em 2017: Doutora
-
-Campus Restinga
 Diana Vega Marona
 Área: Matemática
 diana@colegiostellamaris.com.br
@@ -3488,6 +1836,8 @@ Eliana Beatriz Pereira
 eliana.pereira@restinga.ifrs.edu.br
 Titulação em 2017: Doutora
 Elizandra Martinazzi
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Área: Física
 elizandra.martinazzi@restinga.ifrs.edu.br
 Titulação em 2017: Doutora
@@ -3529,12 +1879,12 @@ helen.cardoso@restinga.ifrs.edu.br
 Titulação em 2017: Doutora.
 Jean Carlo Hamerski
 Área: Informática
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 jean.hamerski@restinga.ifrs.edu.br
 Titulação em 2017: Mestre
 Jezer Machado de Oliveira
 Área: Informática
-
-Campus Restinga
 jezer.oliveira@restinga.ifrs.edu.br
 Titulação em 2017: Mestre
 João Roberto Gabbardo
@@ -3572,6 +1922,8 @@ Titulação em 2017: Doutor
 Mauro Maisonave de Melo
 Área: Educação Física
 mauro.melo@restinga.ifrs.edu.br
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Titulação em 2017: Mestre
 Milena Silvester Quadros
 Área: História.
@@ -3601,8 +1953,6 @@ Roberto Souza
 Área: Artes/música
 roberto.souza@restinga.ifrs.edu.br
 Titulação em 2017: Mestre
-
-Campus Restinga
 Rodrigo Lange
 Área: Informática
 rodrigo.lange@restinga.ifrs.edu.br
@@ -3615,6 +1965,8 @@ Stefan Chamorro Bonow
 Área: História
 stefan.bonow@restinga.ifrs.eud.br
 Titulação em 2017: Doutor
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Susana Beatris Oliveira Szewczyk
 Área: Matemática
 susana.szewczyk@restinga.ifrs.edu.br
@@ -3656,6 +2008,8 @@ caroline.kulba@restinga.ifrs.edu.br
 Assistente em Administração (PCIFE) -
 Cristiano Escobar Carvalho Bernardes
 cristiano.bernardes@restinga.ifrs.edu.br
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Técnico em Assuntos Educacionais (PCIFE) –
 Daniel Flach
 daniel.flach@restinga.ifrs.edu.br
@@ -3670,8 +2024,6 @@ Auxiliar de Biblioteca (PCIFE) - 701409
 Geovana Prante Gasparotto
 geovana.gasparotto@restinga.ifrs.edu.br
 Assistente Social (PCIFE) - 701006
-
-Campus Restinga
 Igor GhelmanSordiZibenberg
 igor.zibenberg@restinga.ifrs.edu.br
 Técnico em Assuntos Educacionais (PCIFE) –
@@ -3699,6 +2051,8 @@ Técnico em Audiovisual (PCIFE) - 701221
 NidianaPohl dos Santos
 nidiana.santos@restinga.ifrs.edu.br
 Assistente em Administração (PCIFE) -
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Patricia de Morais Garcia
 patricia.garcia@restinga.ifrs.edu.br
 Aux. em Administração (PCIFE) - 701405
@@ -3733,7 +2087,8 @@ estabelecidos na OD do IFRS e a Resolução CNE Nº 6, de 20 de Setembro de 2012
 especial nos artigos 22 § 2º e artigo 38 §2, que estabelecem a obrigatoriedade do número de
 cadastro do estudante no Sistec e a menção do eixo tecnológico do curso.
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+9 INFRAESTRUTURA / BIBLIOTECA / EQUIPAMENTOS E LABORATÓRIOS
 9 INFRAESTRUTURA
 O Campus Restinga possui uma área total de 79.209,89 m2 onde estão construídos 5
 (cinco) blocos, uma quadra poliesportiva, uma cancha de areia, estacionamento e
@@ -3761,8 +2116,6 @@ O acervo é composto por mais de 1760 (mil setecentos e sessenta) títulos e 530
 (cinco mil e trezentos) exemplares de livros. A atualização do acervo é anual, conforme
 disponibilidade orçamentária e atendendo às solicitações dos servidores e estudantes. Os
 recursos informacionais disponibilizados abrangem as áreas dos cursos, bem como a área de
-
-Campus Restinga
 formação do professor, literatura, dicionários, etc. Também é oferecido acesso remoto a todas
 as normas ABNT através da rede do Campus. A composição do acervo se dá por meio de
 compras e doações. Em relação à metodologia de compra, utilizam-se os instrumentos do
@@ -3770,23 +2123,25 @@ INEP para avaliação de cursos superiores, como base para o investimento em ace
 cursos de todas as modalidades de ensino regular ofertados. Também são consideradas as
 avaliações institucionais realizadas pela comunidade escolar, que apontam a demanda por
 acervo. Além dos livros, também contamos com doações dos seguintes periódicos:
-●
+G
 IEEE Spectrum
-●
+G
 Gestão Escolar (Fundação Victor Civita)
-●
+G
 Nova Escola (Fundação Victor Civita)
-●
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+G
 Cálculo: matemática para todos (editora Segmento)
-●
+G
 Carta na Escola (editora Confiança)
-●
+G
 Presença Pedagógica (editora Dimensão)
-●
+G
 Filosofia: ciência e vida (editora Escala)
-●
+G
 Língua Portuguesa (editora Segmento)
-●
+G
 Revista de História da Biblioteca Nacional
 9.1.2 Relação de livros por área do conhecimento
 - Ciências Exatas e da Terra: 1809 exemplares, 438 títulos
@@ -3798,15 +2153,13 @@ Revista de História da Biblioteca Nacional
 - Ciências Humanas: 639 exemplares, 249 títulos
 - Linguística, Letras e Artes: 1141 exemplares, 602 títulos
 9.1.3 Serviços oferecidos
-●
+G
 Empréstimo domiciliar, renovações e reservas online de materiais do acervo;
-●
+G
 Orientação no uso do acervo;
-●
+G
 Orientação quanto à normalização de trabalhos acadêmicos, de acordo com as normas
 da ABNT.
-
-Campus Restinga
 9.1.4 Portal de Periódicos da CAPES
 O IFRS – Campus Restinga conta com acesso ao portal de periódicos da CAPES, que
 disponibiliza diversas publicações científicas de alta relevância para atividades de ensino e
@@ -3819,6 +2172,8 @@ estruturados. Estes blocos atenderão diretamente ou indiretamente o Curso Técn
 Eletrônica.
 Infraestrutura atualizada do Campus Restinga, destacadas as que serão utilizadas pelo
 curso:
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Infraestrutura
 Bloco(s)
 Infraestrutura que será utilizada pelo
@@ -3851,8 +2206,6 @@ Laboratório de Informática 3
 X
 Laboratório de Informática 4
 X
-
-Campus Restinga
 Sala de Desenho Técnico/Artes
 X
 Sala de Artes
@@ -3862,6 +2215,8 @@ X
 Laboratório de Ciências
 X
 Laboratório de Ciências Humanas
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 X
 Laboratório de Empreendedorismo
 X
@@ -3904,7 +2259,7 @@ Alicate Amperímetro
 Alicate de bico meia-cana 6”
 Alicate de corte diagonal 6”
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Alicate universal 8”
 Estação de solda antiestática
 Estação de retrabalho para SMD
@@ -3947,7 +2302,7 @@ Gaveteiro com 10 gavetas para componentes eletrônicos
 O laboratório de Eletrônica Digital e Microprocessadores foi planejado para prover aos
 alunos do curso de Tecnologia em Eletrônica Industrial a possibilidade de trabalhar com
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 projeto e teste de sistemas microcontrolados e de eletrônica digital. Esse laboratório está
 sendo montado em uma sala de 90m² com capacidade para 32 alunos. As atividades nesse
 laboratório serão organizadas em duplas de alunos, que contarão com o auxílio de um
@@ -3989,9 +2344,9 @@ Descrição do Equipamento/Mobiliário
 Quantidade
 Bancada para 2 alunos e 2 cadeiras
 Computador de mesa com monitor
-NI Elvis II com pacote de software Multisim (licença)
 
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+NI Elvis II com pacote de software Multisim (licença)
 10.5 Laboratórios de Informática e Redes
 Todos os setores do Campus Restinga serão equipados com equipamentos de
 informática com acesso à Internet. Para os alunos, estarão disponíveis quatro laboratórios com
@@ -4030,24 +2385,8 @@ _____. Lei 11.892 de 29 de dezembro de 2008. Institui a Rede Federal de Educaç�
 Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e
 Tecnologia e dá outras providências. Diário Oficial da União. Brasília, DF, 29 de Dez. 2008.
 
-Campus Restinga
-_____. Lei nº 11.788, de 25 de setembro de 2008. Dispõe sobre o estágio de estudantes e dá
-outras providências. Diário Oficial da União, Brasília, 26 de set. 2008.
-FREIRE, Paulo. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e
-Terra, 1996.
-IBGE. Instituto Brasileiro de Geografia e Estatística. Censo 2010. Disponível em
-<http://censo2010.ibge.gov.br
-INSTITUTO FEDERAL DO RIO GRANDE DO SUL (Brasil). Organização Didática do
-IFRS. Aprovada pelo Conselho Superior pela Resolução nº 046, de 08 de maio de 2015.
-INSTITUTO FEDERAL DO RIO GRANDE DO SUL (Brasil). Plano de Desenvolvimento
-Institucional do IFRS. Aprovado pelo Conselho Superior pela Resolução nº 117, de 16 de
-dezembro de 2014.
-13 ANEXOS
-Anexo 1 - Regulamento dos Laboratórios;
-Anexo 2 - Regulamento do Colegiado de Curso.
-Anexo 3 – Regulamento de Estágios do Campus Restinga
-
-Campus Restinga
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
+ANEXOS — REGULAMENTOS DE LABORATÓRIOS E COLEGIADO
 REGULAMENTO DOS LABORATÓRIOS DE INFORMÁTICA
 Os Laboratórios de Informática do Campus Restinga do IFRS são de natureza instrumental,
 destinando-se, prioritariamente, ao desenvolvimento de atividades curriculares a todos os
@@ -4078,147 +2417,147 @@ usuários acarretará no bloqueio da conta do usuário responsável e nas puniç
 disciplinares cabíveis.
 As Normas podem ser alteradas de acordo com as necessidades dos Laboratórios de
 Informática sem prévio aviso
-
-Campus Restinga
 Deveres dos usuários
-
+I
 Submeter-se às normas instituídas para a utilização dos Laboratórios de
 Informática e ler estas informações.
-
+I
 Zelar pela manutenção de um ambiente limpo e organizado nas dependências
 dos Laboratórios.
-
+I
 Respeitar o silêncio no ambiente dos Laboratórios.
-
+I
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Responsabilizar-se pelas cópias de segurança de todos os seus arquivos.
-
+I
 Comunicar qualquer problema técnico nos equipamentos ao Setor de Suporte
 Técnico de TI, responsável pelos laboratórios ou, se em horário de aula, ao
 professor.
-
+I
 Ligar e desligar as máquinas dentro dos procedimentos indicados e nunca
 abandonar aberta uma sessão de acesso aos computadores.
-
+I
 Manipular os equipamentos com o cuidado necessário.
-
+I
 Ao término do uso, desligar o computador e colocar a cadeira utilizada em
 seu devido lugar.
-
+I
 Em caso de utilização do ar condicionado, manter portas e janelas fechadas.
 Proibições aos usuários
-
+I
 Utilizar ou entrar no laboratório em horários destinados às aulas de outra turma
 que não a do usuário.
-
+I
 Consumir bebidas e/ou alimentos, bem como fumar ou ter comportamento não
 compatível com o ambiente acadêmico.
-
+I
 Utilizar celulares, salvo mediante expressa autorização do professor.
-
+I
 Utilizar aparelhos sonoros que possam perturbar o bom andamento das atividades.
-
+I
 Efetuar login/logon em mais de uma máquina ao mesmo tempo.
-
+I
 Alterar as configurações dos programas instalados nos computadores;
-
+I
 Abrir e/ou remover qualquer tipo de equipamento dos Laboratórios.
-
+I
 Sentar-se sobre as bancadas, bem como colocar os pés sobre as mesmas ou sobre
 as cadeiras.
-
-Campus Restinga
-
+I
 Utilizar-se de qualquer meio para apoderar-se das senhas de outros usuários.
-
+I
 Alterar a disposição dos equipamentos ou removê-los, bem como colocar as mãos
 nas telas dos monitores.
-
+I
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Navegar em sites com conteúdo ofensivo, pornográficos, hacker, bate-papo, jogos,
 charges, piadas/humor, novelas, esporte, tv, música, música on-line, mensagens,
 cartões e fazer download de qualquer tipo de software. No entanto, o uso de sites
 de bate-papo, jogos, charges, piadas/humor, novelas, esporte, TV, música e
 músicaon-line será permitido quando estiverem atrelados à pratica pedagógica e à
 proposta do professor no devido momento de utilização do laboratório.
-
+I
 Bloquear os computadores com senha na proteção de tela (programas do tipo
 lockscreen).
-
+I
 Reiniciar as máquinas.
-
+I
 Instalar qualquer programa nos computadores.
-
+I
 Utilizar os computadores para fins pessoais ou para qualquer outro tipo de
 atividade incompatível com as tarefas acadêmicas.
-
+I
 Desenvolver, manter, utilizar ou divulgar dispositivos que possam causar danos
 aos sistemas e às informações armazenadas, tais como criação e/ou propagação de
 vírus, criação e utilização de sistemas de criptografia que causem a
 indisponibilidade dos serviços e/ou destruição de dados.
-
+I
 Utilizar os serviços e recursos para fins comerciais ou políticos, tais como mala
 direta ou propaganda política.
-
+I
 Utilizar os serviços e recursos para ganho pessoal.
-
+I
 Utilizar os serviços e recursos para intimidar, assediar, difamar ou aborrecer
 qualquer pessoa.
-
+I
 Desperdiçar os recursos computacionais de forma intencional.
-
+I
 Usar os computadores para a prática de qualquer ato ilícito com penalidade
 prevista em lei.
-
+I
 Alterar, criar ou remover arquivos fora da área particular do usuário que venham a
 comprometer o desempenho e funcionamento dos sistemas.
-
+I
 Permitir que outra pessoa utilize sua conta para acesso aos computadores, bem
 como o acesso a sua área pessoal no servidor e seu conteúdo.
-
+I
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 Desenvolver qualquer outra atividade que desobedeça às normas apresentadas
 acima.
-
-Campus Restinga
 Deveres dos docentes
-
+I
 Fazer cumprir as normas descritas neste documento e zelar pela correta utilização dos
 equipamentos durante o período no qual estiver utilizando os Laboratórios.
-
+I
 Comunicar imediatamente problemas técnicos e/ou de configuração ao Setor de
 Suporte Técnico de TI.
-
+I
 Verificar, ao término de suas atividades, a organização geral do Laboratório, apagar o
 quadro branco, além de orientar os alunos para organizar o mobiliário e os
 equipamentos.
-
+I
 Devolver, ao final da atividade, os materiais solicitados ao Setor de Apoio Acadêmico
 (pincéis atômicos, apagador, controles do ar condicionado, etc.).
-
+I
 Nunca se ausentar do Laboratório durante o período de suas aulas, nem sair do
 Laboratório antes de todos os alunos.
 Equipe de Informática
-
+I
 Manutenção, testes e instalação de qualquer software são de responsabilidade da
 Equipe de Informática do Setor de Suporte Técnico de TI.
-
+I
 A Diretoria de TI não se responsabiliza pela segurança de dados copiados para
 dispositivos pessoais (HDs externos, pen drive, CDs, etc.), de alunos e/ou professores,
 bem como de objetos esquecidos nas dependências dos Laboratórios.
-
+I
 Digitação, preparação e impressão de materiais para alunos não são atribuições do
 Setor de Suporte Técnico de TI.
-
+I
 O Setor de Suporte Técnico de TI poderá a qualquer momento pedir para um aluno
 fechar um website, caso julgue impróprio ou comprovar que estão sendo ignoradas as
 normas pré-estabelecidas, podendo até pedir/solicitar que o estudante se retire do
 laboratório.
-
+I
 O Setor de Suporte Técnico de TI dará suporte a professores e alunos na execução das
 atividades, quando solicitado.
 Punições disciplinares
-
-Campus Restinga
 Atitudes consideradas agressivas, grosseiras ou inadequadas, bem como danos físicos aos
 equipamentos e/ou danos lógicos aos softwares instalados serão motivos de advertência e até
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 mesmo da suspensão do usuário no caso de reincidência, que será comunicada pela equipe do
 Suporte Técnico de TI a Diretoria de Ti ou a Direção Geral do Campus, dependendo da
 gravidade da ação.
@@ -4229,23 +2568,21 @@ equipamentos e materiais danificados. O não cumprimento das regras estabelecida
 ao usuário infrator, penalidades que se diferenciam pela gravidade da ação, reincidência, dolo
 ou culpa podendo ir de uma simples repreensão oral, proibição da utilização do Laboratório
 até a suspensão das atividades escolares, conforme descrito a seguir:
-
+I
 a repreensão oral é feita pelo responsável pelo Laboratório (bolsista, funcionário ou
 professor) e, em caso de reincidência, pelo Coordenador do Curso;
-
+I
 a repreensão por escrito é decidida pela Diretoria de TI, ouvido o responsável pelo
 laboratório no momento do fato ocorrido (bolsista, funcionário, professor ou
 coordenador).
-
+I
 a suspensão de utilização compete ao Diretor Geral, ouvido o Diretor de TI,
 Coordenador do Curso e o Setor de Suporte Técnico;
-
+I
 no que couber, são aplicadas as penalidades previstas no Regimento Geral da
 Instituição; e
-
+I
 a Diretoria de TI não concederá exceções nas penalidades.
-
-Campus Restinga
 REGULAMENTO DO COLEGIADO DE CURSO DE CURSO (ANEXO 04)
 Caracteriza as diretrizes referentes à
 operacionalização, áreas de atuação e
@@ -4262,6 +2599,8 @@ Art. 2º - O Colegiado de Curso é constituído por:
 I. Coordenador do Curso;
 II. todos os professores em efetivo exercício no curso no semestre letivo;
 III. um representante do corpo discente do Curso, eleito pelos pares;
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 IV. um técnico-administrativo vinculado à área do curso e eleito pelos pares.
 §1º - Os representantes relacionados nos incisos III e IV serão eleitos pelos seuspares dentro
 de cada segmento, tendo como suplente o candidato que obtiver a maior votação depois dos
@@ -4282,8 +2621,6 @@ Colegiado.
 Parágrafo Único. Em caso de vacância, ocorrerá a substituição pelo suplente e,na
 inexistência deste, a indicação pelo Segmento.
 CAPÍTULO II
-
-Campus Restinga
 DAS COMPETÊNCIAS E ATRIBUIÇÕES
 SEÇÃO I - DAS COMPETÊNCIAS DO COLEGIADO DE CURSO
 Art. 4º - Compete ao Colegiado de Curso:
@@ -4305,6 +2642,8 @@ sua aplicação.
 SEÇÃO II - DAS ATRIBUIÇÕES DO PRESIDENTE
 Art.
 5º
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 -
 A
 presidência
@@ -4332,8 +2671,6 @@ extraordinariamente, sempre que convocado pelo Presidente ou por solicitação d
 membros, com antecedência mínima de 48 horas.
 Parágrafo Único O Colegiado somente reunir-se-á com a presença mínima de 2/3 (dois
 terços) de seus membros.
-
-Campus Restinga
 Art. 8º - As decisões do Colegiado serão tomadas por maioria de votos, com baseno número
 de membros presentes.
 Art. 9º - De cada sessão do Colegiado de Curso lavra-se a ata, que, depois de lidae aprovada,
@@ -4348,6 +2685,8 @@ vedada qualquer forma de representação, prevalecendo a qualquer outra atividad
 prevista.
 Parágrafo Único - A ausência de membros discentes a 2 (duas) reuniões consecutivas ou a 4
 (quatro) alternadas no mesmo período letivo pode acarretar a perda do mandato, salvo
+
+Projeto Pedagógico do Curso Técnico em Eletrônica — conteúdo otimizado para busca
 impedimento previsto na legislação ou outra justificativa escrita e aceita pelo Colegiado de
 Curso.
 Art. 11 - A cessação do vínculo estatutário ou acadêmico, bem como afastamentosdas

@@ -7,7 +7,6 @@ acesso.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: moodle, moodle presencial, acesso
 ---
-
 ID: 2
 CATEGORIA: Sistemas e TI
 PERGUNTA: Como acesso o Moodle Virtual?
@@ -16,7 +15,6 @@ página oficial de Sistemas para acessar a plataforma.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: moodle virtual, ead, mooc
 ---
-
 ID: 3
 CATEGORIA: Sistemas e TI
 PERGUNTA: Onde encontro o tutorial do Moodle?
@@ -25,14 +23,14 @@ oficial de Sistemas do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: tutorial, moodle, manual
 ---
-
 ID: 4
 CATEGORIA: Sistemas e TI
 PERGUNTA: Onde vejo meu boletim?
-RESPOSTA: O boletim pode ser consultado no sistema acadêmico correspondente ao seu
-curso. Consulte a página de Sistemas para identificar o sistema correto.
+RESPOSTA: O boletim pode ser consultado no sistema acadêmico utilizado pelo seu curso.
+Como o sistema pode variar conforme o curso, consulte a página oficial de Sistemas do
+Campus Restinga para identificar qual plataforma deve ser utilizada.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
-PALAVRAS-CHAVE: boletim, notas, sistema acadêmico
+PALAVRAS-CHAVE: boletim, notas, notas escolares, sistema acadêmico
 ---
 
 ID: 5
@@ -46,7 +44,6 @@ PALAVRAS-CHAVE: histórico, histórico escolar
 
 ID: 6
 CATEGORIA: Sistemas e TI
-
 PERGUNTA: Onde emito meu atestado de matrícula?
 RESPOSTA: O atestado de matrícula pode ser emitido pelo sistema acadêmico
 correspondente ao seu curso. Consulte a página de Sistemas para saber qual sistema
@@ -54,24 +51,23 @@ utilizar.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: atestado, matrícula, comprovante
 ---
-
 ID: 7
 CATEGORIA: Sistemas e TI
 PERGUNTA: O que é o SIA?
-RESPOSTA: O SIA é um sistema acadêmico usado por vários cursos do Campus Restinga.
-Nele podem ser consultados documentos e informações acadêmicas, conforme o curso.
-LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
+RESPOSTA: O SIA é um sistema acadêmico usado por vários cursos do Campus
+Restinga. Nele podem ser consultados documentos e informações acadêmicas, conforme o
+curso. LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: sia, sistema acadêmico
 ---
-
 ID: 8
 CATEGORIA: Sistemas e TI
 PERGUNTA: O que é o SIGAA?
 RESPOSTA: O SIGAA é um sistema acadêmico utilizado por determinados cursos do
-Campus Restinga. Consulte a página de Sistemas para verificar se ele é o sistema do seu
-curso.
+Campus Restinga. Nele podem estar disponíveis diferentes serviços e informações
+acadêmicas, conforme o curso. Consulte a página oficial de Sistemas e os manuais do
+SIGAA para verificar as funcionalidades disponíveis.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
-PALAVRAS-CHAVE: sigaa, sistema acadêmico
+PALAVRAS-CHAVE: sigaa, sistema acadêmico, funcionalidades, serviços
 ---
 
 ID: 9
@@ -82,7 +78,6 @@ Sistemas do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: sia, primeiro acesso, cadastro
 ---
-
 ID: 10
 CATEGORIA: Sistemas e TI
 PERGUNTA: Esqueci minha senha do SIA. O que faço?
@@ -90,18 +85,16 @@ RESPOSTA: Consulte as orientações oficiais de recuperação de senha na págin
 Sistemas do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: sia, senha, recuperar senha
----
 
+---
 ID: 11
 CATEGORIA: Sistemas e TI
 PERGUNTA: Como faço meu primeiro acesso ao SIGAA?
-
 RESPOSTA: No primeiro acesso ao SIGAA é necessário realizar o cadastro conforme o
 tutorial oficial. Consulte a página de Sistemas.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: sigaa, primeiro acesso, cadastro
 ---
-
 ID: 12
 CATEGORIA: Sistemas e TI
 PERGUNTA: Onde encontro os manuais do SIGAA?
@@ -110,25 +103,24 @@ Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: sigaa, manual, tutorial
 ---
-
 ID: 13
 CATEGORIA: Sistemas e TI
 PERGUNTA: Qual sistema uso para minha rematrícula?
-RESPOSTA: O sistema de rematrícula depende do curso e da modalidade. Consulte a
-página de Sistemas e o calendário acadêmico antes de realizar o procedimento.
+RESPOSTA: O sistema utilizado para a rematrícula depende do curso e da modalidade.
+Consulte a página oficial de Sistemas e o calendário acadêmico para identificar o sistema
+correto e o período disponível para realizar o procedimento.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
-PALAVRAS-CHAVE: rematrícula, sistema, matrícula
+PALAVRAS-CHAVE: rematrícula, sistema, matrícula, sistema acadêmico
 ---
 
 ID: 14
 CATEGORIA: Sistemas e TI
 PERGUNTA: Como resolvo um problema no sistema acadêmico?
 RESPOSTA: Consulte primeiro os tutoriais e orientações da página de Sistemas. Se o
-problema persistir, siga as orientações de suporte indicadas pelo IFRS.
-LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
+problema persistir, siga as orientações de suporte indicadas pelo IFRS. LINK
+OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: erro, sistema, suporte
 ---
-
 ID: 15
 CATEGORIA: Sistemas e TI
 PERGUNTA: Onde encontro todos os sistemas do campus?
@@ -144,10 +136,8 @@ PERGUNTA: Onde encontro orientações de TI?
 RESPOSTA: As orientações relacionadas aos sistemas e serviços de Tecnologia da
 Informação estão reunidas na página oficial de Sistemas.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
-
 PALAVRAS-CHAVE: ti, informática, suporte
 ---
-
 ID: 17
 CATEGORIA: Sistemas e TI
 PERGUNTA: Onde encontro o sistema de reserva de salas?
@@ -156,107 +146,105 @@ as orientações de reserva de espaços.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
 PALAVRAS-CHAVE: reserva, sala, espaço
 ---
-
 ID: 18
 CATEGORIA: Registros Escolares
-PERGUNTA: Onde trato assuntos de matrícula?
-RESPOSTA: A Coordenação de Registros Escolares (CRE) participa dos procedimentos de
-matrícula e rematrícula. Consulte a página oficial para orientações.
+PERGUNTA: Como faço matrícula?
+RESPOSTA: A matrícula é um procedimento acadêmico realizado conforme as orientações
+da Coordenação de Registros Escolares e os prazos definidos no calendário acadêmico.
+Consulte as orientações oficiais da CRE e o calendário vigente antes de realizar a matrícula.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
-PALAVRAS-CHAVE: matrícula, cre, registros
+PALAVRAS-CHAVE: matrícula, fazer matrícula, matrícula acadêmica, inscrição
 ---
 
 ID: 19
 CATEGORIA: Registros Escolares
-PERGUNTA: Onde trato assuntos de rematrícula?
-RESPOSTA: A rematrícula depende do curso e da modalidade. A CRE organiza os
-procedimentos acadêmicos junto aos demais setores.
+PERGUNTA: Como faço rematrícula?
+RESPOSTA: A rematrícula depende do curso e da modalidade. Para realizá-la, consulte as
+orientações da Coordenação de Registros Escolares, o sistema acadêmico correspondente
+ao seu curso e o calendário acadêmico vigente.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
-PALAVRAS-CHAVE: rematrícula, cre
+PALAVRAS-CHAVE: rematrícula, fazer rematrícula, renovação de matrícula, matrícula
 ---
 
 ID: 20
 CATEGORIA: Registros Escolares
 PERGUNTA: Como faço trancamento de curso?
 RESPOSTA: O trancamento é um procedimento acadêmico tratado pela Coordenação de
-Registros Escolares. Consulte as orientações oficiais antes de solicitar.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+Registros Escolares. Consulte as orientações oficiais antes de solicitar. LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: trancamento, curso
 ---
 
 ID: 21
 CATEGORIA: Registros Escolares
 PERGUNTA: Como justifico uma falta?
-RESPOSTA: A justificativa de faltas é tratada pela Coordenação de Registros Escolares.
-Consulte as orientações e os documentos necessários na página da CRE.
+RESPOSTA: A justificativa de faltas é tratada pela Coordenação de Registros
+Escolares. Consulte as orientações e os documentos necessários na página da CRE.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: falta, justificativa, ausência
 ---
-
 ID: 22
 CATEGORIA: Registros Escolares
 PERGUNTA: Como solicito um histórico escolar?
-RESPOSTA: A CRE emite documentação acadêmica, incluindo históricos escolares.
-Consulte a página oficial para saber o procedimento adequado.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+RESPOSTA: A CRE emite documentação acadêmica, incluindo históricos
+escolares. Consulte a página oficial para saber o procedimento adequado.
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: histórico, documento
 ---
-
 ID: 23
 CATEGORIA: Registros Escolares
 PERGUNTA: Como solicito um atestado de matrícula?
 RESPOSTA: A CRE emite atestados de matrícula. Dependendo do caso, o documento
 também pode ser obtido pelo sistema acadêmico.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: atestado, matrícula
 ---
-
 ID: 24
 CATEGORIA: Registros Escolares
 PERGUNTA: Como solicito um atestado de frequência?
 RESPOSTA: A Coordenação de Registros Escolares é responsável pela documentação
 acadêmica, incluindo atestados. Consulte a página da CRE.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: atestado, frequência
 ---
-
 ID: 25
 CATEGORIA: Registros Escolares
 PERGUNTA: Onde peço documentos acadêmicos?
 RESPOSTA: A Coordenação de Registros Escolares é responsável pela emissão de
 documentos acadêmicos dos estudantes.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: documentos, registros, cre
----
 
+---
 ID: 26
 CATEGORIA: Registros Escolares
 PERGUNTA: Onde vejo informações sobre diplomas?
 RESPOSTA: Informações e orientações relacionadas a certificados e diplomas estão
 disponíveis na página da Coordenação de Registros Escolares.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: diploma, certificado
 ---
-
 ID: 27
 CATEGORIA: Registros Escolares
 PERGUNTA: Onde encontro informações sobre formatura?
-
 RESPOSTA: As orientações de formatura são disponibilizadas pela Coordenação de
 Registros Escolares. Consulte a página oficial.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: formatura, colação
 ---
-
 ID: 28
 CATEGORIA: Registros Escolares
 PERGUNTA: Como faço aproveitamento de estudos?
-RESPOSTA: Aproveitamento de estudos é um procedimento acadêmico tratado pela CRE.
-Consulte a página oficial e as orientações vigentes.
+RESPOSTA: Aproveitamento de estudos é um procedimento acadêmico tratado pela
+CRE. Consulte a página oficial e as orientações vigentes.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: aproveitamento, disciplinas
 ---
-
 ID: 29
 CATEGORIA: Registros Escolares
 PERGUNTA: Como funciona a certificação de conhecimentos?
@@ -265,13 +253,12 @@ CRE. Consulte as regras e orientações oficiais.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: certificação, conhecimentos
 ---
-
 ID: 30
 CATEGORIA: Registros Escolares
 PERGUNTA: Como funciona a transferência de curso?
 RESPOSTA: Informações sobre processos de transferência são divulgadas oficialmente
-pelo campus e pela CRE. Consulte a página da CRE e os editais vigentes.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+pelo campus e pela CRE. Consulte a página da CRE e os editais vigentes. LINK
+OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: transferência, curso
 ---
 
@@ -283,26 +270,22 @@ e os editais publicados pelo campus.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: diplomado, ingresso
 ---
-
 ID: 32
 CATEGORIA: Registros Escolares
 PERGUNTA: Como solicito nome social?
 RESPOSTA: A Coordenação de Registros Escolares disponibiliza orientações relacionadas
 ao uso de nome social. Consulte a página da CRE.
 LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
-
 PALAVRAS-CHAVE: nome social, registro
 ---
-
 ID: 33
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde encontro o Espaço do Estudante?
-RESPOSTA: O Espaço do Estudante reúne horários, calendário acadêmico, solicitações,
-assistência estudantil, estágios, sistemas e outros serviços importantes.
+RESPOSTA: O Espaço do Estudante reúne horários, calendário acadêmico,
+solicitações, assistência estudantil, estágios, sistemas e outros serviços importantes.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: espaço do estudante, estudante
 ---
-
 ID: 34
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde vejo os horários das aulas?
@@ -311,34 +294,33 @@ para localizar os horários publicados para seu curso.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: horários, aulas, grade
 ---
-
 ID: 35
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde vejo o calendário acadêmico?
-RESPOSTA: O calendário acadêmico pode ser consultado pelo Espaço do Estudante.
-Sempre confira a versão mais recente publicada pelo campus.
+RESPOSTA: O calendário acadêmico pode ser consultado pelo Espaço do Estudante. Nele
+estão disponíveis as principais datas acadêmicas, como períodos letivos, matrículas,
+rematrículas e outros prazos. Sempre confira a versão mais recente publicada pelo Campus
+Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
-PALAVRAS-CHAVE: calendário, datas, aulas
+PALAVRAS-CHAVE: calendário acadêmico, calendário, datas, prazos, datas importantes
 ---
 
 ID: 36
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Quando começam as aulas?
-RESPOSTA: A data de início das aulas pode mudar conforme o calendário vigente.
-Consulte o calendário acadêmico oficial do Campus Restinga.
+RESPOSTA: A data de início das aulas pode mudar conforme o calendário
+vigente. Consulte o calendário acadêmico oficial do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: início, aulas, calendário
 ---
-
 ID: 37
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Quando terminam as aulas?
-RESPOSTA: A data de término depende do calendário acadêmico vigente e do curso.
-Consulte a publicação oficial do campus.
+RESPOSTA: A data de término depende do calendário acadêmico vigente e do
+curso. Consulte a publicação oficial do campus.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: fim, aulas, calendário
 ---
-
 ID: 38
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Quando são as férias?
@@ -347,16 +329,14 @@ vigente. Consulte o Espaço do Estudante.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: férias, recesso
 ---
-
 ID: 39
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde encontro solicitações acadêmicas online?
 RESPOSTA: As solicitações acadêmicas online são acessadas pelo serviço indicado no
-Espaço do Estudante. Consulte a página oficial antes de realizar a solicitação.
-LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+Espaço do Estudante. Consulte a página oficial antes de realizar a solicitação. LINK
+OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: solicitação, vaiensino, online
 ---
-
 ID: 40
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde encontro o Guia do Estudante?
@@ -365,8 +345,8 @@ Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: guia, estudante, orientação
 ---
-
 ID: 41
+
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde encontro o Guia de Ambientação?
 RESPOSTA: O Guia de Ambientação Estudantil está disponível no Espaço do Estudante e
@@ -374,7 +354,6 @@ reúne informações para quem está chegando ao IFRS.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: ambientação, calouro, estudante
 ---
-
 ID: 42
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Onde encontro informações para novos alunos?
@@ -383,63 +362,55 @@ Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: calouro, novo aluno, ambientação
 ---
-
 ID: 43
 CATEGORIA: Biblioteca
 PERGUNTA: Qual é o horário da biblioteca?
-
 RESPOSTA: A página oficial da Biblioteca informa o horário de atendimento vigente. Confira
 a página antes de ir ao campus.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: biblioteca, horário
 ---
-
 ID: 44
 CATEGORIA: Biblioteca
 PERGUNTA: Como faço empréstimo de livro?
 RESPOSTA: O empréstimo domiciliar é destinado a estudantes e servidores cadastrados no
-sistema da Biblioteca. Consulte as regras e o procedimento na página oficial.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+sistema da Biblioteca. Consulte as regras e o procedimento na página oficial. LINK
+OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: empréstimo, livro, biblioteca
 ---
-
 ID: 45
 CATEGORIA: Biblioteca
 PERGUNTA: Como renovo um livro?
-RESPOSTA: A renovação pode ser feita pelo sistema Pergamum quando o usuário estiver
-regular e o exemplar não estiver reservado. Consulte o catálogo da Biblioteca.
+RESPOSTA: A renovação pode ser feita pelo sistema Pergamum quando o usuário
+estiver regular e o exemplar não estiver reservado. Consulte o catálogo da Biblioteca.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: renovação, livro, pergamum
 ---
-
 ID: 46
 CATEGORIA: Biblioteca
 PERGUNTA: Quantas vezes posso renovar um livro?
+
 RESPOSTA: A Biblioteca informa que cada usuário pode efetuar até 10 renovações
 diretamente pelo sistema, desde que as condições de renovação sejam atendidas.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: renovação, limite, livro
 ---
-
 ID: 47
 CATEGORIA: Biblioteca
 PERGUNTA: Por quanto tempo posso ficar com um livro?
-RESPOSTA: A Biblioteca informa prazo de até 7 dias para o empréstimo estudantil,
-observadas as regras e condições do sistema.
+RESPOSTA: A Biblioteca informa prazo de até 7 dias para o empréstimo
+estudantil, observadas as regras e condições do sistema.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: prazo, empréstimo, livro
 ---
-
 ID: 48
 CATEGORIA: Biblioteca
 PERGUNTA: Quantos livros posso pegar emprestados?
-RESPOSTA: A Biblioteca informa limite de até 5 títulos para cada estudante cadastrado,
-conforme as regras vigentes.
+RESPOSTA: A Biblioteca informa limite de até 5 títulos para cada estudante
+cadastrado, conforme as regras vigentes.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
-
 PALAVRAS-CHAVE: limite, livros, empréstimo
 ---
-
 ID: 49
 CATEGORIA: Biblioteca
 PERGUNTA: Posso reservar um livro?
@@ -448,7 +419,6 @@ acervo permitem.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: reserva, livro, pergamum
 ---
-
 ID: 50
 CATEGORIA: Biblioteca
 PERGUNTA: Onde consulto o catálogo da biblioteca?
@@ -457,34 +427,31 @@ digitais e consultar empréstimos, reservas e devoluções.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: catálogo, pergamum, livros
 ---
-
 ID: 51
 CATEGORIA: Biblioteca
 PERGUNTA: Como vejo a data de devolução do livro?
 RESPOSTA: A data de devolução pode ser consultada no sistema Pergamum, junto ao
+
 histórico e aos empréstimos.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: devolução, prazo, pergamum
 ---
-
 ID: 52
 CATEGORIA: Biblioteca
 PERGUNTA: O que acontece se eu atrasar um livro?
 RESPOSTA: A devolução em atraso pode gerar afastamento temporário para novos
-empréstimos, conforme as regras da Biblioteca. Consulte a página oficial para detalhes.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+empréstimos, conforme as regras da Biblioteca. Consulte a página oficial para
+detalhes. LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: atraso, livro, afastamento
 ---
-
 ID: 53
 CATEGORIA: Biblioteca
 PERGUNTA: Posso consultar a biblioteca mesmo sendo da comunidade externa?
 RESPOSTA: Sim. A Biblioteca é aberta à comunidade em geral para consulta local do
-acervo. O empréstimo domiciliar é restrito aos públicos institucionais definidos.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+acervo. O empréstimo domiciliar é restrito aos públicos institucionais definidos. LINK
+OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: comunidade externa, biblioteca
 ---
-
 ID: 54
 CATEGORIA: Biblioteca
 PERGUNTA: Posso estudar na biblioteca?
@@ -493,20 +460,18 @@ computadores para pesquisa.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: estudo, biblioteca
 ---
-
 ID: 55
 CATEGORIA: Biblioteca
 PERGUNTA: A biblioteca tem computadores?
-RESPOSTA: Sim. A Biblioteca possui terminais com computadores para pesquisa.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+RESPOSTA: Sim. A Biblioteca possui terminais com computadores para
+pesquisa. LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: computador, biblioteca
 ---
-
 ID: 56
 CATEGORIA: Biblioteca
 PERGUNTA: A biblioteca tem Wi-Fi?
-RESPOSTA: A Biblioteca disponibiliza acesso à rede de internet por Wi-Fi.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+RESPOSTA: A Biblioteca disponibiliza acesso à rede de internet por
+Wi-Fi. LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: wifi, internet, biblioteca
 ---
 
@@ -518,135 +483,129 @@ acadêmicos conforme as normas ABNT.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: abnt, trabalho, biblioteca
 ---
-
 ID: 58
 CATEGORIA: Biblioteca
 PERGUNTA: Como peço ajuda com meu TCC ou trabalho?
-RESPOSTA: Você pode solicitar orientação da Biblioteca sobre normalização e pesquisa.
-Consulte os canais de atendimento da Biblioteca.
+RESPOSTA: Você pode solicitar orientação da Biblioteca sobre normalização e
+pesquisa. Consulte os canais de atendimento da Biblioteca.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: tcc, trabalho, abnt
 ---
-
 ID: 59
 CATEGORIA: Biblioteca
 PERGUNTA: Onde encontro livros digitais?
-RESPOSTA: Os livros digitais aparecem no catálogo da Biblioteca junto aos livros físicos.
-Alguns conteúdos exigem login específico da Biblioteca.
-
+RESPOSTA: Os livros digitais aparecem no catálogo da Biblioteca junto aos livros
+físicos. Alguns conteúdos exigem login específico da Biblioteca.
 LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: livro digital, ebook, catálogo
 ---
-
 ID: 60
 CATEGORIA: Biblioteca
 PERGUNTA: O que é o Pergamum?
 RESPOSTA: Pergamum é o sistema de gerenciamento das bibliotecas do IFRS. Ele permite
-pesquisar o acervo, renovar e reservar materiais e acompanhar empréstimos.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
+pesquisar o acervo, renovar e reservar materiais e acompanhar empréstimos. LINK
+OFICIAL: https://ifrs.edu.br/restinga/biblioteca/informacoes/
 PALAVRAS-CHAVE: pergamum, biblioteca
 ---
-
 ID: 61
 CATEGORIA: Assistência Estudantil
 PERGUNTA: O que é a Assistência Estudantil?
 RESPOSTA: A Assistência Estudantil oferece ações e serviços destinados a favorecer o
-acesso, a permanência e o êxito dos estudantes, conforme as políticas do IFRS.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+acesso, a permanência e o êxito dos estudantes, conforme as políticas do IFRS. LINK
+OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: assistência, auxílio
 ---
-
 ID: 62
+
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Como solicito auxílio estudantil?
 RESPOSTA: Os auxílios dependem de editais e procedimentos específicos. Consulte a
-página da Assistência Estudantil e os editais vigentes antes de solicitar.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
-PALAVRAS-CHAVE: auxílio, assistência, inscrição
+página da Assistência Estudantil e os editais vigentes antes de solicitar. LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/ PALAVRAS-CHAVE:
+auxílio, assistência, inscrição
 ---
-
 ID: 63
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Onde vejo os editais da Assistência Estudantil?
 RESPOSTA: Os editais e chamadas são publicados oficialmente. Consulte a página de
 Editais do Campus Restinga e a página da Assistência Estudantil.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: edital, auxílio, assistência
 ---
-
 ID: 64
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Quais documentos preciso para pedir auxílio?
 RESPOSTA: A documentação varia conforme o edital. Consulte o edital vigente antes de
 enviar sua solicitação.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: documentos, auxílio
 ---
-
 ID: 65
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Como faço uma solicitação online para a Assistência Estudantil?
 RESPOSTA: Acesse a página de solicitações online da Assistência Estudantil e siga as
 orientações do procedimento vigente.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: solicitação, assistência, online
 ---
-
 ID: 66
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Como falo com a Assistência Estudantil?
 RESPOSTA: Você pode entrar em contato pelo e-mail
-assistencia.estudantil@restinga.ifrs.edu.br ou consultar a equipe do Setor de Ensino.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
-PALAVRAS-CHAVE: contato, assistência, email
+assistencia.estudantil@restinga.ifrs.edu.br ou consultar a equipe do Setor de
+Ensino. LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/ PALAVRAS-CHAVE:
+contato, assistência, email
 ---
 
 ID: 67
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Existe atendimento psicológico no campus?
 RESPOSTA: A equipe da Assistência Estudantil conta com profissional de Psicologia. Para
-informações sobre atendimento, consulte a equipe e os canais oficiais.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
-PALAVRAS-CHAVE: psicologia, atendimento, assistência
+informações sobre atendimento, consulte a equipe e os canais oficiais. LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/ PALAVRAS-CHAVE:
+psicologia, atendimento, assistência
 ---
-
 ID: 68
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Existe atendimento social?
-RESPOSTA: A Assistência Estudantil conta com atendimento da área de Serviço Social.
-Consulte os canais oficiais para orientações.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+RESPOSTA: A Assistência Estudantil conta com atendimento da área de Serviço
+Social. Consulte os canais oficiais para orientações.
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: assistente social, atendimento
 ---
-
 ID: 69
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Existe orientação pedagógica?
-RESPOSTA: O Setor de Ensino possui profissionais de Pedagogia e Orientação Estudantil.
-Consulte a equipe oficial para identificar o atendimento adequado.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+RESPOSTA: O Setor de Ensino possui profissionais de Pedagogia e Orientação
+Estudantil. Consulte a equipe oficial para identificar o atendimento adequado.
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: pedagogia, orientação, estudante
 ---
-
 ID: 70
 CATEGORIA: Assistência Estudantil
-
 PERGUNTA: Onde vejo os resultados dos editais?
 RESPOSTA: Resultados e editais são publicados nas páginas oficiais do campus. Consulte
 a página de Editais e procure pelo edital correspondente.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
 PALAVRAS-CHAVE: resultado, edital, assistência
 ---
-
 ID: 71
 CATEGORIA: Assistência Estudantil
 PERGUNTA: O auxílio estudantil tem valor fixo?
 RESPOSTA: Os valores e critérios podem mudar conforme o edital e o período. Consulte o
 edital vigente para obter a informação correta.
-LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+
 PALAVRAS-CHAVE: valor, auxílio, edital
 ---
-
 ID: 72
 CATEGORIA: Estágios
 PERGUNTA: Como faço estágio?
@@ -655,107 +614,104 @@ verificar procedimentos, documentos e responsabilidades antes de iniciar o está
 LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, começar
 ---
-
 ID: 73
 CATEGORIA: Estágios
 PERGUNTA: Onde encontro as orientações de estágio?
 RESPOSTA: As orientações oficiais de estágio estão disponíveis na página de Estágios do
 Campus Restinga.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, orientações
 ---
-
 ID: 74
 CATEGORIA: Estágios
 PERGUNTA: Qual é o e-mail do setor de estágios?
 RESPOSTA: O setor de Estágios pode ser contatado pelo e-mail
 estagios@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, email, contato
 ---
-
 ID: 75
 CATEGORIA: Estágios
 PERGUNTA: Preciso de documentação para iniciar o estágio?
 RESPOSTA: Sim. O estágio exige documentação e procedimentos específicos. Consulte as
 orientações oficiais antes de iniciar as atividades.
-
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, documentos
 ---
-
 ID: 76
 CATEGORIA: Estágios
 PERGUNTA: Onde encontro documentos de estágio?
 RESPOSTA: A página de orientações de Estágio reúne informações e documentos
 necessários para os procedimentos.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, documentos
 ---
-
 ID: 77
 CATEGORIA: Estágios
 PERGUNTA: O estágio obrigatório é igual para todos os cursos?
 RESPOSTA: Não necessariamente. As exigências dependem do curso e de seu projeto
-pedagógico. Consulte a coordenação do curso e as orientações de estágio.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+pedagógico. Consulte a coordenação do curso e as orientações de estágio. LINK
+OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio obrigatório, curso
 ---
-
 ID: 78
 CATEGORIA: Estágios
 PERGUNTA: Posso fazer estágio não obrigatório?
-RESPOSTA: A possibilidade e as regras dependem do curso e das normas institucionais.
-Consulte o setor de Estágios antes de iniciar.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+RESPOSTA: A possibilidade e as regras dependem do curso e das normas
+institucionais. Consulte o setor de Estágios antes de iniciar.
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio não obrigatório
 ---
-
 ID: 79
 CATEGORIA: Estágios
 PERGUNTA: Quem assina os documentos do estágio?
 RESPOSTA: A assinatura e o fluxo de documentos dependem do tipo de estágio e do
 procedimento institucional. Consulte as orientações oficiais.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, assinatura, contrato
 ---
-
 ID: 80
 CATEGORIA: Estágios
 PERGUNTA: Onde encontro informações sobre vagas de estágio?
 RESPOSTA: Consulte o setor de Estágios e os canais institucionais. A disponibilidade de
 vagas pode variar e não é garantida pelo campus.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: vagas, estágio
 ---
-
 ID: 81
 CATEGORIA: Estágios
 PERGUNTA: Quanto tempo demora uma solicitação de estágio?
 RESPOSTA: O prazo depende do procedimento e da demanda. Consulte as orientações
+
 oficiais e os canais do setor de Estágios.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: prazo, estágio
 ---
-
 ID: 82
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Quais cursos existem no Campus Restinga?
-RESPOSTA: O Campus Restinga oferece cursos de diferentes níveis e modalidades.
-Consulte a página oficial de Cursos para ver a lista atualizada.
+RESPOSTA: O Campus Restinga oferece cursos de diferentes níveis e
+modalidades. Consulte a página oficial de Cursos para ver a lista atualizada.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: cursos, oferta
 ---
-
 ID: 83
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Quais cursos técnicos integrados existem?
-RESPOSTA: A oferta de cursos técnicos integrados pode ser consultada na página oficial
-de Cursos do Campus Restinga.
+RESPOSTA: A oferta de cursos técnicos integrados pode ser consultada na página
+oficial de Cursos do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: técnico integrado, cursos
 ---
-
 ID: 84
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Quais cursos superiores existem?
@@ -764,7 +720,6 @@ do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: superior, graduação, cursos
 ---
-
 ID: 85
 CATEGORIA: Cursos e Ensino
 PERGUNTA: O Campus Restinga oferece curso de Informática?
@@ -773,17 +728,15 @@ para verificar a modalidade e a oferta vigente.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: informática, curso
 ---
-
 ID: 86
 CATEGORIA: Cursos e Ensino
-
 PERGUNTA: O Campus Restinga oferece Análise e Desenvolvimento de Sistemas?
 RESPOSTA: O campus possui oferta de Análise e Desenvolvimento de Sistemas. Consulte
 a página de Cursos para informações atualizadas.
+
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: ads, análise, desenvolvimento, sistemas
 ---
-
 ID: 87
 CATEGORIA: Cursos e Ensino
 PERGUNTA: O Campus Restinga oferece Eletrônica?
@@ -792,7 +745,6 @@ de Cursos para conferir a oferta atual.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: eletrônica, curso
 ---
-
 ID: 88
 CATEGORIA: Cursos e Ensino
 PERGUNTA: O Campus Restinga oferece Lazer?
@@ -801,7 +753,6 @@ Cursos para informações atualizadas.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: lazer, curso
 ---
-
 ID: 89
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Onde vejo a matriz curricular do meu curso?
@@ -811,7 +762,6 @@ situação da matriz.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: matriz curricular, disciplinas
 ---
-
 ID: 90
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Onde vejo as disciplinas do meu curso?
@@ -820,17 +770,15 @@ individual, consulte o sistema acadêmico.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: disciplinas, curso
 ---
-
 ID: 91
 CATEGORIA: Cursos e Ensino
 PERGUNTA: Como descubro quem é o coordenador do meu curso?
-
 RESPOSTA: A coordenação de cada curso pode ser consultada pelos canais do Setor de
 Ensino. Consulte a equipe oficial e os contatos das coordenações.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
+
 PALAVRAS-CHAVE: coordenador, curso
 ---
-
 ID: 92
 CATEGORIA: Contatos
 PERGUNTA: Qual é o endereço do Campus Restinga?
@@ -839,15 +787,13 @@ Alegre/RS.
 LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: endereço, localização, campus
 ---
-
 ID: 93
 CATEGORIA: Contatos
 PERGUNTA: Qual é o telefone do Campus Restinga?
-RESPOSTA: O telefone geral do Campus Restinga é (51) 3247-8400.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O telefone geral do Campus Restinga é (51)
+3247-8400. LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: telefone, contato
 ---
-
 ID: 94
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail do Campus Restinga?
@@ -856,7 +802,6 @@ Contato para escolher o setor correto.
 LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: email, contato
 ---
-
 ID: 95
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail da Secretaria/Registros Escolares?
@@ -865,7 +810,6 @@ registros@restinga.ifrs.edu.br.
 LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: registros, email, cre
 ---
-
 ID: 96
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail da Assistência Estudantil?
@@ -873,66 +817,64 @@ RESPOSTA: O e-mail da Assistência Estudantil é
 assistencia.estudantil@restinga.ifrs.edu.br.
 LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: assistência, email
-
 ---
 
 ID: 97
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail da Biblioteca?
-RESPOSTA: O e-mail da Biblioteca é biblioteca@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O e-mail da Biblioteca é
+biblioteca@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: biblioteca, email
 ---
-
 ID: 98
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail do Ensino?
-RESPOSTA: O e-mail geral do Ensino é ensino@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O e-mail geral do Ensino é
+ensino@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: ensino, email
 ---
-
 ID: 99
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail da TI?
-RESPOSTA: O contato de Tecnologia da Informação é dti@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O contato de Tecnologia da Informação é
+dti@restinga.ifrs.edu.br. LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: ti, email
 ---
-
 ID: 100
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail de Estágios?
-RESPOSTA: O e-mail do setor de Estágios é estagios@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O e-mail do setor de Estágios é
+estagios@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: estágio, email
 ---
-
 ID: 101
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail de Extensão?
-RESPOSTA: O e-mail de Extensão é extensao@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O e-mail de Extensão é
+extensao@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: extensão, email
 ---
-
 ID: 102
 CATEGORIA: Contatos
+
 PERGUNTA: Qual é o e-mail de Pesquisa?
-RESPOSTA: O e-mail de Pesquisa é pesquisa@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O e-mail de Pesquisa é
+pesquisa@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: pesquisa, email
-
 ---
-
 ID: 103
 CATEGORIA: Contatos
 PERGUNTA: Qual é o e-mail do Processo Seletivo?
-RESPOSTA: O contato do Processo Seletivo é coppid@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+RESPOSTA: O contato do Processo Seletivo é
+coppid@restinga.ifrs.edu.br. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: processo seletivo, email
 ---
-
 ID: 104
 CATEGORIA: Contatos
 PERGUNTA: Onde encontro todos os contatos dos setores?
@@ -941,7 +883,6 @@ do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: contatos, setores, email
 ---
-
 ID: 105
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro documentos oficiais do campus?
@@ -950,33 +891,32 @@ Restinga e permite pesquisar por categorias.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: documentos, portarias, resoluções
 ---
-
 ID: 106
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro os editais do campus?
-RESPOSTA: Os editais são publicados na página oficial de Editais do Campus Restinga.
+RESPOSTA: Os editais do Campus Restinga são publicados oficialmente na página de
+Editais. Para encontrar um edital específico, consulte a página e utilize os filtros disponíveis
+para pesquisar por categoria, data ou situação.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
-PALAVRAS-CHAVE: editais, edital
+PALAVRAS-CHAVE: editais, edital, edital campus, processos seletivos, chamadas
 ---
 
 ID: 107
 CATEGORIA: Informações Institucionais
 PERGUNTA: Como encontro um edital antigo?
+
 RESPOSTA: Use os filtros da página oficial de Editais para pesquisar por data, categoria e
 status.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: edital antigo, pesquisa
 ---
-
 ID: 108
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde vejo notícias do Campus Restinga?
-
-RESPOSTA: As notícias e atualizações são publicadas no site oficial do Campus Restinga.
-LINK OFICIAL: https://ifrs.edu.br/restinga/
+RESPOSTA: As notícias e atualizações são publicadas no site oficial do Campus
+Restinga. LINK OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: notícias, novidades
 ---
-
 ID: 109
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro informações sobre eventos?
@@ -985,16 +925,14 @@ do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: eventos, atividades
 ---
-
 ID: 110
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro informações sobre bolsas?
 RESPOSTA: Informações sobre bolsas e auxílios dependem do programa. Consulte a
-Assistência Estudantil, Pesquisa, Extensão ou os editais, conforme o caso.
-LINK OFICIAL: https://ifrs.edu.br/restinga/
+Assistência Estudantil, Pesquisa, Extensão ou os editais, conforme o caso. LINK
+OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: bolsa, bolsas, edital
 ---
-
 ID: 111
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro informações sobre pesquisa?
@@ -1003,35 +941,31 @@ projetos, editais e oportunidades.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
 PALAVRAS-CHAVE: pesquisa, iniciação científica
 ---
-
 ID: 112
 CATEGORIA: Informações Institucionais
 PERGUNTA: Onde encontro informações sobre extensão?
 RESPOSTA: Consulte os canais de Extensão e os editais do Campus Restinga para
 projetos e oportunidades.
 LINK OFICIAL: https://ifrs.edu.br/restinga/
+
 PALAVRAS-CHAVE: extensão, projeto
 ---
-
 ID: 113
 CATEGORIA: Navegação e Fallback
-PERGUNTA: Não encontrei a resposta para minha dúvida. O que faço?
-RESPOSTA: Quando a informação não estiver disponível no chatbot, consulte o Espaço do
-Estudante ou a página de Contatos para localizar o setor responsável.
-LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+PERGUNTA: Não encontrei a resposta para minha dúvida. O que faço? RESPOSTA:
+Quando a informação não estiver disponível no chatbot, consulte o Espaço do Estudante
+ou a página de Contatos para localizar o setor responsável. LINK OFICIAL:
+https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: não sei, dúvida, ajuda
-
 ---
-
 ID: 114
 CATEGORIA: Navegação e Fallback
-PERGUNTA: Qual setor devo procurar sobre meu problema acadêmico?
-RESPOSTA: Para documentos, matrícula, histórico, faltas e outros registros, procure a
-Coordenação de Registros Escolares. Para outras questões, consulte o Setor de Ensino.
-LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+PERGUNTA: Qual setor devo procurar sobre meu problema acadêmico? RESPOSTA:
+Para documentos, matrícula, histórico, faltas e outros registros, procure a Coordenação
+de Registros Escolares. Para outras questões, consulte o Setor de Ensino. LINK
+OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: setor, problema acadêmico, ajuda
 ---
-
 ID: 115
 CATEGORIA: Navegação e Fallback
 PERGUNTA: Onde encontro informações para estudantes?
@@ -1040,7 +974,6 @@ do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: estudante, serviços
 ---
-
 ID: 116
 CATEGORIA: Navegação e Fallback
 PERGUNTA: Onde encontro informações atualizadas sobre o campus?
@@ -1049,7 +982,6 @@ documentos, editais e Espaço do Estudante.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: atualização, informação, campus
 ---
-
 ID: 117
 CATEGORIA: Navegação e Fallback
 PERGUNTA: Onde encontro a página oficial do Campus Restinga?
@@ -1063,19 +995,20 @@ ID: 118
 CATEGORIA: Navegação e Fallback
 PERGUNTA: O chatbot não encontrou uma resposta exata. O que ele deve fazer?
 RESPOSTA: Não invente a informação. Informe que a resposta não foi localizada e
-encaminhe o estudante para a página oficial ou setor responsável. Para assuntos gerais,
-consulte o Espaço do Estudante; para contatos, consulte a página de Contatos.
+encaminhe o estudante para a página oficial ou setor responsável. Para assuntos
+gerais, consulte o Espaço do Estudante; para contatos, consulte a página de Contatos.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
-PALAVRAS-CHAVE: fallback, resposta não encontrada, encaminhamento, não inventar
----
+PALAVRAS-CHAVE: fallback, resposta não encontrada, encaminhamento, não
+inventar ---
 
 ID: 119
 CATEGORIA: Sistemas e TI
 PERGUNTA: Como entro no Moodle?
-RESPOSTA: Se você é aluno de curso presencial, acesse o Moodle Presencial; se for
-EaD/MOOC, use o Moodle Virtual. A página oficial de Sistemas mostra os acessos.
+RESPOSTA: Se você é estudante de um curso presencial, utilize o Moodle Presencial. Para
+cursos na modalidade EaD e MOOCs, utilize o Moodle Virtual. Os acessos e tutoriais estão
+disponíveis na página oficial de Sistemas do Campus Restinga.
 LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
-PALAVRAS-CHAVE: moodle, entrar, login
+PALAVRAS-CHAVE: moodle, entrar no moodle, acesso, moodle presencial, moodle virtual
 ---
 
 ID: 120
@@ -1084,61 +1017,156 @@ PERGUNTA: Preciso falar com a CRE. Como contato?
 RESPOSTA: A Coordenação de Registros Escolares atende pelo e-mail
 registros@restinga.ifrs.edu.br. Consulte a página da CRE para saber se seu assunto
 pertence ao setor.
-LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/ensino/registros-escolares/
 PALAVRAS-CHAVE: cre, contato, registros
 ---
-
 ID: 121
 CATEGORIA: Biblioteca
 PERGUNTA: Meu livro venceu. Posso renovar?
 RESPOSTA: Se o empréstimo estiver em situação regular e o exemplar não estiver
-reservado, você pode tentar renovar pelo Pergamum. Consulte as regras da Biblioteca.
-LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/catalogo/
+reservado, você pode tentar renovar pelo Pergamum. Consulte as regras da
+Biblioteca. LINK OFICIAL: https://ifrs.edu.br/restinga/biblioteca/catalogo/
 PALAVRAS-CHAVE: livro vencendo, renovar, pergamum
 ---
-
 ID: 122
 CATEGORIA: Assistência Estudantil
 PERGUNTA: Quero saber se tenho direito ao auxílio.
 RESPOSTA: Os critérios de elegibilidade dependem do edital vigente. Consulte a
 Assistência Estudantil e o edital correspondente antes de concluir se você tem direito.
+
 LINK OFICIAL: https://ifrs.edu.br/restinga/editais/
 PALAVRAS-CHAVE: auxílio, direito, critérios
 ---
-
 ID: 123
 CATEGORIA: Estágios
 PERGUNTA: Quero fazer estágio, por onde começo?
 RESPOSTA: Comece pelas orientações oficiais de Estágios do Campus Restinga e, se
 necessário, entre em contato com estagios@restinga.ifrs.edu.br.
-LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+LINK OFICIAL:
+https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
 PALAVRAS-CHAVE: estágio, começar, primeiro passo
 ---
-
 ID: 124
 CATEGORIA: Cursos e Ensino
-
 PERGUNTA: Quero saber quais cursos estão abertos.
 RESPOSTA: A oferta de cursos pode mudar. Consulte a página oficial de Cursos e, para
 ingresso, os editais e comunicados do campus.
 LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
 PALAVRAS-CHAVE: cursos, oferta, vagas
 ---
-
 ID: 125
 CATEGORIA: Espaço do Estudante
 PERGUNTA: Sou aluno novo. Onde começo?
-RESPOSTA: Comece pelo Espaço do Estudante e pelo Guia de Ambientação Estudantil.
-Eles reúnem os principais sistemas, serviços e orientações.
+RESPOSTA: Comece pelo Espaço do Estudante e pelo Guia de Ambientação
+Estudantil. Eles reúnem os principais sistemas, serviços e orientações.
 LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
 PALAVRAS-CHAVE: calouro, aluno novo, ambientação
 ---
-
 ID: 126
 CATEGORIA: Contatos
 PERGUNTA: Qual e-mail devo usar para minha dúvida?
 RESPOSTA: Consulte a página de Contato do Campus Restinga, que lista os e-mails de
-Ensino, Registros, Biblioteca, Assistência, TI, Estágios e outros setores.
-LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+Ensino, Registros, Biblioteca, Assistência, TI, Estágios e outros setores. LINK OFICIAL:
+https://ifrs.edu.br/restinga/contato/
 PALAVRAS-CHAVE: email, setor, contato
+—
+
+ID: 127
+CATEGORIA: Cursos e Ensino
+PERGUNTA: Qual é a carga horária do meu curso?
+RESPOSTA: A carga horária varia conforme o curso. Consulte a página oficial de Cursos e
+a matriz curricular correspondente para verificar a carga horária e a organização das
+disciplinas do seu curso.
+
+LINK OFICIAL: https://ifrs.edu.br/restinga/cursos/
+PALAVRAS-CHAVE: carga horária, horas do curso, duração, matriz curricular
+---
+
+ID: 128
+CATEGORIA: Espaço do Estudante
+PERGUNTA: Onde encontro as salas do meu curso?
+RESPOSTA: As informações sobre as salas podem ser consultadas junto aos horários
+publicados pelo Campus Restinga. Consulte o Espaço do Estudante e as informações de
+horários para localizar a sala correspondente à sua aula.
+LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+PALAVRAS-CHAVE: salas, sala de aula, localização, sala do curso, salas das aulas
+---
+ID: 129
+CATEGORIA: Estágios
+PERGUNTA: Como utilizo minha bolsa como estágio obrigatório do curso?
+RESPOSTA: As regras para estágio obrigatório dependem do curso e de seu projeto
+pedagógico. Para verificar se a atividade vinculada à bolsa pode ser utilizada para cumprir o
+estágio obrigatório, consulte a coordenação do curso e as orientações oficiais de Estágios
+do Campus Restinga.
+LINK OFICIAL: https://ifrs.edu.br/restinga/extensao/estagios/orientacoes/
+PALAVRAS-CHAVE: bolsa, estágio obrigatório, bolsa estágio, aproveitar bolsa, estágio,
+curso
+---
+ID: 130
+CATEGORIA: Assistência Estudantil
+PERGUNTA: O que faço se minha bolsa ou auxílio estiver atrasado?
+RESPOSTA: Os pagamentos podem seguir regras e prazos definidos pelo programa ou
+edital correspondente. Em caso de atraso, consulte o edital vigente e entre em contato com
+a Assistência Estudantil para verificar a situação do pagamento.
+LINK OFICIAL: https://ifrs.edu.br/restinga/assistencia-estudantil/informacoes/
+PALAVRAS-CHAVE: bolsa, auxílio, pagamento, atraso, pagamento atrasado, bolsa atrasada
+---
+ID: 131
+CATEGORIA: Espaço do Estudante
+PERGUNTA: Onde vejo os horários dos professores?
+RESPOSTA: Consulte os canais oficiais do Campus Restinga e o Espaço do Estudante para
+verificar os horários publicados e as informações disponíveis sobre os docentes.
+LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+PALAVRAS-CHAVE: professores, horários dos professores, docentes, horário
+---
+ID: 132
+CATEGORIA: Contatos
+PERGUNTA: Onde vejo os horários de atendimento dos setores?
+RESPOSTA: Os horários de atendimento podem variar conforme o setor. Consulte os canais
+oficiais e a página de Contatos do Campus Restinga para localizar as informações
+disponíveis de cada setor.
+
+LINK OFICIAL: https://ifrs.edu.br/restinga/contato/
+PALAVRAS-CHAVE: horário de atendimento, atendimento, setores, horários, funcionamento
+---
+ID: 133
+CATEGORIA: Espaço do Estudante
+PERGUNTA: Quais são as datas importantes do calendário acadêmico?
+RESPOSTA: As principais datas acadêmicas estão disponíveis no calendário acadêmico
+vigente. Consulte o Espaço do Estudante e confira sempre a versão mais recente publicada
+pelo Campus Restinga.
+LINK OFICIAL: https://ifrs.edu.br/restinga/estudante/
+PALAVRAS-CHAVE: datas importantes, calendário, prazos, datas acadêmicas
+---
+ID: 134
+CATEGORIA: Sistemas e TI
+PERGUNTA: O que está disponível no SIGAA?
+RESPOSTA: O SIGAA é utilizado por determinados cursos do Campus Restinga e
+disponibiliza serviços e informações acadêmicas conforme o curso. Para verificar as
+funcionalidades disponíveis, consulte os manuais e orientações oficiais do SIGAA.
+LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
+PALAVRAS-CHAVE: sigaa, funcionalidades, serviços, sistema acadêmico, informações
+acadêmicas
+---
+ID: 135
+CATEGORIA: Sistemas e TI
+PERGUNTA: Como funciona o Moodle?
+RESPOSTA: O Campus Restinga possui o Moodle Presencial, utilizado pelos cursos
+regulares presenciais, e o Moodle Virtual, utilizado para cursos na modalidade EaD e
+MOOCs. Os acessos, tutoriais e orientações estão disponíveis na página oficial de
+Sistemas.
+LINK OFICIAL: https://ifrs.edu.br/restinga/institucional/ti/sistemas/
+PALAVRAS-CHAVE: moodle, funcionamento, moodle presencial, moodle virtual, plataforma,
+acesso
+---
+ID: 136
+CATEGORIA: Registros Escolares
+PERGUNTA: Como envio meus atestados?
+RESPOSTA: Os procedimentos relacionados à justificativa de faltas e à documentação
+acadêmica são tratados pela Coordenação de Registros Escolares. Consulte as orientações
+oficiais da CRE para verificar como e onde enviar seu atestado.
+LINK OFICIAL: https://ifrs.edu.br/restinga/ensino/registros-escolares/
+PALAVRAS-CHAVE: atestado, enviar atestado, justificativa, falta, documento, atestado
+médico
 ---

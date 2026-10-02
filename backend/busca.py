@@ -3,13 +3,11 @@ import re
 
 import chromadb
 
+from sentence_transformers import SentenceTransformer
+from FlagEmbedding import FlagReranker
 from rank_bm25 import BM25Okapi
-from sentence_transformers import (
-    SentenceTransformer,
-    CrossEncoder
-)
-
-
+# temp
+from time import perf_counter
 # ============================================================
 # MODELOS
 # ============================================================
@@ -22,10 +20,10 @@ modelo_embedding = SentenceTransformer(
 
 print("Carregando reranker...")
 
-reranker = CrossEncoder(
-    "cross-encoder/ms-marco-MiniLM-L-6-v2"
+reranker = FlagReranker(
+    "BAAI/bge-reranker-v2-m3",
+    use_fp16=False
 )
-
 
 # ============================================================
 # CHROMADB
@@ -143,7 +141,12 @@ print(f"Chunks carregados no BM25: {len(base_bm25)}")
 # BUSCA SEMÂNTICA
 # ============================================================
 
+
+    
+
+
 def buscar_semantica(pergunta, top_k=20):
+    t0 = perf_counter()
 
     texto_query = f"query: {pergunta}"
 
@@ -192,6 +195,7 @@ def buscar_semantica(pergunta, top_k=20):
             "chunk": documento,
             "distancia": float(distancia)
         })
+    print(f"Busca semântica: {perf_counter() - t0:.2f}s")
 
     return candidatos
 
@@ -201,6 +205,7 @@ def buscar_semantica(pergunta, top_k=20):
 # ============================================================
 
 def buscar_lexical(pergunta, top_k=20):
+    t0 = perf_counter()
 
     if modelo_bm25 is None or not base_bm25:
         return []
@@ -235,6 +240,7 @@ def buscar_lexical(pergunta, top_k=20):
             **item,
             "score_bm25": float(scores[indice])
         })
+    print(f"Busca lexical: {perf_counter() - t0:.2f}s")
 
     return candidatos
 
@@ -248,6 +254,7 @@ def combinar_resultados(
     resultados_lexicais,
     k=60
 ):
+    t0 = perf_counter()
     """
     Combina os rankings usando Reciprocal Rank Fusion (RRF).
 
@@ -294,6 +301,8 @@ def combinar_resultados(
             for chave, valor in item.items():
                 if chave not in registro:
                     registro[chave] = valor
+    
+    print(f"RRF: {perf_counter() - t0:.2f}s")
 
     return sorted(
         combinados.values(),
@@ -312,6 +321,8 @@ def buscar_contexto(
     top_lexical=20,
     top_final=5
 ):
+
+    inicio = perf_counter()
 
     # --------------------------------------------------------
     # 1. BUSCA SEMÂNTICA
@@ -343,30 +354,29 @@ def buscar_contexto(
     if not candidatos:
         return []
 
-    for item in candidatos[:10]:
-        print(
-            f"\nArquivo: {item['arquivo']}\n"
-            f"Seção: {item['secao']}\n"
-            f"Subseção: {item['subsecao']}\n"
-            f"Score RRF: {item['score_fusao']:.4f}\n"
-            f"Chunk: {item['chunk']}\n"
-        )
+    candidatos = candidatos[:5]
 
     # --------------------------------------------------------
     # 4. RERANKING
     # --------------------------------------------------------
 
+    t0 = perf_counter()
     pares = [
-        (pergunta, item["chunk"])
+        [pergunta, item["chunk"]]
         for item in candidatos
     ]
 
-    scores_rerank = reranker.predict(pares)
+    scores_rerank = reranker.compute_score(
+        pares,
+        normalize=True
+    )
 
-    for item, score in zip(
-        candidatos,
-        scores_rerank
-    ):
+    # Garante que o resultado possa ser percorrido
+    # mesmo se houver apenas um candidato.
+    if isinstance(scores_rerank, (int, float)):
+        scores_rerank = [scores_rerank]
+
+    for item, score in zip(candidatos, scores_rerank):
         item["rerank"] = float(score)
 
     # --------------------------------------------------------
@@ -378,8 +388,12 @@ def buscar_contexto(
         reverse=True
     )
 
+    print(f"Reranker: {perf_counter() - t0:.2f}s")
+
     # --------------------------------------------------------
     # 6. RETORNA OS MELHORES CHUNKS
     # --------------------------------------------------------
 
     return candidatos[:top_final]
+
+    print(f"Tempo total da busca: {perf_counter() - inicio:.2f}s")

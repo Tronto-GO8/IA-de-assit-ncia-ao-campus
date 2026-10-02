@@ -158,14 +158,14 @@ async function enviarPergunta() {
     // HISTÓRICO
     // ==========================================
 
+
+    const historicoAnterior = [...historico];
+
+    // Adiciona a pergunta atual ao histórico local.
     historico.push({
-
         autor: "usuario",
-
         texto: pergunta
-
     });
-
 
     inputPergunta.value = "";
 
@@ -189,26 +189,17 @@ async function enviarPergunta() {
         const resposta = await fetch(
             "/chat",
             {
-
                 method: "POST",
 
                 headers: {
-
-                    "Content-Type":
-                        "application/json"
-
+                    "Content-Type": "application/json"
                 },
 
                 body: JSON.stringify({
-
                     pergunta: pergunta,
-
-                    historico: historico,
-
+                    historico: historicoAnterior,
                     sessao_id: sessaoId
-
                 })
-
             }
         );
 
