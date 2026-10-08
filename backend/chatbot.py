@@ -159,7 +159,7 @@ def responder(pergunta, historico=None):
     # ==========================================
     # CONTEXTO DOS DOCUMENTOS
     # ==========================================
-
+    print(f"Contexto: inicio")
     contexto = ""
 
     for item in chunks:
@@ -178,7 +178,7 @@ SUBSEÇÃO: {item.get('subsecao', '')}
     # ==========================================
     # PROMPT
     # ==========================================
-
+    print(f"Contexto: fim")
     prompt = f"""
 Você é um assistente do IFRS Campus Restinga.
 
@@ -246,7 +246,7 @@ PERGUNTA ATUAL:
 
     try:
         inicio = perf_counter()
-
+        print(f"Gemini: inicio")
         resposta = client.models.generate_content(
             model="gemini-3.5-flash-lite",
             contents=prompt
