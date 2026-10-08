@@ -6,6 +6,7 @@ from busca import buscar_contexto
 
 #temp 
 from time import perf_counter
+from google.genai import types
 # ==========================================
 # CONFIGURAÇÃO
 # ==========================================
@@ -15,7 +16,10 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 client = genai.Client(
-    api_key=api_key
+    api_key=api_key,
+     http_options=types.HttpOptions(
+        timeout=30000
+    )
 )
 
 
