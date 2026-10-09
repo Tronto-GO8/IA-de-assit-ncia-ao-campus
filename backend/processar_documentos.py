@@ -12,6 +12,22 @@ PASTA_TEXTOS = "documentos_em_txt"
 os.makedirs(PASTA_TEXTOS, exist_ok=True)
 
 
+
+# ============================================================
+# LIMPEZA DA PASTA DE TEXTOS
+# ============================================================
+
+def limpar_pasta_textos():
+    os.makedirs(PASTA_TEXTOS, exist_ok=True)
+
+    for arquivo in os.listdir(PASTA_TEXTOS):
+        caminho = os.path.join(PASTA_TEXTOS, arquivo)
+
+        if os.path.isfile(caminho) and arquivo.lower().endswith(".txt"):
+            os.remove(caminho)
+            print(f"Texto antigo removido: {arquivo}")
+
+
 # ============================================================
 # EXTRAÇÃO
 # ============================================================
@@ -260,4 +276,6 @@ def processar_documentos():
 
 
 if __name__ == "__main__":
+
+    limpar_pasta_textos()
     processar_documentos()
