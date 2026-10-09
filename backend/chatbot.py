@@ -15,7 +15,11 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 client = genai.Client(
-    api_key=api_key
+    api_key=api_key,
+    
+    http_options=genai.types.HttpOptions(
+        timeout=30000
+    )
 )
 
 
@@ -166,7 +170,7 @@ def responder(pergunta, historico=None):
     # ==========================================
     # CONTEXTO DOS DOCUMENTOS
     # ==========================================
-
+    print(f"Contexto: inicio")
     contexto = ""
 
     for item in chunks:
@@ -185,7 +189,7 @@ SUBSEÇÃO: {item.get('subsecao', '')}
     # ==========================================
     # PROMPT
     # ==========================================
-
+    print(f"Contexto: fim")
     prompt = f"""
 Você é um assistente do IFRS Campus Restinga.
 
@@ -253,7 +257,7 @@ PERGUNTA ATUAL:
 
     try:
         inicio = perf_counter()
-
+        print(f"Gemini: inicio")
         resposta = client.models.generate_content(
             model="gemini-3.5-flash-lite",
             contents=prompt
