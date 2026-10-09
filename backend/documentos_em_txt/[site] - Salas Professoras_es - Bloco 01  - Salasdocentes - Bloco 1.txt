@@ -1,107 +1,96 @@
-Salas Docentes - Bloco 1
-Numero
-da mesa
-Sala: 104
-Numero
-da mesa
-Sala: 105
-Número
-da mesa
-Sala: 106
-Numero
-da mesa
-Sala: 107
-Numero
-da mesa
-Sala: 108
-Gleison Samuel do Nascimento
-Rafael Pereira Esteves
-Juliana Batistti (em licença)
-Daniel Bataglia
-Nilson Varella Rübenich (Reitoria)
-Eliana Beatriz Pereira
-Fernanda Beron
-Verônica Roque
-Orlando Albani Carvalho
-Lisandra Coromaldi
-Diego Rosa
-Susana Szewczyk
-Angela Zanotelli Cagliari
-Cassius Ugarte
-Matheus Perin
-Rodrigo Porto
-Alexandre Troian
-Andreia Meinz
-João Roberto Gabbardo
-Luis Felipe Kiesow de Macedo
-Jezer Machado
-Jovani Zalamena
-Felix Nicolai Delling
-Gilberto Pavani
-Elizandra Martinazzi
-Silvia Munimos
-Diego Monte Blanco
-Carlos Mario Dal Col Zeve
-Diana Vega Marona
-Sandra
-Gabriel
-Melissa Ferreira
-Marcelo Machado
-Diego Romeira Cigaran Chaves
-Leonardo Amaral
-Daniela Sanfelice
-Daniela Fávero
-(Coordenação de Pesquisa)
-Jean Hamerski
-Luiz Carlos Puglistione
-Nathália Gasparini
-Mauro Maisonave de Melo
-Luciano Furlan
-Ricardo Luis Santos
-Coordenações de Curso/ Atendimento
-Iuri Albandes
-Numero
-da mesa
-Sala: 111
-Numero
-da mesa
-Sala: 112
-Numero
-da mesa
-Sala: 113
-O Coordenador de cada curso está
-especificado na página de cada curso no site
-do Campus Restinga: https://ifrs.edu.
-br/restinga/cursos/ . Para atendimento, é
-preciso bservar o HORÁRIO DAS
-COORDENAÇÕES ou agendar diretamente
-com a coordenação.
-Bruno Canal
-Tiago Bassani Rech (em licença)
-Wesley Lautenschlaeger
-Alexsandro Cristóvão Bonatto
-Rafael Frois da Silva
-Flávia Andrade
-Paulo Napar
-Humberto de Oliveira
-Helena Patini Lancellotti
-Cassiana Grigoletto
-Letícia Garcia
-Divane Floreni Soares Leal
-Fausto Barbosa
-Roberto Domingues Souza
-Carla Melissa
-Anelise
-Tatiana Teixeira Silveira
-Renie Robim (em licença)
-Bruna Silva
-Uilian Silva
-Dania Gonçalves
-Marlon Valentini
-Luana Teixeira
-Laura Soares
-Ione da Silva
-Sergio Portella
-Anderson Hakenhoar de Matos
-Stefan Chamorro
-Jessie Ortiz Marimon
+Salas Docentes — Bloco 1
+Tabela convertida para texto estruturado, preservando a relação entre sala, número da mesa e
+professor(a).
+Sala 104
+• Mesa 1: Gleison Samuel do Nascimento
+• Mesa 2: Nilson Varella Rübenich (Reitoria)
+• Mesa 2: Lisandra Coromaldi
+• Mesa 3: Matheus Perin
+• Mesa 4: Luis Felipe Kiesow de Macedo
+• Mesa 5: Elizandra Martinazzi
+• Mesa 6: Diana Vega Marona
+• Mesa 7: Diego Romeira Cigaran Chaves
+• Mesa 8: Luiz Carlos Puglistione
+• Mesa 9: Mauro Maisonave de Melo
+• Mesa 10: Ricardo Luis Santos
+• Mesa 11: Iuri Albandes
+• Mesa 12: Bruno Canal
+• Mesa 13: Alexsandro Cristóvão Bonatto
+• Mesa 14: Humberto de Oliveira
+• Mesa 15: Divane Floreni Soares Leal
+• Mesa 16: Anelise
+Sala 105
+• Mesa 1: Rafael Pereira Esteves
+• Mesa 2: Eliana Beatriz Pereira
+• Mesa 3: Diego Rosa
+• Mesa 4: Rodrigo Porto
+• Mesa 5: Jezer Machado
+• Mesa 6: [sem nome informado]
+• Mesa 7: Sandra
+• Mesa 8: Leonardo Amaral
+Sala 106
+• Mesa 1: [sem nome informado]
+• Mesa 2: Fernanda Beron
+
+• Mesa 3: Susana Szewczyk
+• Mesa 4: Alexandre Troian
+• Mesa 5: Jovani Zalamena
+• Mesa 6: Silvia Munimos
+• Mesa 7: Gabriel
+• Mesa 8: Daniela Sanfelice
+Sala 107
+• Mesa 1: Juliana Batistti (em licença)
+• Mesa 1: Verônica Roque
+• Mesa 2: Angela Zanotelli Cagliari
+• Mesa 3: Andreia Meinz
+• Mesa 4: Felix Nicolai Delling
+• Mesa 5: Diego Monte Blanco
+• Mesa 6: Melissa Ferreira
+• Mesa 7: Daniela Fávero (Coordenação de Pesquisa)
+• Mesa 7: Nathália Gasparini
+• Mesa 8: Luciano Furlan
+Sala 108
+• Mesa 1: Daniel Bataglia
+• Mesa 2: Orlando Albani Carvalho
+• Mesa 3: Cassius Ugarte
+• Mesa 4: João Roberto Gabbardo
+• Mesa 5: Gilberto Pavani
+• Mesa 6: Carlos Mario Dal Col Zeve
+• Mesa 7: Marcelo Machado
+• Mesa 8: Jean Hamerski
+Sala 111
+• Mesa 1: Tiago Bassani Rech (em licença)
+• Mesa 1: Rafael Frois da Silva
+• Mesa 2: Helena Patini Lancellotti
+• Mesa 3: Fausto Barbosa
+• Mesa 4: Tatiana Teixeira Silveira
+• Mesa 5: Uilian Silva
+• Mesa 6: Luana Teixeira
+
+• Mesa 7: Sergio Portella
+• Mesa 8: Stefan Chamorro
+Sala 112
+• Mesa 1: Flávia Andrade
+• Mesa 1: Cassiana Grigoletto
+• Mesa 2: Letícia Garcia
+• Mesa 3: Roberto Domingues Souza
+• Mesa 4: Renie Robim (em licença)
+• Mesa 5: Dania Gonçalves
+• Mesa 6: Laura Soares
+• Mesa 7: Anderson Hakenhoar de Matos
+• Mesa 8: Jessie Ortiz Marimon
+Sala 113
+• Mesa 1: Wesley Lautenschlaeger
+• Mesa 2: Paulo Napar
+• Mesa 3: Letícia Garcia
+• Mesa 4: Carla Melissa
+• Mesa 5: Bruna Silva
+• Mesa 6: Marlon Valentini
+• Mesa 7: Ione da Silva
+Coordenações de Curso / Atendimento
+O coordenador de cada curso está especificado na página de cada curso no site do Campus Restinga:
+https://ifrs.edu.br/restinga/cursos/.
+Para atendimento, é preciso observar o horário das coordenações ou agendar diretamente com a
+coordenação.
+Observação: a estrutura foi reconstruída a partir da tabela visual do documento. Quando a tabela não apresentava
+nome para uma mesa, foi indicado '[sem nome informado]'.

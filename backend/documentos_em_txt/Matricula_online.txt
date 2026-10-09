@@ -1,71 +1,44 @@
 SIGAA: MATRÍCULA ONLINE
-TUTORIAL
+Tutorial para Discentes
+Matrícula Online no SIGAA
+Tutorial para discentes realizarem a matrícula online pelo Portal do Discente.
+1. Acessar o Portal do Discente
+Acesse http://sig.ifrs.edu.br/sigaa. Informe o CPF e a senha e clique em Entrar.
+2. Acessar o Portal Discente
+Na área de portais do SIGAA, clique em Portal Discente.
+3. Acessar Ensino
+No Portal do Discente, clique em Ensino.
+4. Acessar Matrícula online
+No menu Ensino, clique em Matrícula online.
+5. Realizar Matrícula
+Clique em Realizar Matrícula.
+6. Iniciar seleção de turmas
+Na tela de instruções da matrícula, clique em Iniciar seleção de turmas.
+A seleção permite escolher os componentes curriculares desejados, de acordo com a oferta de turmas.
+7. Selecionar as disciplinas
+Selecione as disciplinas/turmas em que pretende se matricular.
+8. Adicionar as turmas selecionadas
+Depois de selecionar as disciplinas, clique em Adicionar Turmas Selecionadas.
+9. Conferir as disciplinas
+Na tela seguinte, confira as disciplinas adicionadas na seção Turmas Selecionadas. É possível verificar as
+turmas escolhidas antes de confirmar a matrícula.
+Disciplinas equivalentes
+Atenção: para cursar disciplinas ofertadas em outros cursos, mas que são equivalentes à sua matriz curricular,
+utilize a opção Ver equivalentes à estrutura curricular.
+10. Confirmar matrículas
+Após conferir as disciplinas selecionadas, clique em Confirmar matrículas.
+11. Informar a senha e confirmar
+Para finalizar, informe sua senha e clique novamente em Confirmar Matrículas.
+12. Imprimir o comprovante
+Após a confirmação da solicitação de matrícula, clique em Imprimir comprovante.
+Comprovante de matrícula
+O comprovante de matrícula será gerado em formato PDF.
 
-SOBRE
-Neste tutorial, vamos demonstrar o passo a passo para os discentes efetuarem a matrícula online.
-Primeiro, acesse o Portal do Discente no link http://sig.ifrs.edu.br/sigaa.
-1) Informe o “CPF” e a
-“senha”.
-Após, clique no botão
-Entrar.
-
-SOBRE
-2) Clique em
-“Portal Discente”.
-
-3) Clique em
-“Ensino”.
-4) Clique em
-“Matrícula online”.
-5) Clique em
-“Realizar
-Matrícula”.
-
-6) Clique em
-“Iniciar seleção de
-turmas”.
-
-7) Selecione as
-disciplinas que
-pretende se
-matricular.
-8) Clique em
-“Adicionar Turmas
-Selecionadas”.
-
-10 Clique em
-“Conﬁrmar
-matrículas”.
-9) Nesta tela,
-podemos conferir as
-disciplinas
-adicionadas.
-
-Atenção: Para cursar disciplinas ofertadas em
-outros curso, mas que são equivalentes a sua
-matriz curricular, você deve acessar a opção “Ver
-equivalentes a estrutura curricular”.
-
-11) Para ﬁnalizar,
-informe sua “senha”.
-Após, clique no botão
-“Conﬁrmar
-Matrículas”.
-
-12) Após conﬁrmada a
-solicitação de
-matrícula, clique para
-imprimir o
-comprovante.
-
-O comprovante de
-matrícula será gerado
-em formato PDF.
-
-Conteúdo:
-Cristian Gusberti
-Revisão:
-Mara Lisiane Sievert
-Cesar Germano Eltz
-Diagramação e editoração:
-Rafaela Jardim
+Resumo do caminho no SIGAA
+Portal do Discente → Ensino → Matrícula online → Realizar Matrícula → Iniciar seleção de turmas →
+selecionar disciplinas → Adicionar Turmas Selecionadas → conferir → Confirmar matrículas → informar
+senha → Confirmar Matrículas → Imprimir comprovante.
+Resumo: SIGAA → Portal Discente → Ensino → Matrícula online → Realizar Matrícula → selecionar turmas →
+adicionar turmas → conferir → confirmar com senha → imprimir comprovante em PDF.
+Versão otimizada para banco RAG: o conteúdo das imagens foi transcrito para texto; tabelas foram convertidas em listas
+estruturadas; capa, créditos, diagramação e informações sem valor para consulta foram removidos.

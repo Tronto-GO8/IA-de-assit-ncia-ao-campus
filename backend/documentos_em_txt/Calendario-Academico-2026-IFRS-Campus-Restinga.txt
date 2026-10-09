@@ -1,606 +1,450 @@
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-Campus Restinga
-Ano 2026
-Calendário Acadêmico
-Janeiro | 2026
-Fevereiro | 2026
-Março | 2026
-Observações
-Observações
-Observações
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-01 QUI -
-05 SEG
-05/01 a 06/02
-23 SEX
-23 a 28
-26/01 a 04/02
-28 QUA -
-29 QUI
-30 SEX
-02 SEG
-02 a 06
-05 QUI
-06 SEX
-09 a 13
-09 a 13
-09 a 13
-11 QUA
-16 SEG
-17 TER
-18 QUA
-18 a 27
-23 a 25
-23 a 27
-26 QUI
-27 SEX -
-02 SEG
-02 a 11
-06 SEX
-08 DOM
-9 a 13
-13 SEX
-14 SAB
-16 SEG
-12 a 18
-19 a 31
-21 SAB -
-26 e 27
-28 SAB
-31 TER
-Confraternização Universal (feriado nacional)
-- Início do período preferencial para agendamento de férias docente
-- Férias docentes (33 dias)
-- Chamada Pública do Processo Seletivo 2026/1
-- Envio da documentação referente à Chamada Pública 2026/1
-- Rematrícula online dos Cursos de EMI, EMI-EJA, Subsequente, Concomitante e
-Superiores
-Dia Nacional de Combate ao Trabalho escravo
-- Dia da Visibilidade Trans
-- Dia Mundial da Não-Violência e Cultura de Paz
-- Nossa Senhora dos Navegantes (feriado municipal)
-- Solicitações de quebra de pré-requisito via formulário online
-- Homologação online das rematrículas pelas coordenações de curso.
-- Processamento de Matrícula
-- Formação pedagógica e planejamento
-- Homologação das solicitações de quebra de pré-requisito
-- Período para a rematrícula na Especialização em Manufatura Avançada
-- Dia Internacional das Mulheres e Meninas na Ciência
-- Dia não letivo (Carnaval)
-- Carnaval (feriado nacional)
-- Início das aulas para todos os cursos: Retorno após às 13:30 com atividade de recepção
-para os estudantes de todos os cursos
-- Inscrições para o Auxílio Estudantil - Etapa 2
-- Ajuste de matrículas 2026/1 - SIA e SIGAA - Cursos Semestrais
-- Reuniões dos Colegiados de todos os cursos
-- Homologação dos ajustes de rematrículas 2026/1
-Processamento dos ajustes de matrícula
-8 dias letivos - Todos os cursos
-- Início do semestre 2025/1 (ingresso em 2025) da Especialização em Manufatura Avançada
-- Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Anuais
-- Prazo final para entrega dos Planos de Ensino e Planos de Estudos Dirigidos - Progressão
-Parcial
-- Dia Internacional da Mulher
-- Semana de Valorização das Mulheres que fizeram história (Lei 14.986/2024)
-- Último dia para publicação do Plano de Trabalho Docente no SIGAA
-- Sábado Letivo - Todos os cursos (horário de sexta-feira)
-- Publicação do Edital de Aproveitamento de Estudos e Certificação de Conhecimentos -
-2026/1
-- Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Semestrais
-- Escolha dos/as Representantes de Turma e de Professores/as Conselheiros/as dos Cursos
-Técnicos Integrados ao Ensino Médio - Anuais e Semestrais
-Dia Internacional contra Discriminação Racial
-- Solenidades de Formatura
-- Sábado Letivo - Todos os cursos, exceto Guia de Turismo (horário de segunda-feira)
-- Último dia para preenchimento do PEI
-23 dias letivos - Guia de Turismo
-24 dias letivos - Demais cursos
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
+Calendário Acadêmico 2026 — IFRS Campus Restinga
+Tabelas convertidas para texto estruturado, preservando a relação entre mês, data/período e descrição.
+Janeiro
+Data/período: 01 QUI
+Descrição: Confraternização Universal (feriado nacional)
+Data/período: 05 SEG
+Descrição: Início do período preferencial para agendamento de férias docente
+Data/período: 05/01 a 06/02
+Descrição: Férias docentes (33 dias)
+Data/período: 23 SEX
+Descrição: Chamada Pública do Processo Seletivo 2026/1
+Data/período: 23 a 28
+Descrição: Envio da documentação referente à Chamada Pública 2026/1
+Data/período: 26/01 a 04/02
+Descrição: Rematrícula online dos Cursos de EMI, EMI-EJA, Subsequente, Concomitante e Superiores
+Data/período: 28 QUA
+Descrição: Dia Nacional de Combate ao Trabalho escravo
+Data/período: 29 QUI
+Descrição: Dia da Visibilidade Trans
+Data/período: 30 SEX
+Descrição: Dia Mundial da Não-Violência e Cultura de Paz
+Fevereiro
+Data/período: 02 SEG
+Descrição: Nossa Senhora dos Navegantes (feriado municipal)
+Data/período: 02 a 06
+Descrição: Solicitações de quebra de pré-requisito via formulário online
+Data/período: 05 QUI
+Descrição: Homologação online das rematrículas pelas coordenações de curso
+Data/período: 06 SEX
+Descrição: Processamento de Matrícula
+Data/período: 09 a 13
+Descrição: Formação pedagógica e planejamento
+Data/período: 09 a 13
+Descrição: Homologação das solicitações de quebra de pré-requisito
+Data/período: 09 a 13
+Descrição: Período para a rematrícula na Especialização em Manufatura Avançada
+Data/período: 11 QUA
+Descrição: Dia Internacional das Mulheres e Meninas na Ciência
+Data/período: 16 SEG
+Descrição: Dia não letivo (Carnaval)
+Data/período: 17 TER
+Descrição: Carnaval (feriado nacional)
 
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-Abril | 2026
-Maio | 2026
-Junho | 2026
-Observações
-Observações
-Observações
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-02 QUI
-03 SEX
-06 a 10
-11 SAB
-13 a 17
-19 DOM
-20 SEG
-21 TER
-25 SAB
-27/04 a 08/05
-01 SEX
-09 SAB
-10 DOM
-17 DOM
-21 QUI
-22 SEX
-22 SEX
-22 SEX
-25/05 a 02/06
-30 SAB
-02 a 16
-04 QUI
-05 SEX
-08 SEG
-13 SAB
-13 SAB
-15 SEG
-15 SEG
-15 SEG -
-23 TER
-23 SEG
-24 a 30
-24 QUA
-27 SAB
-28 DOM
-- Dia Mundial de Conscientização do Autismo
-- Sexta-feira santa (feriado nacional)
-- Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos Técnicos em Agroecologia e
-Comércio Integrados ao Ensino Médio - EJA-EPT
-- Sábado Letivo - Cursos semestrais (horário de terça-feira)
-- Conselhos de Classe de acompanhamento dos Cursos EMI-EJA e
-Concomitante/Subsequente em Informática
-- Dia dos povos indígenas
-- Dia não letivo
-- Tiradentes (feriado nacional)
-- Sábado Letivo - Todos os cursos (horário de sexta-feira)
-- Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos de EMI Anual
-20 dias letivos - EMI
-21 dias letivos - Cursos semestrais
-- Dia do Trabalhador e da Trabalhadora (feriado nacional)
-- Sábado Letivo - Todos os cursos (horário de quinta-feira)
-- Dia das Mães
-- Dia de Combate a LGBTfobia
-- Término do 1º trimestre - EMI Anual : 67 dias letivos
-- Prazo final para registro de notas do 1º trimestre no SIA e SIGAA - EMI Anual
-- Início do 2º trimestre - EMI Anual
-- Prazo final para preenchimento dos pareceres nos PEIs
-- Conselhos de Classe dos Cursos EMI anuais (períodos de aula reduzidos - manhã e
-tarde)
-- Sábado Letivo - Todos os cursos (horário de segunda-feira)
-22 dias letivos - Todos os cursos
-- Entrega do Requerimento de Diplomação - Formandos 2026/1
-- Corpus Christi (feriado nacional)
-- Dia não letivo
-- Publicação do Edital de Transferência e de Ingresso Diplomado 2026/2
-- Sábado Letivo - Todos os cursos (horário de sexta-feira)
-- Reunião com as famílias e estudantes para entrega de boletins e pareceres dos Cursos EMI
-anuais (Lazer, Informática e Eletrônica)
-- Entrega dos Relatórios de Estágio Obrigatório
-- Último dia para trancamento de componente curricular (disciplina).
-Prazo final para entrega das atividades complementares dos/as prováveis formandos/as
-2026/1
-- Término do 1º semestre - Último dia letivo do Curso Guia de Turismo
-- Prazo final para registro das notas do semestre no SIA e SIGAA: Curso Subsequente - Guia de
-Turismo.
-- Exames do Curso Subsequente - Guia de Turismo
-- Dia de São João
-- Sábado Letivo - Todos os cursos, exceto Guia de Turismo (horário de terça-feira)
-- Dia do Orgulho LGBTQIAPN+
-23 dias letivos - Todos os cursos
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
+Data/período: 18 QUA
+Descrição: Início das aulas para todos os cursos: retorno após às 13:30 com atividade de recepção para os estudantes
+de todos os cursos
+Data/período: 18 a 27
+Descrição: Inscrições para o Auxílio Estudantil - Etapa 2
+Data/período: 23 a 25
+Descrição: Ajuste de matrículas 2026/1 - SIA e SIGAA - Cursos Semestrais
+Data/período: 23 a 27
+Descrição: Reuniões dos Colegiados de todos os cursos
+Data/período: 26 QUI
+Descrição: Homologação dos ajustes de rematrículas 2026/1
+Data/período: 27 SEX
+Descrição: Processamento dos ajustes de matrícula
+Data/período: 27 SEX
+Descrição: 8 dias letivos - Todos os cursos
+Março
+Data/período: 02 SEG
+Descrição: Início do semestre 2025/1 (ingresso em 2025) da Especialização em Manufatura Avançada
+Data/período: 02 a 11
+Descrição: Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Anuais
+Data/período: 06 SEX
+Descrição: Prazo final para entrega dos Planos de Ensino e Planos de Estudos Dirigidos - Progressão Parcial
+Data/período: 08 DOM
+Descrição: Dia Internacional da Mulher
+Data/período: 09 a 13
+Descrição: Semana de Valorização das Mulheres que fizeram história (Lei 14.986/2024)
+Data/período: 13 SEX
+Descrição: Último dia para publicação do Plano de Trabalho Docente no SIGAA
+Data/período: 14 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de sexta-feira)
+Data/período: 16 SEG
+Descrição: Publicação do Edital de Aproveitamento de Estudos e Certificação de Conhecimentos - 2026/1
+Data/período: 12 a 18
+Descrição: Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Semestrais
+Data/período: 19 a 31
+Descrição: Escolha dos/as Representantes de Turma e de Professores/as Conselheiros/as dos Cursos Técnicos
+Integrados ao Ensino Médio - Anuais e Semestrais
+Data/período: 21 SAB
+Descrição: Dia Internacional contra Discriminação Racial
+Data/período: 26 e 27
+Descrição: Solenidades de Formatura
+Data/período: 28 SAB
+Descrição: Sábado Letivo - Todos os cursos, exceto Guia de Turismo (horário de segunda-feira)
+Data/período: 31 TER
+Descrição: Último dia para preenchimento do PEI
 
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-Julho | 2026
-Agosto | 2026
-Setembro | 2026
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-Observações
-01 QUA
-01 a 24
-03 SEX
-03 SEX
-06 a 08 -
-08 QUA -
-09 e 10
-13 a 24
-13 a 24
-15 a 22
-20 a 24
-23 QUI
-24 SEX
-25 SAB
-27 e 28
-29/07 a 09/08
-29/07 a 07/08
-29 QUA
-03 a 05
-03 SEG
-05 a 07
-06 QUI
-07 SEX
-09 DOM
-10 a 14
-10 a 14
-11 TER -
-14 SEX -
-15 SAB
-17 a 21
-24 SEG
-24/08 a 04/09
-27 e 28
-28 SEX
-29 SAB
-29 SAB
-07 SEG
-08 a 14 -
-08 TER
-08 TER
-09 QUA
-15 a 23
-- Reunião de Colegiado do Curso Técnico em Guia de Turismo
-- Recesso do Curso de Guia de Turismo
-- Último dia letivo dos cursos semestrais, exceto Guia de Turismo
-- Término do semestre 2025/1 (ingresso em 2025) da Especialização em Manufatura Avançada
-Exames dos Cursos de EMI-EJA, Superiores e Técnico em Informática
-(Subsequente/Concomitante)
-Prazo final para o registro de notas e exames do 1º semestre no SIA e no SIGAA, bem como
-para a entrega dos diários de classe na CRE e dos documentos dos PEIS, devidamente preenchidos,
-referentes aos cursos EMI-EJA, Superiores, Subsequentes e Concomitantes.
-- Conselhos de Classe Cursos EMI-EJA e Técnico em Informática (Subsequente/Concomitante)
-- Recesso Escolar - Todos os Cursos, exceto Guia de Turismo
-- Período prioritário para agendamento de férias docentes (12 dias)
-- Rematrícula online 2026/2 - Cursos Semestrais
-- Período para a rematrícula na Especialização em Manufatura Avançada
-- Homologação online das rematrículas pelas coordenações de curso.
-- Processamento de Matrícula
-- Dia da Mulher Negra (instituído pela Lei 12.987/2014)
-- Formação Pedagógica e Planejamento
-- Inscrições para o Auxílio Estudantil - Etapas 3 e 4
-- Solicitações de quebra de pré-requisito via formulário online
-- Início das aulas do 2º semestre - Todos os Cursos
-0 dias letivos - Guia de Turismo
-11 dias letivos - Todos os cursos, exceto Guia de Turismo
-- Ajuste de matriculas 2026/2 - SIA e SIGAA - Cursos Semestrais
-- Início do semestre 2026/2 (ingresso em 2025) da Especialização em Manufatura Avançada
-- Homologação das solicitações de quebra de pré-requisito
-- Homologação online das rematrículas pelas coordenações de curso.
-- Processamento dos ajustes de matrícula
-- Dia Internacional dos Povos Indígenas
-- Reuniões de Colegiado de Curso
-- Escolha dos/as Representantes de Turma e de Professores/as Conselheiros/as dos cursos
-Técnicos em Agroecologia e Comércio Integrados ao Ensino Médio - EJA-EPT
-Prazo Final para entrega dos Planos de Ensino e Planos de Estudos Dirigidos - Progressão
-Parcial.
-ÚItimo dia para publicação do Plano de Trabalho Docente
-- Sábado Letivo - Todos os cursos (horário de segunda-feira)
-- Reuniões dos Colegiados de Acompanhamento dos PEIS dos Cursos Semestrais
-- Publicação do Edital de Aproveitamento de Estudos e de Certificação de Conhecimentos -
-2026/2
-- Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos EMI Anual
-- Solenidades de Formatura
+Data/período: 31 TER
+Descrição: 23 dias letivos - Guia de Turismo
+Data/período: 31 TER
+Descrição: 24 dias letivos - Demais cursos
+Abril
+Data/período: 02 QUI
+Descrição: Dia Mundial de Conscientização do Autismo
+Data/período: 03 SEX
+Descrição: Sexta-feira santa (feriado nacional)
+Data/período: 06 a 10
+Descrição: Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos Técnicos em Agroecologia e Comércio
+Integrados ao Ensino Médio - EJA-EPT
+Data/período: 11 SAB
+Descrição: Sábado Letivo - Cursos semestrais (horário de terça-feira)
+Data/período: 13 a 17
+Descrição: Conselhos de Classe de acompanhamento dos Cursos EMI-EJA e Concomitante/Subsequente em Informática
+Data/período: 19 DOM
+Descrição: Dia dos povos indígenas
+Data/período: 20 SEG
+Descrição: Dia não letivo
+Data/período: 21 TER
+Descrição: Tiradentes (feriado nacional)
+Data/período: 25 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de sexta-feira)
+Data/período: 27/04 a 08/05
+Descrição: Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos de EMI Anual
+Data/período: 30
+Descrição: 20 dias letivos - EMI
+Data/período: 30
+Descrição: 21 dias letivos - Cursos semestrais
+Maio
+Data/período: 01 SEX
+Descrição: Dia do Trabalhador e da Trabalhadora (feriado nacional)
+Data/período: 09 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de quinta-feira)
+Data/período: 10 DOM
+Descrição: Dia das Mães
+Data/período: 17 DOM
+Descrição: Dia de Combate a LGBTfobia
+Data/período: 21 QUI
+Descrição: Término do 1º trimestre - EMI Anual: 67 dias letivos
+Data/período: 22 SEX
+Descrição: Prazo final para registro de notas do 1º trimestre no SIA e SIGAA - EMI Anual
+Data/período: 22 SEX
+Descrição: Início do 2º trimestre - EMI Anual
 
-- Último dia para solicitação de trancamento total de matrícula
-- Dia da Visibilidade Lésbica
-- Sábado Letivo - Todos os cursos (horário de terça-feira)
-22 dias letivos - Todos os cursos
-- Independência do Brasil (feriado nacional)
-Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Anuais
-- Término do 2º trimestre - EMI Anual : 67 dias letivos
-- Prazo final para registro de notas do 2º trimestre no SIA e SIGAA - EMI Anual
-- Início do 3º trimestre - EMI Anual
-- Conselhos de Classe dos Cursos EMI anuais (períodos de aula reduzidos - manhã e tarde)
-Observações
-Observações
+Data/período: 22 SEX
+Descrição: Prazo final para preenchimento dos pareceres nos PEIs
+Data/período: 25/05 a 02/06
+Descrição: Conselhos de Classe dos Cursos EMI anuais (períodos de aula reduzidos - manhã e tarde)
+Data/período: 30 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de segunda-feira)
+Data/período: 30
+Descrição: 22 dias letivos - Todos os cursos
+Junho
+Data/período: 04 QUI
+Descrição: Entrega do Requerimento de Diplomação - Formandos 2026/1
+Data/período: 04 QUI
+Descrição: Corpus Christi (feriado nacional)
+Data/período: 05 SEX
+Descrição: Dia não letivo
+Data/período: 08 SEG
+Descrição: Publicação do Edital de Transferência e de Ingresso Diplomado 2026/2
+Data/período: 13 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de sexta-feira)
+Data/período: 13 SAB
+Descrição: Reunião com as famílias e estudantes para entrega de boletins e pareceres dos Cursos EMI anuais (Lazer,
+Informática e Eletrônica)
+Data/período: 15 SEG
+Descrição: Entrega dos Relatórios de Estágio Obrigatório
+Data/período: 15 SEG
+Descrição: Último dia para trancamento de componente curricular (disciplina)
+Data/período: 15 SEG
+Descrição: Prazo final para entrega das atividades complementares dos/as prováveis formandos/as 2026/1
+Data/período: 23 TER
+Descrição: Término do 1º semestre - Último dia letivo do Curso Guia de Turismo
+Data/período: 23 TER
+Descrição: Prazo final para registro das notas do semestre no SIA e SIGAA: Curso Subsequente - Guia de Turismo
+Data/período: 24 a 30
+Descrição: Exames do Curso Subsequente - Guia de Turismo
+Data/período: 24 QUA
+Descrição: Dia de São João
+Data/período: 27 SAB
+Descrição: Sábado Letivo - Todos os cursos, exceto Guia de Turismo (horário de terça-feira)
+Data/período: 28 DOM
+Descrição: Dia do Orgulho LGBTQIAPN+
+Data/período: 30
+Descrição: 23 dias letivos - Todos os cursos
+Julho
+Data/período: 01 QUA
+Descrição: Reunião de Colegiado do Curso Técnico em Guia de Turismo
 
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-20 DOM
-21 SEG
-23 QUA
-25 SEX
-26 SAB
-26 SAB
-26 SAB
-27 DOM
-01 a 31
-05 a 09
-10 SAB
-10 SAB
-12 SEG
-14 e 16
-15 QUI
-19 a 23
-24 SAB
-26 a 30
-28 QUA
-30 SEX -
-01 a 30
-02 a 13
-02 SEG
-06 SEX
-13 SEX -
-13 SEX
-14 SAB -
-15 DOM
-16 a 27
-20 SEX
-30 SEG
-30 SEG
-01 a 07
-08 TER
-08 TER
-09 QUA
-09 QUA
-10 QUI
-10 a 16
-04 SEX
-- Dia do gaúcho (feriado estadual)
-- Dia Nacional de Luta da Pessoa com Deficiência
-- Dia da Visibilidade Bissexual
-- Setembro Surdo intercampi
-- Dia Nacional do Surdo
-- Sábado Letivo - todos os cursos (horário de quarta-feira).
-- Reunião com as Famílias e estudantes para entrega de boletins dos Cursos de EMI Anual.
-- Dia mundial do Turismo
-22 dias letivos - Todos os cursos
-- Outubro rosa
-- Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos Técnicos em Agroecologia e
-Comércio Integrados ao Ensino Médio - EJA-EPT
-- Dia Nacional de Luta contra a Violência à Mulher
-- Sábado Letivo - Cursos semestrais (horário de segunda-feira).
-- Nossa Senhora Aparecida (feriado nacional)
-- Mostra Científica do
-Restinga
-- Dia do/a Professor/a.
-- Conselhos de Classe de acompanhamento dos Cursos EMI-EJA e
-Concomitante/Subsequente em Informática
-- Sábado Letivo - todos os cursos (horário de sexta-feira).
-- Semana Cultural Interescolar (Lei 14.988/2024)
-- Dia do/a Servidor/a Público/a (feriado)
-Publicação do Edital de Transferência e de Ingresso Diplomado 2026/1
-21 dias letivos - Cursos Semestrais
-22 dias letivos - Todos os cursos
-- Novembro azul
-- Entrega do Requerimento de Diplomação - Formandos 2026/2
-- Dia de Finados (feriado nacional)
-- Prazo final para entrega das atividades complementares dos/as prováveis formandos/as
-2026/2
-Entrega dos Relatórios de Estágio Obrigatório
-- Último dia para trancamento de componente curricular (disciplina)
-Sábado Letivo - Todos os cursos (horário de segunda-feira).
-- Proclamação da República (feriado nacional)
-- Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos EMI Anual.
-- Dia da Consciência Negra (feriado nacional)
-- Término do 2º semestre - Último dia letivo do Curso Guia de Turismo
-- Prazo final para registro de notas do semestre no SIA e SIGAA do Curso Técnico em Guia de
-Turismo
-21 dias letivos - Todos os cursos
-- Exames do Curso Técnico em Guia de Turismo
-- Reunião de Colegiado do Curso Técnico em Guia de Turismo
-- Início do Recesso Escolar - Curso Técnico em Guia de Turismo
-- Término do 3º trimestre - EMI Anual: 66 dias letivos
-- Prazo final para registro de notas do 3º trimestre no SIA e SIGAA: EMI Anual
-- Dia Internacional dos Direitos Humanos
-- Exames do EMI Anual
-- Término do semestre 2026/2 (ingresso em 2025) da Especialização em Manufatura
-Outubro | 2026
-Novembro | 2026
-Dezembro | 2026
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-Observações
-Observações
-Observações
-Campus
+Data/período: 01 a 24
+Descrição: Recesso do Curso de Guia de Turismo
+Data/período: 03 SEX
+Descrição: Último dia letivo dos cursos semestrais, exceto Guia de Turismo
+Data/período: 03 SEX
+Descrição: Término do semestre 2025/1 (ingresso em 2025) da Especialização em Manufatura Avançada
+Data/período: 06 a 08
+Descrição: Exames dos Cursos de EMI-EJA, Superiores e Técnico em Informática (Subsequente/Concomitante)
+Data/período: 08 QUA
+Descrição: Prazo final para o registro de notas e exames do 1º semestre no SIA e no SIGAA, bem como para a entrega
+dos diários de classe na CRE e dos documentos dos PEIs, devidamente preenchidos, referentes aos cursos EMI-EJA,
+Superiores, Subsequentes e Concomitantes
+Data/período: 09 e 10
+Descrição: Conselhos de Classe Cursos EMI-EJA e Técnico em Informática (Subsequente/Concomitante)
+Data/período: 13 a 24
+Descrição: Recesso Escolar - Todos os Cursos, exceto Guia de Turismo
+Data/período: 13 a 24
+Descrição: Período prioritário para agendamento de férias docentes (12 dias)
+Data/período: 15 a 22
+Descrição: Rematrícula online 2026/2 - Cursos Semestrais
+Data/período: 20 a 24
+Descrição: Período para a rematrícula na Especialização em Manufatura Avançada
+Data/período: 23 QUI
+Descrição: Homologação online das rematrículas pelas coordenações de curso
+Data/período: 24 SEX
+Descrição: Processamento de Matrícula
+Data/período: 25 SAB
+Descrição: Dia da Mulher Negra (instituído pela Lei 12.987/2014)
+Data/período: 27 e 28
+Descrição: Formação Pedagógica e Planejamento
+Data/período: 29/07 a 09/08
+Descrição: Inscrições para o Auxílio Estudantil - Etapas 3 e 4
+Data/período: 29/07 a 07/08
+Descrição: Solicitações de quebra de pré-requisito via formulário online
+Data/período: 29 QUA
+Descrição: Início das aulas do 2º semestre - Todos os Cursos
+Data/período: 29
+Descrição: 0 dias letivos - Guia de Turismo
+Data/período: 29
+Descrição: 11 dias letivos - Todos os cursos, exceto Guia de Turismo
+Agosto
+Data/período: 03 a 05
+Descrição: Ajuste de matrículas 2026/2 - SIA e SIGAA - Cursos Semestrais
+Data/período: 03 SEG
+Descrição: Início do semestre 2026/2 (ingresso em 2025) da Especialização em Manufatura Avançada
 
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-13 DOM
-14 SEG
-14 SEG
-15 a 18
-17 a 22
-17 QUI -
-21 e 22 -
-23 TER
-23 TER
-23 TER
-25 SEX
-28 e 29
-04 SEG
-Período Letivo: 19/02/2026 a 03/07/2026
-Período Letivo: 29/07/2026 a 14/12/2026
-Matrícula Online: 26/01/2026 a 04/02/2026
-Matrícula Online: 15/07/2026 a 22/07/2026
-Homologação Matrícula: 05/02/2026
-Homologação Matrícula: 23/07/2026
-Processamento Matrícula: 06/02/2026
-Processamento Matrícula: 24/07/2026
-Ajustes de Matrícula: 23/02/2026 a 25/02/2026
-Ajustes de Matrícula: 03/08/2026 a 05/08/2026
-Homologação dos Ajustes: 26/02/2026
-Homologação dos Ajustes: 06/08/2026
-Processamento dos Ajustes: 27/02/2026
-Processamento dos Ajustes: 07/08/2026
-Período Letivo: 19/02/2026 a 23/06/2026
-Período Letivo: 29/07/2026 a 30/11/2026
-Matrícula Online: 26/01/2026 a 04/02/2026
-Matrícula Online: 15/07/2026 a 22/07/2026
-Homologação Matrícula: 05/02/2026
-Homologação Matrícula: 23/07/2026
-Processamento Matrícula: 06/02/2026
-Processamento Matrícula: 24/07/2026
-Ajustes de Matrícula: 23/02/2025 a 25/02/2026
-Ajustes de Matrícula: 03/08/2026 a 05/08/2026
-Homologação dos Ajustes: 26/02/2026
-Homologação dos Ajustes: 06/08/2026
-Processamento dos Ajustes: 27/02/2026
-Processamento dos Ajustes: 07/08/2026
-- Dia Nacional do Cego
-- Término do 2º semestre - Último dia letivo dos cursos semestrais, exceto Guia de Turismo
-- Prazo final para registro de notas dos cursos semestrais, exceto Guia de Turismo
-- Exames de EMI-EJA e Subsequente/Concomitante de Informática/Superiores
-- Conselhos de Classe Finais do EMI Anual
-Início do Recesso Escolar - EMI Anual e Cursos Superiores e Subsequentes (Semestrais)
-Conselhos de Classe dos Cursos de EMI-EJA e Subsequente/Concomitante de Informática
-- Prazo final para o registro de notas e exames do 1º semestre no SIA e no SIGAA, bem como
-para a entrega dos diários de classe na CRE e dos documentos dos PEIS, devidamente preenchidos,
-referentes aos cursos EMI-EJA, Superiores, Subsequentes e Concomitantes.
-- Início do Recesso Escolar - Cursos de EMI-EJA
-- Entrega de boletins dos Cursos de EMI Anual
-- Natal (feriado nacional).
-- Colegiados dos Cursos Superiores e Subsequentes (Semestrais)
-0 dias letivos - Guia de Turismo.
-7 dias letivos - EMI Anual
-10 dias letivos - Demais cursos
-- Início do período preferencial para agendamento de férias docente
-1º semestre
-2º semestre
-1º semestre
-2º semestre
-Janeiro | 2027
-DOM
-SEG
-TER
-QUA
-QUI
-SEX
-SÁB
-Observações
-Destaques Importantes
-Quadro Resumo
-Semana Pedagógica
-Feriados e dias não letivos
-Prazo final para registro de notas e
-entrega de documentos
-Dias Letivos
-Recesso Escolar/Férias
-Exames
-Conselhos de Classe
-Fim de etapa
-Nível: Graduação
-Nível: Técnico - Cursos Semestrais - Guia de Turismo 18 Semanas
+Data/período: 05 a 07
+Descrição: Homologação das solicitações de quebra de pré-requisito
+Data/período: 06 QUI
+Descrição: Homologação online das rematrículas pelas coordenações de curso
+Data/período: 07 SEX
+Descrição: Processamento dos ajustes de matrícula
+Data/período: 09 DOM
+Descrição: Dia Internacional dos Povos Indígenas
+Data/período: 10 a 14
+Descrição: Reuniões de Colegiado de Curso
+Data/período: 10 a 14
+Descrição: Escolha dos/as Representantes de Turma e de Professores/as Conselheiros/as dos cursos Técnicos em
+Agroecologia e Comércio Integrados ao Ensino Médio - EJA-EPT
+Data/período: 11 TER
+Descrição: Prazo Final para entrega dos Planos de Ensino e Planos de Estudos Dirigidos - Progressão Parcial
+Data/período: 14 SEX
+Descrição: Último dia para publicação do Plano de Trabalho Docente
+Data/período: 15 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de segunda-feira)
+Data/período: 17 a 21
+Descrição: Reuniões dos Colegiados de Acompanhamento dos PEIS dos Cursos Semestrais
+Data/período: 24 SEG
+Descrição: Publicação do Edital de Aproveitamento de Estudos e de Certificação de Conhecimentos - 2026/2
+Data/período: 24/08 a 04/09
+Descrição: Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos EMI Anual
+Data/período: 27 e 28
+Descrição: Solenidades de Formatura
+Data/período: 28 SEX
+Descrição: Último dia para solicitação de trancamento total de matrícula
+Data/período: 29 SAB
+Descrição: Dia da Visibilidade Lésbica
+Data/período: 29 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de terça-feira)
+Data/período: 29
+Descrição: 22 dias letivos - Todos os cursos
+Setembro
+Data/período: 07 SEG
+Descrição: Independência do Brasil (feriado nacional)
+Data/período: 08 a 14
+Descrição: Reuniões dos Colegiados de Acompanhamento dos PEIs dos Cursos Anuais
+Data/período: 09 QUA
+Descrição: Término do 2º trimestre - EMI Anual: 67 dias letivos
+Data/período: 09 QUA
+Descrição: Prazo final para registro de notas do 2º trimestre no SIA e SIGAA - EMI Anual
+Data/período: 09 QUA
+Descrição: Início do 3º trimestre - EMI Anual
 
-Calendário Acadêmico 2026 IFRS - Campus Restinga
-Rua Alberto Hoffmann, 285 – Restinga – Porto Alegre/RS
-Nível: Técnico - Cursos Semestrais 20 Semanas
-Nível: Integrado
+Data/período: 15 a 23
+Descrição: Conselhos de Classe dos Cursos EMI anuais (períodos de aula reduzidos - manhã e tarde)
+Data/período: 20 DOM
+Descrição: Dia do gaúcho (feriado estadual)
+Data/período: 21 SEG
+Descrição: Dia Nacional de Luta da Pessoa com Deficiência
+Data/período: 23 QUA
+Descrição: Dia da Visibilidade Bissexual
+Data/período: 25 SEX
+Descrição: Setembro Surdo intercampi
+Data/período: 26 SAB
+Descrição: Dia Nacional do Surdo
+Data/período: 26 SAB
+Descrição: Sábado Letivo - todos os cursos (horário de quarta-feira)
+Data/período: 26 SAB
+Descrição: Reunião com as Famílias e estudantes para entrega de boletins dos Cursos de EMI Anual
+Data/período: 27 DOM
+Descrição: Dia mundial do Turismo
+Data/período: 30
+Descrição: 22 dias letivos - Todos os cursos
+Outubro
+Data/período: 01 a 31
+Descrição: Outubro rosa
+Data/período: 05 a 09
+Descrição: Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos Técnicos em Agroecologia e Comércio
+Integrados ao Ensino Médio - EJA-EPT
+Data/período: 10 SAB
+Descrição: Dia Nacional de Luta contra a Violência à Mulher
+Data/período: 10 SAB
+Descrição: Sábado Letivo - Cursos semestrais (horário de segunda-feira)
+Data/período: 12 SEG
+Descrição: Nossa Senhora Aparecida (feriado nacional)
+Data/período: 14 e 16
+Descrição: Mostra Científica do Restinga
+Data/período: 15 QUI
+Descrição: Dia do/a Professor/a
+Data/período: 19 a 23
+Descrição: Conselhos de Classe de acompanhamento dos Cursos EMI-EJA e Concomitante/Subsequente em Informática
+Data/período: 24 SAB
+Descrição: Sábado Letivo - todos os cursos (horário de sexta-feira)
+Data/período: 26 a 30
+Descrição: Semana Cultural Interescolar (Lei 14.988/2024)
+Data/período: 28 QUA
+Descrição: Dia do/a Servidor/a Público/a (feriado)
+Data/período: 30 SEX
+Descrição: Publicação do Edital de Transferência e de Ingresso Diplomado 2026/1
+
+Data/período: 30
+Descrição: 21 dias letivos - Cursos Semestrais
+Data/período: 30
+Descrição: 22 dias letivos - Todos os cursos
+Novembro
+Data/período: 01 a 30
+Descrição: Novembro azul
+Data/período: 02 a 13
+Descrição: Entrega do Requerimento de Diplomação - Formandos 2026/2
+Data/período: 02 SEG
+Descrição: Dia de Finados (feriado nacional)
+Data/período: 06 SEX
+Descrição: Prazo final para entrega das atividades complementares dos/as prováveis formandos/as 2026/2
+Data/período: 13 SEX
+Descrição: Entrega dos Relatórios de Estágio Obrigatório
+Data/período: 13 SEX
+Descrição: Último dia para trancamento de componente curricular (disciplina)
+Data/período: 14 SAB
+Descrição: Sábado Letivo - Todos os cursos (horário de segunda-feira)
+Data/período: 15 DOM
+Descrição: Proclamação da República (feriado nacional)
+Data/período: 16 a 27
+Descrição: Pré-Conselhos de Classe: Avaliações das Turmas dos Cursos EMI Anual
+Data/período: 20 SEX
+Descrição: Dia da Consciência Negra (feriado nacional)
+Data/período: 30 SEG
+Descrição: Término do 2º semestre - Último dia letivo do Curso Guia de Turismo
+Data/período: 30 SEG
+Descrição: Prazo final para registro de notas do semestre no SIA e SIGAA do Curso Técnico em Guia de Turismo
+Data/período: 30
+Descrição: 21 dias letivos - Todos os cursos
+Dezembro
+Data/período: 01 a 07
+Descrição: Exames do Curso Técnico em Guia de Turismo
+Data/período: 04 SEX
+Descrição: Término do semestre 2026/2 (ingresso em 2025) da Especialização em Manufatura
+Data/período: 08 TER
+Descrição: Reunião de Colegiado do Curso Técnico em Guia de Turismo
+Data/período: 08 TER
+Descrição: Início do Recesso Escolar - Curso Técnico em Guia de Turismo
+Data/período: 09 QUA
+Descrição: Término do 3º trimestre - EMI Anual: 66 dias letivos
+Data/período: 09 QUA
+Descrição: Prazo final para registro de notas do 3º trimestre no SIA e SIGAA: EMI Anual
+
+Data/período: 10 QUI
+Descrição: Dia Internacional dos Direitos Humanos
+Data/período: 10 a 16
+Descrição: Exames do EMI Anual
+Data/período: 13 DOM
+Descrição: Dia Nacional do Cego
+Data/período: 14 SEG
+Descrição: Término do 2º semestre - Último dia letivo dos cursos semestrais, exceto Guia de Turismo
+Data/período: 14 SEG
+Descrição: Prazo final para registro de notas dos cursos semestrais, exceto Guia de Turismo
+Data/período: 15 a 18
+Descrição: Exames de EMI-EJA e Subsequente/Concomitante de Informática/Superiores
+Data/período: 17 a 22
+Descrição: Conselhos de Classe Finais do EMI Anual
+Data/período: 17 QUI
+Descrição: Início do Recesso Escolar - EMI Anual e Cursos Superiores e Subsequentes (Semestrais)
+Data/período: 21 e 22
+Descrição: Conselhos de Classe dos Cursos de EMI-EJA e Subsequente/Concomitante de Informática
+Data/período: 23 TER
+Descrição: Prazo final para o registro de notas e exames do 1º semestre no SIA e no SIGAA, bem como para a entrega
+dos diários de classe na CRE e dos documentos dos PEIs, devidamente preenchidos, referentes aos cursos EMI-EJA,
+Superiores, Subsequentes e Concomitantes
+Data/período: 23 TER
+Descrição: Início do Recesso Escolar - Cursos de EMI-EJA
+Data/período: 23 TER
+Descrição: Entrega de boletins dos Cursos EMI Anual
+Data/período: 25 SEX
+Descrição: Natal (feriado nacional)
+Data/período: 28 e 29
+Descrição: Colegiados dos Cursos Superiores e Subsequentes (Semestrais)
+Janeiro 2027
+Data/período: 04 SEG
+Descrição: Início do período preferencial para agendamento de férias docente
+Quadro-resumo — dados gerais do documento
+Graduação — 1º semestre: período letivo de 19/02/2026 a 03/07/2026; matrícula online de 26/01/2026 a 04/02/2026;
+homologação em 05/02/2026; processamento em 06/02/2026; ajustes de 23/02/2026 a 25/02/2026; homologação dos
+ajustes em 26/02/2026; processamento dos ajustes em 27/02/2026.
+Graduação — 2º semestre: período letivo de 29/07/2026 a 14/12/2026; matrícula online de 15/07/2026 a 22/07/2026;
+homologação em 23/07/2026; processamento em 24/07/2026; ajustes de 03/08/2026 a 05/08/2026; homologação dos
+ajustes em 06/08/2026; processamento dos ajustes em 07/08/2026.
+Técnico — Cursos Semestrais — Guia de Turismo: 1º semestre de 19/02/2026 a 23/06/2026; 2º semestre de 29/07/2026 a
+30/11/2026. Os períodos de matrícula, homologação, processamento e ajustes aparecem no quadro do documento.
+Técnico — Cursos Semestrais 20 Semanas: 1º semestre de 19/02/2026 a 03/07/2026; 2º semestre de 29/07/2026 a
+14/12/2026. Os períodos de matrícula, homologação, processamento e ajustes aparecem no quadro do documento.
+
+Integrado: período letivo de 19/02/2026 a 09/12/2026; 1º trimestre de 19/02/2026 a 22/05/2026; 2º trimestre de 23/05/2026
+a 09/09/2026; 3º trimestre de 10/09/2026 a 09/12/2026; recesso de 13/07/2026 a 24/07/2026.
 Feriados e dias não letivos do campus
-1º semestre
-2º semestre
-02/02/2026 Nossa Senhora dos Navegantes (feriado municipal).
-16/03/2026 Dia não letivo (Carnaval)
-17/03/2026 Carnaval (feriado nacional).
-03/04/2026 Sexta-feira Santa (feriado nacional).
-20/04/2026 Dia não letivo
-21/04/2026 Tiradentes (feriado nacional)
-01/05/2026 Dia do Trabalhador e Trabalhadora (feriado nacional).
-04/06/2026 Corpus Christi
-05/06/2025 Dia não letivo
-07/09/2026 Independência do Brasil (feriado nacional).
-20/09/2026 Dia do gaúcho (feriado estadual).
-12/10/2026 Nossa Senhora Aparecida (feriado nacional).
-28/10/2026 Dia do/a Servidor/a Público/a
-02/11/2026 Finados (feriado nacional).
-15/11/2026 Proclamação da República (feriado nacional).
-20/11/2026 Dia da Consciência Negra
-25/12/2026 Natal (feriado nacional)
-Período Letivo: 19/02/2026 a 03/07/2026
-Período Letivo: 29/07/2026 a 14/12/2026
-Matrícula Online: 26/01/2026 a 04/02/2026
-Matrícula Online: 15/07/2026 a 22/07/2026
-Homologação Matrícula: 05/02/2026
-Homologação Matrícula: 23/07/2026
-Processamento Matrícula: 06/02/2026
-Processamento Matrícula: 24/07/2026
-Ajustes de Matrícula: 23/02/2026 a 25/02/2026
-Ajustes de Matrícula: 03/08/2026 a 05/08/2026
-Homologação dos Ajustes: 26/02/2026
-Homologação dos Ajustes: 06/08/2026
-Processamento dos Ajustes: 27/02/2026
-Processamento dos Ajustes: 07/08/2026
-Período Letivo: 19/02/2026 a 09/12/2026
-1º trimestre: 19/06/2026 a 22/05/2026
-2º trimestre: 23/05/2026 a 09/09/2026
-3º trimestre: 10/09/2026 a 09/12/2026
-Recesso: 13/07/2026 a 24/07/2026
-Data
-Descrição
+Data: 02/02/2026
+Descrição: Nossa Senhora dos Navegantes (feriado municipal).
+Data: 16/03/2026
+Descrição: Dia não letivo (Carnaval).
+Data: 17/03/2026
+Descrição: Carnaval (feriado nacional).
+Data: 03/04/2026
+Descrição: Sexta-feira Santa (feriado nacional).
+Data: 20/04/2026
+Descrição: Dia não letivo.
+Data: 21/04/2026
+Descrição: Tiradentes (feriado nacional).
+Data: 01/05/2026
+Descrição: Dia do Trabalhador e Trabalhadora (feriado nacional).
+Data: 04/06/2026
+Descrição: Corpus Christi.
+Data: 05/06/2025
+Descrição: Dia não letivo.
+Data: 07/09/2026
+Descrição: Independência do Brasil (feriado nacional).
+Data: 20/09/2026
+Descrição: Dia do gaúcho (feriado estadual).
+Data: 12/10/2026
+Descrição: Nossa Senhora Aparecida (feriado nacional).
+Data: 28/10/2026
+Descrição: Dia do/a Servidor/a Público/a.
+Data: 02/11/2026
+Descrição: Finados (feriado nacional).
+Data: 15/11/2026
+Descrição: Proclamação da República (feriado nacional).
+Data: 20/11/2026
+Descrição: Dia da Consciência Negra.
+Data: 25/12/2026
+Descrição: Natal (feriado nacional).
+Observação: a estrutura foi feita com base no documento enviado. Quando uma data aparece de forma potencialmente inconsistente na
+fonte, ela foi preservada em vez de corrigida.

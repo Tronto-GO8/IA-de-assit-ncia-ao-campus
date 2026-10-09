@@ -1,37 +1,16 @@
-AUTO CADASTRO PARA ALUNOS
-TUTORIAL SIGAA
-
-SOBRE
-Etapas
-Para realizar o cadastro será necessário que o aluno esteja matriculado na Instituição.
-Logo, siga os seguintes passos:
-1. Acessar: http://sig.ifrs.edu.br/sigaa/verTelaLogin.do
-2. Clicar no ícone Cadastre-se.
-3. Preencher os campos com os seus dados.
-4. Finalizar o cadastro clicando em Cadastrar.
-
-SOBRE
-1. Acessar:
-http://sig.ifrs.edu.br/sigaa/verTelaLogin.do
-2. Clicar no ícone
-Cadastre-se.
-
-SOBRE
-3. Preencha os campos:
-Matrícula: Informe o número de sua
-matrícula.
-Nível: Selecione o nível do curso que
-você está cursando.
-CPF/Login: Informe o número do seu
-CPF.
-Nome Completo: Informe o seu
-nome completo.
-Data de Nascimento: Informe sua
-data de nascimento.
-E-mail: Informe seu e-mail.
-Ano/Semestre Inicial: Informe o ano
-e semestre de ingresso.
-Senha: Informe uma senha.
-Conﬁrmar Senha: Conﬁrme a senha
-informada anteriormente.
-4. Para ﬁnalizar clicar em Cadastrar.
+AUTOCADASTRO PARA ALUNOS
+Tutorial SIGAA
+Pré-requisito
+É necessário que o aluno esteja matriculado na Instituição.
+1. Acessar o SIGAA
+Acesse http://sig.ifrs.edu.br/sigaa/verTelaLogin.do.
+2. Clicar em Cadastre-se
+Na área destinada a Aluno, clique em Cadastre-se.
+3. Preencher o cadastro
+Preencha Matrícula, Nível, CPF/Login, Nome Completo, Data de Nascimento, E-mail, Ano/Semestre
+Inicial, Senha e Confirmar Senha. O cadastro será validado com os dados informados no processo seletivo.
+Os campos marcados com * são obrigatórios.
+4. Finalizar
+Clique em Cadastrar.
+Resumo: estar matriculado → SIGAA → Cadastre-se → preencher dados → Cadastrar.
+Versão otimizada para banco RAG, sem tabelas e sem elementos de apresentação desnecessários.

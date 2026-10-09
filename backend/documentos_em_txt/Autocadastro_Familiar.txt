@@ -1,15 +1,19 @@
 AUTOCADASTRO FAMILIAR
-TUTORIAL SIGAA
-
-SOBRE
-Etapas
-Para realizar o autocadastro Familiar é necessário que o familiar esteja registrado como
-responsável de um aluno no SIGAA.
-Logo, siga os seguintes passos:
-1. Acessar o link: http://sig.ifrs.edu.br/sigaa
+Tutorial SIGAA
+Pré-requisito
+O familiar deve estar registrado como responsável de um aluno no SIGAA.
+1. Acessar o SIGAA
+Acesse http://sig.ifrs.edu.br/sigaa.
 2. Clicar em Cadastre-se
-
-3. Preencher os dados solicitados
-4. Após clicar em Cadastrar
-
-5. Conﬁrmação do Cadastro
+Na área Familiares, clique em Cadastre-se.
+3. Preencher os dados
+Preencha os dados do aluno: matrícula, nível, nome, CPF, data de nascimento e ano inicial.
+Preencha os dados do familiar responsável: nome, CPF/Login, data de nascimento e grau de parentesco.
+Preencha os dados do novo usuário: e-mail, senha e confirmação da senha.
+4. Cadastrar
+Clique em Cadastrar.
+5. Confirmação
+Ao concluir com sucesso, o sistema exibirá “Usuário Cadastrado com Sucesso”.
+Resumo: estar registrado como responsável → SIGAA → Cadastre-se → preencher dados → Cadastrar →
+confirmação.
+Versão otimizada para banco RAG, sem tabelas e sem elementos de apresentação desnecessários.

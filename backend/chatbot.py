@@ -133,27 +133,34 @@ def responder(pergunta, historico=None):
     )
 
 
-    # ==========================================
-    # FONTES
-    # ==========================================
+# ==========================================
+# FONTES
+# ==========================================
 
     fontes = []
     fontes_vistas = set()
 
     for item in chunks:
 
-        arquivo = item.get("arquivo", "")
+        arquivo_txt = item.get("arquivo", "")
         titulo = item.get("titulo", "")
 
-        if not arquivo or arquivo in fontes_vistas:
+        if not arquivo_txt:
             continue
 
-        fontes_vistas.add(arquivo)
+        # Troca a extensão .txt por .pdf
+        arquivo_pdf = os.path.splitext(arquivo_txt)[0] + ".pdf"
+
+        if arquivo_pdf in fontes_vistas:
+            continue
+
+        fontes_vistas.add(arquivo_pdf)
 
         fontes.append({
-            "arquivo": arquivo,
+            "arquivo": arquivo_pdf,
             "titulo": titulo
         })
+
 
 
     # ==========================================

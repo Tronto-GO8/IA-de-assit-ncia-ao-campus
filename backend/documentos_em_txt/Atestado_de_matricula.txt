@@ -1,14 +1,14 @@
-ATESTADO DE MATRÍCULA PARA ALUNOS
-TUTORIAL SIGAA
-
-SOBRE
+ATESTADO DE MATRÍCULA
+Tutorial SIGAA para alunos
 Etapas
-Para emitir o atestado de matrícula no Portal Discente.
-Logo, siga os seguintes passos:
-1. Acessar: http://sig.ifrs.edu.br/sigaa
-2. Informe o login e senha
-
-SOBRE
-3. Clicar em Portal Discente
-
-4. Clicar em Emitir Atestado de Matrícula
+1. Acessar o SIGAA
+Acesse: http://sig.ifrs.edu.br/sigaa.
+2. Informar login e senha
+Selecione SIGAA (Acadêmico) — Portal Público. Informe usuário e senha e clique em Entrar. A senha
+diferencia letras maiúsculas e minúsculas.
+3. Acessar o Portal do Discente
+Na área Portais, clique em Portal do Discente.
+4. Emitir o Atestado de Matrícula
+Acesse o menu Ensino e clique em Emitir Atestado de Matrícula.
+Resumo: SIGAA → Login → Portal do Discente → Ensino → Emitir Atestado de Matrícula.
+Versão otimizada para banco RAG, sem tabelas e sem elementos de apresentação desnecessários.

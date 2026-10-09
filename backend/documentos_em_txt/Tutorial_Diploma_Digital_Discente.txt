@@ -1,38 +1,34 @@
-ACESSO AO DIPLOMA DIGITAL PARA DISCENTES
-TUTORIAL SIGAA
-
-Neste tutorial, você aprenderá como emitir o seu Diploma Digital.
-Para isso, siga atentamente os passos descritos a seguir.
-1. Acesse o “Portal Discente”.
-
-2. Clique no Menu “Ensino”.
-3. Clique em “Impressão de Diploma Digital”.
-
-4. Clique no ícone “lupa” para visualizar os
-dados do seu Diploma Digital.
-
-SOBRE
-5. Clique no botão “Download PDF
-Diploma” para baixar o seu Diploma
+ACESSO AO DIPLOMA DIGITAL
+Tutorial SIGAA para Discentes
+Como emitir o Diploma Digital
+O tutorial orienta o discente sobre como emitir e baixar o Diploma Digital pelo SIGAA.
+1. Acessar o Portal Discente
+No SIGAA, acesse o Portal do Discente.
+2. Acessar o menu Ensino
+No Portal do Discente, clique no menu Ensino.
+3. Acessar Impressão de Diploma Digital
+No menu Ensino, clique em Impressão de Diploma Digital.
+4. Visualizar os dados do Diploma Digital
+Na tela Portal do Discente > Registros de Diplomas Digitais Emitidos pela Instituição, localize o diploma e
+clique no ícone de lupa para visualizar os dados do Diploma Digital.
+A tela de registro apresenta informações como matrícula, nome e número de registro do diploma.
+5. Baixar o Diploma Digital em PDF
+Na tela de visualização do Diploma Digital, clique no botão “Download PDF Diploma” para baixar o Diploma
 Digital em formato PDF.
-Observação: Se desejar baixar o seu diploma em
-formato XML, clique no botão “Download XML
-Assinado”. Este formato é usado para validação
-automática pelos sistemas do MEC e das
-Universidades.
-
-Importante!
-1) PDF do diploma digital: é a versão visual do diploma — igual a um diploma impresso, mas em formato
-eletrônico. Serve para você ver e mostrar o documento.
-2) XML do diploma digital: é a versão técnica, com todas as informações oﬁciais do diploma (como nome, curso,
-data e autenticação). Serve para validação automática pelos sistemas do MEC e das universidades.
-Resumindo: o PDF é a imagem do diploma para leitura humana, e o XML é o arquivo oﬁcial usado pelos sistemas
-para conﬁrmar a validade.
-
-Conteúdo:
-Crístian Gusberti
-Revisão:
-Mara Lisiane Sievert
-Cesar Germano Eltz
-Diagramação e editoração:
-Rafaela Jardim
+Na tela de dados do registro também podem aparecer informações como nome do aluno diplomado, CPF,
+código de verificação, data de conclusão no curso, identificação do número da expedição, data da
+expedição do diploma, identificação do número do registro e data do registro do diploma.
+6. Baixar o Diploma Digital em XML
+Se desejar baixar o diploma em formato XML, clique no botão “Download XML Assinado”.
+O XML é utilizado para validação automática pelos sistemas do MEC e das Universidades.
+Diferença entre PDF e XML
+PDF do Diploma Digital: é a versão visual do diploma, semelhante a um diploma impresso, mas em formato
+eletrônico. Serve para visualizar e apresentar o documento.
+XML do Diploma Digital: é a versão técnica, contendo as informações oficiais do diploma, como nome, curso,
+data e autenticação. Serve para validação automática pelos sistemas do MEC e das universidades.
+Resumo: o PDF é a versão do diploma destinada à leitura humana; o XML é o arquivo técnico utilizado pelos
+sistemas para confirmar a validade do diploma.
+Resumo: Portal do Discente → Ensino → Impressão de Diploma Digital → lupa para visualizar o registro →
+Download PDF Diploma ou Download XML Assinado.
+Versão otimizada para banco RAG: informações das imagens foram transcritas para texto e elementos de apresentação, créditos,
+repetições e conteúdos sem valor para consulta foram removidos. Não foram utilizadas tabelas.

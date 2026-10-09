@@ -1,14 +1,16 @@
 HISTÓRICO ESCOLAR PARA ALUNOS
-TUTORIAL SIGAA
-
-SOBRE
-Etapas
-Para emitir o histórico escolar no Portal Discente.
-Logo, siga os seguintes passos:
-1. Acessar: http://sig.ifrs.edu.br/sigaa
-2. Informe o login e senha
-
-SOBRE
-3. Clicar em Portal Discente
-
-4. Clicar em Emitir Histórico
+Tutorial SIGAA
+Como emitir o Histórico Escolar
+1. Acessar o SIGAA
+Acesse http://sig.ifrs.edu.br/sigaa.
+2. Informar login e senha
+Informe seu login e senha para entrar no SIGAA.
+Na tela apresentada no tutorial, o acesso é realizado pela opção SIGAA (Acadêmico) — Portal Público.
+3. Acessar o Portal Discente
+Após entrar no SIGAA, na área de Portais, clique em Portal do Discente.
+4. Emitir o Histórico
+No Portal do Discente, acesse o menu Ensino e clique em Emitir Histórico.
+Resumo do procedimento
+SIGAA → informar login e senha → Portal do Discente → Ensino → Emitir Histórico.
+Versão otimizada para banco RAG: o conteúdo textual presente nas imagens foi transcrito, mantendo os nomes dos menus e opções
+exibidos no tutorial. Foram removidos capa, elementos visuais de apresentação e créditos, sem utilizar tabelas.

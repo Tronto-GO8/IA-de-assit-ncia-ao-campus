@@ -354,7 +354,7 @@ def buscar_contexto(
     if not candidatos:
         return []
 
-    candidatos = candidatos[:5]
+    candidatos = candidatos[:7]
 
     # --------------------------------------------------------
     # 4. RERANKING

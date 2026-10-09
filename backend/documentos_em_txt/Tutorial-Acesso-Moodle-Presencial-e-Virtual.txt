@@ -1,74 +1,56 @@
-PRIMEIRO ACESSO AO MOODLE - PRESENCIAL E VIRTUAL
-1.
-Entendendo os ambientes Moodle do IFRS
-●
+PRIMEIRO ACESSO AO MOODLE
+Presencial e Virtual — IFRS
+1. Entendendo os ambientes Moodle do IFRS
 Moodle Presencial
 Ambiente utilizado pelos cursos regulares presenciais, inclusive aqueles com atividades mediadas por
-tecnologias.
-Integrado ao SIGAA (usuários e turmas vêm diretamente do sistema).
-É onde os professores dos cursos presenciais devem ofertar suas disciplinas.
-●
+tecnologias. É integrado ao SIGAA, de onde vêm os usuários e as turmas. É onde os professores dos cursos
+presenciais devem ofertar suas disciplinas.
 Moodle Virtual
-Ambiente exclusivo para os cursos regulares ofertados na modalidade a distância (EaD).
-Também integrado ao SIGAA.
-●
+Ambiente exclusivo para os cursos regulares ofertados na modalidade a distância (EaD). Também é
+integrado ao SIGAA.
 Moodle MOOCs
-Ambiente aberto para cursos massivos e auto formativos.
-
-2.
-Primeiro acesso ao Moodle
+Ambiente aberto para cursos massivos e autoformativos.
+2. Primeiro acesso ao Moodle
 2.1 Acessar o site institucional do Moodle
-Abra o navegador e digite:
-https://virtual.ifrs.edu.br/
-https://presencial.ifrs.edu.br/
-
+Abra o navegador e acesse um dos ambientes: https://virtual.ifrs.edu.br/ ou https://presencial.ifrs.edu.br/.
 2.2 Clicar no botão “Acessar”
 No canto superior direito, clique em Acessar para acessar o sistema de autenticação.
-
+Na tela de acesso do Moodle Presencial aparecem os campos Identificação de usuário e Senha, o botão
+Acessar e a opção Perdeu a senha?. A tela também pode apresentar a opção Acessar como visitante para
+alguns cursos.
 2.3 Login utilizando o CPF (integração com SIGAA)
-O Moodle Presencial utiliza o CPF como nome de usuário.
-Isso vale tanto para professores quanto para estudantes.
+O Moodle Presencial utiliza o CPF como nome de usuário. Isso vale tanto para professores quanto para
+estudantes.
 Digite o CPF sem pontos ou traços.
-No primeiro acesso, o professor ainda não terá senha cadastrada, pois ela não é importada do SIGAA —
+No primeiro acesso, o usuário ainda não terá senha cadastrada, pois a senha não é importada do SIGAA; ela
 é criada pelo próprio usuário no Moodle.
 2.4 Recuperar senha no primeiro acesso
-Como não existe senha inicial, é necessário clicar em:
-“Perdeu a Senha?”
-Esse procedimento serve tanto para o primeiro acesso quanto para redefinição futura.
-
+Como não existe senha inicial, clique em “Perdeu a Senha?”. Esse procedimento serve tanto para o primeiro
+acesso quanto para uma redefinição futura.
 2.5 Solicitar a redefinição de senha
-Informe novamente o CPF e clique em Enviar.
-O Moodle enviará um e-mail com o link para criação de senha.
-Atenção importante para professores:
-O e-mail é enviado para o endereço cadastrado no SIGAA. O Moodle não atualiza automaticamente
-se o professor ou aluno alterar seu e-mail no SIGAA. Isso é a causa mais frequente de dificuldades no
-primeiro acesso.
+Informe novamente o CPF e clique em Enviar. O Moodle enviará um e-mail com o link para criação da senha.
+Na tela de recuperação de senha, o sistema também apresenta as opções Buscar por identificação de
+usuário e Buscar pelo endereço de e-mail, com os respectivos campos e botões Buscar.
+Atenção: o e-mail é enviado para o endereço cadastrado no SIGAA. O Moodle não atualiza automaticamente o
+endereço de e-mail quando o usuário altera o e-mail no SIGAA. O tutorial aponta essa situação como uma
+causa frequente de dificuldades no primeiro acesso.
 2.6 Mensagem de confirmação
-O Moodle exibirá a mensagem padrão informando que, se o usuário existir, um e-mail foi enviado.
-Mesmo que o e-mail esteja incorreto, a mensagem aparece.
-Por isso, ao orientar estudantes, verifique:
-● se o e-mail deles no SIGAA está atualizado;
+O Moodle exibirá uma mensagem padrão informando que, se o usuário existir, um e-mail foi enviado. Essa
+mensagem pode aparecer mesmo quando o e-mail estiver incorreto.
 
-● se o e-mail não caiu no spam;
-
-● se há bloqueio do provedor.
+Verifique se o e-mail está atualizado no SIGAA, se a mensagem não caiu na pasta de spam e se existe algum
+bloqueio do provedor de e-mail.
 2.7 Acessar o e-mail e clicar no link enviado pelo Moodle
-
-O professor receberá um e-mail automático com um link de redefinição.
-Recomenda-se verificar:
-● Caixa de entrada
-
-● Spam
-
-● Promoções (no Gmail)
-
-Se o professor não tiver mais acesso ao e-mail cadastrado no SIGAA, deverá solicitar atualização à TI do
+O usuário receberá um e-mail automático com um link de redefinição. Verifique a caixa de entrada, a pasta de
+spam e, no Gmail, a pasta de promoções.
+Se o usuário não tiver mais acesso ao e-mail cadastrado no SIGAA, deverá solicitar a atualização à TI do
 campus.
 2.8 Criar a nova senha
-Ao clicar no link, será aberta a tela para definir a nova senha seguindo os critérios de segurança.
-Após cadastrar e confirmar a nova senha, o acesso estará liberado.
+Ao clicar no link recebido por e-mail, será aberta a tela para definir a nova senha seguindo os critérios de
+segurança. Após cadastrar e confirmar a nova senha, o acesso estará liberado.
 2.9 Acessar o Moodle normalmente a partir de agora
-Depois de definir a senha, basta retornar à página inicial e acessar com:
-● Usuário: CPF
-
-● Senha: a recém-criada
+Depois de definir a senha, retorne à página inicial e acesse utilizando Usuário: CPF e Senha: a recém-criada.
+Resumo: Moodle correto → site institucional → Acessar → CPF sem pontos ou traços → Perdeu a Senha? →
+solicitar redefinição → receber o link por e-mail → criar nova senha → acessar com CPF e nova senha.
+Versão otimizada para banco RAG: informações das imagens foram transcritas para texto e elementos de apresentação, créditos,
+repetições e conteúdos sem valor para consulta foram removidos. Não foram utilizadas tabelas.
