@@ -4,3 +4,5 @@ __pycache__/
 .env
 campus.db
 choma.sqlite3
+backend/campus.db
+backend/banco_vetorial/chroma.sqlite3

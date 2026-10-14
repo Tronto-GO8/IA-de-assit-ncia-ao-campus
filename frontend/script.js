@@ -420,7 +420,7 @@ function adicionarMensagem(
 
 
                     link.href =
-                        `/documentos/${encodeURIComponent(
+                        `documentos/${encodeURIComponent(
                             arquivo
                         )}`;
 
