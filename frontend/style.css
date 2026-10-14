@@ -22,35 +22,15 @@ body{
 
 }
 
-p{
-    color: #000000;
-}
-
-/* Aviso */
-.aviso {
-    color: #c62828;
-    font-size: 11px;
-    margin: 5px 0;
-    text-align: center;
-    opacity: 0.85;
-}
-
 .sugestao-btn{
     cursor:pointer;
-
-    border-radius: 10px;
-
-    border-color: #ffffff;
-
-    background-color: #ffffff;
-
+    
     display:flex;
 
     align-items:center;
 
     gap:10px;
 }
-
 
 /* Barra submenu */
 .submenu{
@@ -74,14 +54,13 @@ p{
 
 }
 
-/* gira a seta */
 .seta{
 
     transition:transform .6s;
 
 }
 
-
+/* gira a seta */
 
 .sugestao-btn.ativo .seta{
 
@@ -212,7 +191,7 @@ p{
     max-height: 1000px;
     line-height:1.8;
 
-    color: #ffffff;
+    color: #000000;
     margin-bottom:35px;
 
 }
@@ -231,7 +210,7 @@ p{
 
     padding-left:20px;
     
-    color: #ffffff;
+    color: #000000;
 }
 
 .mensagem-inicial li{
@@ -294,72 +273,70 @@ p{
 }
 
 
-
-/* DIGITANDO */
-
+/*digitando*/
 
 
-.digitando {
+.digitando{
 
-    display: none;
+    display:none;
 
-    margin-top: 15px;
+    margin-top:15px;
 
-    gap: 6px;
+    display:flex;
 
-    align-items: center;
+    gap:6px;
 
 }
 
-.digitando span {
+.digitando span{
 
-    width: 8px;
+    width:8px;
 
-    height: 8px;
+    height:8px;
 
-    border-radius: 50%;
+    border-radius:50%;
 
-    background: #00843d;
+    background:#00843d;
 
-    animation: piscar 1.2s infinite;
-
-}
-
-.digitando span:nth-child(2) {
-
-    animation-delay: .2s;
+    animation:piscar 1.2s infinite;
 
 }
 
-.digitando span:nth-child(3) {
+.digitando span:nth-child(2){
 
-    animation-delay: .4s;
+    animation-delay:.2s;
 
 }
 
-@keyframes piscar {
+.digitando span:nth-child(3){
 
-    0% {
+    animation-delay:.4s;
 
-        opacity: .3;
+}
 
-        transform: translateY(0);
+@keyframes piscar{
+
+    0%{
+
+        opacity:.3;
+
+        transform:translateY(0);
 
     }
 
-    50% {
+    50%{
 
-        opacity: 1;
+        opacity:1;
 
-        transform: translateY(-4px);
+        transform:translateY(-4px);
 
     }
 
-    100% {
+    100%{
 
-        opacity: .3;
+        opacity:.3;
 
-        transform: translateY(0);
+        transform:translateY(0);
 
     }
 
@@ -370,6 +347,7 @@ p{
  
 
 .entrada{
+
 
     padding:20px;
 
@@ -388,7 +366,6 @@ p{
 
 .entrada input{
 
-    
     flex:1;
 
     padding:16px 22px;
@@ -401,7 +378,7 @@ p{
 
     border-radius:30px;
 
-    font-size:15px;
+    font-size:16px;
 
     transition:.3s;
 
@@ -419,9 +396,9 @@ p{
 
 .entrada button{
 
-    width:50px;
+    width:55px;
 
-    height:50px;
+    height:55px;
 
     border:none;
 
@@ -437,13 +414,11 @@ p{
 
     transition:.3s;
 
-    text-align: center;
-
 }
 
 .entrada button:hover{
 
-    transform:scale(1.10);
+    transform:scale(1.05);
 
     background:#006b31;
 
@@ -455,35 +430,126 @@ p{
 
 }
 
-/* Parte das Fontes */
+.aviso {
+    color: #c62828;
+    font-size: 11px;
+    margin: 5px 0;
+    text-align: center;
+    opacity: 0.85;
+}
+
+/* FONTES DAS RESPOSTAS — estilos com maior legibilidade */
+.area-fontes {
+    margin-top: 14px;
+    width: 100%;
+    max-width: 520px;
+    color: #222222;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
 .botao-fontes {
     width: auto !important;
     height: auto !important;
-    padding: 7px 10px !important;
-    border: 1px solid #d9d9d9 !important;
+    max-width: 100%;
+    padding: 9px 13px !important;
+    border: 1px solid #b8c5bc !important;
     border-radius: 10px !important;
     background: #ffffff !important;
-    color: #333333 !important;
-    font-size: 13px !important;
+    color: #173b27 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    line-height: 1.4 !important;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    transition: background-color .2s, border-color .2s;
+}
+
+.botao-fontes:hover {
+    background: #f0f7f2 !important;
+    border-color: #00843d !important;
+    transform: none !important;
+}
+
+.botao-fontes span {
+    display: inline-block;
+    transition: transform .2s;
+}
+
+.botao-fontes.ativo span {
+    transform: rotate(180deg);
 }
 
 .lista-fontes {
     display: none;
-    margin-top: 8px;
-    padding: 8px;
+    margin-top: 9px;
+    padding: 10px;
     background: #ffffff;
-    border: 1px solid #e1e1e1;
+    border: 1px solid #cbd5ce;
     border-radius: 12px;
+    width: 100%;
+    max-width: 520px;
+    box-sizing: border-box;
+    color: #222222 !important;
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
 }
 
 .lista-fontes.ativo {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 9px;
 }
 
 .fonte {
-    padding: 9px 10px;
+    padding: 11px 12px;
+    border: 1px solid #e0e6e1;
     border-radius: 9px;
-    background: #f7f7f7;
+    background: #f8faf8;
+    color: #222222 !important;
+    overflow-wrap: anywhere;
+}
+
+.nome-fonte {
+    color: #202820 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    line-height: 1.5 !important;
+    margin-bottom: 9px;
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
+
+.acoes-fonte {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.acoes-fonte a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    padding: 6px 10px;
+    border: 1px solid #b7d5c1;
+    border-radius: 7px;
+    background: #ffffff;
+    color: #006b32 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 1.4 !important;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.acoes-fonte a:hover {
+    background: #eaf5ed;
+    border-color: #00843d;
 }
